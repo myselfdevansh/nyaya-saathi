@@ -1,0 +1,1628 @@
+[
+ {
+  "id": "24bd913c-f1e8-4354-bde1-9736b9299f21",
+  "uuid": "24bd913c-f1e8-4354-bde1-9736b9299f21",
+  "name": "Effect of conversion to another faith.",
+  "handle": "123456789/524442",
+  "metadata": {
+   "dc.date.accessioned": [
+    {
+     "value": "2026-07-10T22:23:40Z",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.date.act_year": [
+    {
+     "value": "1939",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_id": [
+    {
+     "value": "AC_CEN_3_20_00064_193908_1523352479755",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_name": [
+    {
+     "value": "The Dissolution of Muslim Marriages Act, 1939",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_number": [
+    {
+     "value": "8",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_repealed": [
+    {
+     "value": "false",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.collection": [
+    {
+     "value": "SECTION",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.department_id": [
+    {
+     "value": "20",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.department_name": [
+    {
+     "value": "Legislative Department",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.id": [
+    {
+     "value": "29822",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.ministry_id": [
+    {
+     "value": "3",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.ministry_name": [
+    {
+     "value": "Ministry of Law and Justice",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.order_number": [
+    {
+     "value": "4",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_from": [
+    {
+     "value": "0",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_number": [
+    {
+     "value": "3",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_to": [
+    {
+     "value": "0",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.repealed": [
+    {
+     "value": "false",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_id": [
+    {
+     "value": "29822",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_number": [
+    {
+     "value": "4",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_page_note": [
+    {
+     "value": "<span style=\"margin-left: 15px;\"></span>The renunciation of Islam by a married Muslim woman or her conversion to a faith other than Islam shall not by itself operate to dissolve her marriage :<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span> Provided that after such renunciation, or conversion, the woman shall be entitled to obtain a decree for the<span style=\"margin-left: 15px;\"></span> dissolution of her marriage on any of the grounds mentioned in section 2:<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span> Provided further that the provisions of this section shall not apply to a woman converted to Islam from some<span style=\"margin-left: 15px;\"></span> other faith who re-embraces her former faith.<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/>",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.state_id": [
+    {
+     "value": "1",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.state_name": [
+    {
+     "value": "CENTRAL",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.uri": [
+    {
+     "value": "http://test1.indiacode.nic.in/handle/123456789/524442",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.title": [
+    {
+     "value": "Effect of conversion to another faith.",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ]
+  },
+  "inArchive": true,
+  "discoverable": true,
+  "withdrawn": false,
+  "lastModified": "2026-07-10T22:23:40.184300Z",
+  "entityType": null,
+  "type": "item",
+  "_links": {
+   "accessStatus": {
+    "href": "https://indiacode.gov.in/server/api/core/items/24bd913c-f1e8-4354-bde1-9736b9299f21/accessStatus"
+   },
+   "bundles": {
+    "href": "https://indiacode.gov.in/server/api/core/items/24bd913c-f1e8-4354-bde1-9736b9299f21/bundles"
+   },
+   "identifiers": {
+    "href": "https://indiacode.gov.in/server/api/core/items/24bd913c-f1e8-4354-bde1-9736b9299f21/identifiers"
+   },
+   "mappedCollections": {
+    "href": "https://indiacode.gov.in/server/api/core/items/24bd913c-f1e8-4354-bde1-9736b9299f21/mappedCollections"
+   },
+   "owningCollection": {
+    "href": "https://indiacode.gov.in/server/api/core/items/24bd913c-f1e8-4354-bde1-9736b9299f21/owningCollection"
+   },
+   "relationships": {
+    "href": "https://indiacode.gov.in/server/api/core/items/24bd913c-f1e8-4354-bde1-9736b9299f21/relationships"
+   },
+   "version": {
+    "href": "https://indiacode.gov.in/server/api/core/items/24bd913c-f1e8-4354-bde1-9736b9299f21/version"
+   },
+   "templateItemOf": {
+    "href": "https://indiacode.gov.in/server/api/core/items/24bd913c-f1e8-4354-bde1-9736b9299f21/templateItemOf"
+   },
+   "thumbnail": {
+    "href": "https://indiacode.gov.in/server/api/core/items/24bd913c-f1e8-4354-bde1-9736b9299f21/thumbnail"
+   },
+   "submitter": {
+    "href": "https://indiacode.gov.in/server/api/core/items/24bd913c-f1e8-4354-bde1-9736b9299f21/submitter"
+   },
+   "self": {
+    "href": "https://indiacode.gov.in/server/api/core/items/24bd913c-f1e8-4354-bde1-9736b9299f21"
+   }
+  }
+ },
+ {
+  "id": "1a22c908-8e72-40a2-8f6b-403afd447f90",
+  "uuid": "1a22c908-8e72-40a2-8f6b-403afd447f90",
+  "name": "Short title and extent.",
+  "handle": "123456789/524438",
+  "metadata": {
+   "dc.date.accessioned": [
+    {
+     "value": "2026-07-10T22:23:39Z",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.date.act_year": [
+    {
+     "value": "1939",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_id": [
+    {
+     "value": "AC_CEN_3_20_00064_193908_1523352479755",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_name": [
+    {
+     "value": "The Dissolution of Muslim Marriages Act, 1939",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_number": [
+    {
+     "value": "8",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_repealed": [
+    {
+     "value": "false",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.collection": [
+    {
+     "value": "SECTION",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.department_id": [
+    {
+     "value": "20",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.department_name": [
+    {
+     "value": "Legislative Department",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.id": [
+    {
+     "value": "29817",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.ministry_id": [
+    {
+     "value": "3",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.ministry_name": [
+    {
+     "value": "Ministry of Law and Justice",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.next_section": [
+    {
+     "value": "2.Grounds for decree for dissolution of marriage 3. Notice to be served on heirs of the husband when the husband’s whereabouts are not known.",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.order_number": [
+    {
+     "value": "1",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_from": [
+    {
+     "value": "0",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_number": [
+    {
+     "value": "2",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_to": [
+    {
+     "value": "0",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.repealed": [
+    {
+     "value": "false",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_footnote": [
+    {
+     "value": "<sup>1</sup>. Subs by Act 48 of 1959, s. 3 and Sch. I, for certain words (w.e.f. 1-2-1960).<br/><hr style=\"border: none; margin-bottom: 3px; margin-top: 0;\"/> <hr style=\"border: none; margin-bottom: 3px; margin-top: 0;\"/> <sup>2</sup>. The words \"except the State of Jammu and Kashmir\" omitted by Act 34 of 2019, s. 95 and the Fifth Schedule (w.e.f. 31-10- 2019).<br/><hr style=\"border: none; margin-bottom: 3px; margin-top: 0;\"/> <sup>3</sup>. In its application to Pondicherry, in section 1, after sub-section (<i>2</i>), the following shall be inserted--<br/><hr style=\"border: none; margin-bottom: 3px; margin-top: 0;\"/> <hr style=\"border: none; margin-bottom: 3px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span>\"Provided that nothing contained in this Act shall apply to the Renoncants of the Union territory of Pondicherry.\" <i>Vide</i> (Act 26 of 1968).<br/><hr style=\"border: none; margin-bottom: 3px; margin-top: 0;\"/> <hr style=\"border: none; margin-bottom: 3px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span>The Act has been extended to Dadra and Nagar Haveli by Reg. 6 of 1963, s. 2 and Sch. I.<br/><hr style=\"border: none; margin-bottom: 3px; margin-top: 0;\"/> <hr style=\"border: none; margin-bottom: 3px; margin-top: 0;\"/><br/><hr style=\"border: none; margin-bottom: 3px; margin-top: 0;\"/>",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_id": [
+    {
+     "value": "29817",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_number": [
+    {
+     "value": "1",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_page_note": [
+    {
+     "value": "<span style=\"margin-left: 15px;\"></span>(1) This Act may be called the Dissolution of Muslim Marriages Act, 1939.<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span> (2) It extends to the whole of India <sup>1</sup>[<sup>2</sup>***]<sup>3</sup> . .<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/>",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.state_id": [
+    {
+     "value": "1",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.state_name": [
+    {
+     "value": "CENTRAL",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.uri": [
+    {
+     "value": "http://test1.indiacode.nic.in/handle/123456789/524438",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.title": [
+    {
+     "value": "Short title and extent.",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ]
+  },
+  "inArchive": true,
+  "discoverable": true,
+  "withdrawn": false,
+  "lastModified": "2026-07-10T22:23:39.915037Z",
+  "entityType": null,
+  "type": "item",
+  "_links": {
+   "accessStatus": {
+    "href": "https://indiacode.gov.in/server/api/core/items/1a22c908-8e72-40a2-8f6b-403afd447f90/accessStatus"
+   },
+   "bundles": {
+    "href": "https://indiacode.gov.in/server/api/core/items/1a22c908-8e72-40a2-8f6b-403afd447f90/bundles"
+   },
+   "identifiers": {
+    "href": "https://indiacode.gov.in/server/api/core/items/1a22c908-8e72-40a2-8f6b-403afd447f90/identifiers"
+   },
+   "mappedCollections": {
+    "href": "https://indiacode.gov.in/server/api/core/items/1a22c908-8e72-40a2-8f6b-403afd447f90/mappedCollections"
+   },
+   "owningCollection": {
+    "href": "https://indiacode.gov.in/server/api/core/items/1a22c908-8e72-40a2-8f6b-403afd447f90/owningCollection"
+   },
+   "relationships": {
+    "href": "https://indiacode.gov.in/server/api/core/items/1a22c908-8e72-40a2-8f6b-403afd447f90/relationships"
+   },
+   "version": {
+    "href": "https://indiacode.gov.in/server/api/core/items/1a22c908-8e72-40a2-8f6b-403afd447f90/version"
+   },
+   "templateItemOf": {
+    "href": "https://indiacode.gov.in/server/api/core/items/1a22c908-8e72-40a2-8f6b-403afd447f90/templateItemOf"
+   },
+   "thumbnail": {
+    "href": "https://indiacode.gov.in/server/api/core/items/1a22c908-8e72-40a2-8f6b-403afd447f90/thumbnail"
+   },
+   "submitter": {
+    "href": "https://indiacode.gov.in/server/api/core/items/1a22c908-8e72-40a2-8f6b-403afd447f90/submitter"
+   },
+   "self": {
+    "href": "https://indiacode.gov.in/server/api/core/items/1a22c908-8e72-40a2-8f6b-403afd447f90"
+   }
+  }
+ },
+ {
+  "id": "8bca91f6-56e6-48bf-bbcc-b0bc7aec0df6",
+  "uuid": "8bca91f6-56e6-48bf-bbcc-b0bc7aec0df6",
+  "name": "Notice to be served on heirs of the husband when the husband’s whereabouts are not known.",
+  "handle": "123456789/524441",
+  "metadata": {
+   "dc.date.accessioned": [
+    {
+     "value": "2026-07-10T22:23:40Z",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.date.act_year": [
+    {
+     "value": "1939",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_id": [
+    {
+     "value": "AC_CEN_3_20_00064_193908_1523352479755",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_name": [
+    {
+     "value": "The Dissolution of Muslim Marriages Act, 1939",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_number": [
+    {
+     "value": "8",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_repealed": [
+    {
+     "value": "false",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.collection": [
+    {
+     "value": "SECTION",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.department_id": [
+    {
+     "value": "20",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.department_name": [
+    {
+     "value": "Legislative Department",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.id": [
+    {
+     "value": "29821",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.ministry_id": [
+    {
+     "value": "3",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.ministry_name": [
+    {
+     "value": "Ministry of Law and Justice",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.order_number": [
+    {
+     "value": "3",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_from": [
+    {
+     "value": "0",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_number": [
+    {
+     "value": "3",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_to": [
+    {
+     "value": "0",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.repealed": [
+    {
+     "value": "false",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_id": [
+    {
+     "value": "29821",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_number": [
+    {
+     "value": "3",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_page_note": [
+    {
+     "value": "<span style=\"margin-left: 15px;\"></span>In a suit to which clause (i) of section 2 applies--<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span> (a) the names and addresses of the persons who would have been the heirs of the husband under Muslim law if he<span style=\"margin-left: 15px;\"></span>had died on the date of the filing of the plant shall be stated in the plaint,<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span> (b) notice of the suit shall be served on such persons, and<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span> (c) such persons shall have the right to be heard in the suit :<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span> Provided that paternal uncle and brother of the husband, if any, shall be cited as party even if he or they are not heirs. <br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/>",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.state_id": [
+    {
+     "value": "1",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.state_name": [
+    {
+     "value": "CENTRAL",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.uri": [
+    {
+     "value": "http://test1.indiacode.nic.in/handle/123456789/524441",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.title": [
+    {
+     "value": "Notice to be served on heirs of the husband when the husband’s whereabouts are not known.",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ]
+  },
+  "inArchive": true,
+  "discoverable": true,
+  "withdrawn": false,
+  "lastModified": "2026-07-10T22:23:40.117799Z",
+  "entityType": null,
+  "type": "item",
+  "_links": {
+   "accessStatus": {
+    "href": "https://indiacode.gov.in/server/api/core/items/8bca91f6-56e6-48bf-bbcc-b0bc7aec0df6/accessStatus"
+   },
+   "bundles": {
+    "href": "https://indiacode.gov.in/server/api/core/items/8bca91f6-56e6-48bf-bbcc-b0bc7aec0df6/bundles"
+   },
+   "identifiers": {
+    "href": "https://indiacode.gov.in/server/api/core/items/8bca91f6-56e6-48bf-bbcc-b0bc7aec0df6/identifiers"
+   },
+   "mappedCollections": {
+    "href": "https://indiacode.gov.in/server/api/core/items/8bca91f6-56e6-48bf-bbcc-b0bc7aec0df6/mappedCollections"
+   },
+   "owningCollection": {
+    "href": "https://indiacode.gov.in/server/api/core/items/8bca91f6-56e6-48bf-bbcc-b0bc7aec0df6/owningCollection"
+   },
+   "relationships": {
+    "href": "https://indiacode.gov.in/server/api/core/items/8bca91f6-56e6-48bf-bbcc-b0bc7aec0df6/relationships"
+   },
+   "version": {
+    "href": "https://indiacode.gov.in/server/api/core/items/8bca91f6-56e6-48bf-bbcc-b0bc7aec0df6/version"
+   },
+   "templateItemOf": {
+    "href": "https://indiacode.gov.in/server/api/core/items/8bca91f6-56e6-48bf-bbcc-b0bc7aec0df6/templateItemOf"
+   },
+   "thumbnail": {
+    "href": "https://indiacode.gov.in/server/api/core/items/8bca91f6-56e6-48bf-bbcc-b0bc7aec0df6/thumbnail"
+   },
+   "submitter": {
+    "href": "https://indiacode.gov.in/server/api/core/items/8bca91f6-56e6-48bf-bbcc-b0bc7aec0df6/submitter"
+   },
+   "self": {
+    "href": "https://indiacode.gov.in/server/api/core/items/8bca91f6-56e6-48bf-bbcc-b0bc7aec0df6"
+   }
+  }
+ },
+ {
+  "id": "842d6aa4-13fd-45af-91a2-a851dea09305",
+  "uuid": "842d6aa4-13fd-45af-91a2-a851dea09305",
+  "name": "Grounds for decree for dissolution of marriage",
+  "handle": "123456789/524439",
+  "metadata": {
+   "dc.date.accessioned": [
+    {
+     "value": "2026-07-10T22:23:39Z",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.date.act_year": [
+    {
+     "value": "1939",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_id": [
+    {
+     "value": "AC_CEN_3_20_00064_193908_1523352479755",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_name": [
+    {
+     "value": "The Dissolution of Muslim Marriages Act, 1939",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_number": [
+    {
+     "value": "8",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_repealed": [
+    {
+     "value": "false",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.collection": [
+    {
+     "value": "SECTION",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.department_id": [
+    {
+     "value": "20",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.department_name": [
+    {
+     "value": "Legislative Department",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.id": [
+    {
+     "value": "29818",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.ministry_id": [
+    {
+     "value": "3",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.ministry_name": [
+    {
+     "value": "Ministry of Law and Justice",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.next_section": [
+    {
+     "value": "4.Effect of conversion to another faith.",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.order_number": [
+    {
+     "value": "2",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_from": [
+    {
+     "value": "0",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_number": [
+    {
+     "value": "2",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_to": [
+    {
+     "value": "0",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.repealed": [
+    {
+     "value": "false",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_footnote": [
+    {
+     "value": "<sup>1</sup>. The words \"leprosy or\" omitted by Act 6 of 2019, s. 3 (w.e.f 1-3-2019).<br/><hr style=\"border: none; margin-bottom: 3px; margin-top: 0;\"/>",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_id": [
+    {
+     "value": "29818",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_number": [
+    {
+     "value": "2",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_page_note": [
+    {
+     "value": "<span style=\"margin-left: 15px;\"></span>A woman married under Muslim law shall be entitle to obtain a decree for the dissolution of her marriage on any one or more of the following grounds, namely:--<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span> <span style=\"margin-left: 15px;\"></span> (i) that the whereabouts of the husband have not been known for a period of four years;<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span> (ii) that the husband has neglected or has failed to provide for her maintenance for a period of two years;<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span> (iii) that the husband has been sentenced to imprisonment for a period of seven years or upwards;<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span> (iv) that the husband has failed to perform, without reasonable cause, his marital obligations for a period of three <span style=\"margin-left: 15px;\"></span>years;<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span> (v) that the husband was impotent at the time of the marriage and continues to be so,<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span> (vi) that the husband has been insane for a period of two years or is suffering from <sup>3</sup> *** a virulent venereal <span style=\"margin-left: 15px;\"></span>disease;<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span> (vii) that she, having been given in marriage by her father or other guardian before she attained the age of fifteen <span style=\"margin-left: 15px;\"></span>years, repudiated the marriage before attaining the age of eighteen years :<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span> Provided that the marriage has not been consummated ;<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span> (viii) that the husband treats her with cruelty, that is to say,--<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span> (a) habitually assaults her or makes her life miserable by cruelty of conduct even if such conduct does not <span style=\"margin-left: 15px;\"></span>amount to physical ill-treatment, or<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span>(b) associates with women of evil repute or leads an infamous life, or<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span> (c) attempts to force her to lead an immoral life, or<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span> (d) disposes of her property of prevents her exercising her legal rights over it, or<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span> (e) obstructs her in the observance of her religious profession or practice, or<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span> (f) if he has more wives than one, does not treat her equitably in accordance with the injunctions of the Qoran;<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span> (ix) on any other ground which is recognised as valid for the dissolution of marriages under muslim law :<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span> Provided that--<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span> (a) no decree shall be passed on ground (iii) until the sentence has become final;<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span> (b) a decree passed on ground (i) shall not take effect for a period of six months from the date of such decree,<span style=\"margin-left: 15px;\"></span> and if the husband appears either in person or through an authorised agent within that period and satisfies the Court<span style=\"margin-left: 15px;\"></span> that he is prepared to perform his conjugal duties, the Court shall set aside the said decree; and<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span> (c) before passing a decree on ground (v) the Court shall, on application by the husband, make an order<span style=\"margin-left: 15px;\"></span> requiring the husband to satisfy the Court within a period of one year from the date of such order that he has ceased<span style=\"margin-left: 15px;\"></span> to be impotent, and if the husband so satisfies the Court within such period, no decree shall be passed on the said<span style=\"margin-left: 15px;\"></span> ground.<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/>",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.state_id": [
+    {
+     "value": "1",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.state_name": [
+    {
+     "value": "CENTRAL",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.uri": [
+    {
+     "value": "http://test1.indiacode.nic.in/handle/123456789/524439",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.title": [
+    {
+     "value": "Grounds for decree for dissolution of marriage",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ]
+  },
+  "inArchive": true,
+  "discoverable": true,
+  "withdrawn": false,
+  "lastModified": "2026-07-10T22:23:39.976716Z",
+  "entityType": null,
+  "type": "item",
+  "_links": {
+   "accessStatus": {
+    "href": "https://indiacode.gov.in/server/api/core/items/842d6aa4-13fd-45af-91a2-a851dea09305/accessStatus"
+   },
+   "bundles": {
+    "href": "https://indiacode.gov.in/server/api/core/items/842d6aa4-13fd-45af-91a2-a851dea09305/bundles"
+   },
+   "identifiers": {
+    "href": "https://indiacode.gov.in/server/api/core/items/842d6aa4-13fd-45af-91a2-a851dea09305/identifiers"
+   },
+   "mappedCollections": {
+    "href": "https://indiacode.gov.in/server/api/core/items/842d6aa4-13fd-45af-91a2-a851dea09305/mappedCollections"
+   },
+   "owningCollection": {
+    "href": "https://indiacode.gov.in/server/api/core/items/842d6aa4-13fd-45af-91a2-a851dea09305/owningCollection"
+   },
+   "relationships": {
+    "href": "https://indiacode.gov.in/server/api/core/items/842d6aa4-13fd-45af-91a2-a851dea09305/relationships"
+   },
+   "version": {
+    "href": "https://indiacode.gov.in/server/api/core/items/842d6aa4-13fd-45af-91a2-a851dea09305/version"
+   },
+   "templateItemOf": {
+    "href": "https://indiacode.gov.in/server/api/core/items/842d6aa4-13fd-45af-91a2-a851dea09305/templateItemOf"
+   },
+   "thumbnail": {
+    "href": "https://indiacode.gov.in/server/api/core/items/842d6aa4-13fd-45af-91a2-a851dea09305/thumbnail"
+   },
+   "submitter": {
+    "href": "https://indiacode.gov.in/server/api/core/items/842d6aa4-13fd-45af-91a2-a851dea09305/submitter"
+   },
+   "self": {
+    "href": "https://indiacode.gov.in/server/api/core/items/842d6aa4-13fd-45af-91a2-a851dea09305"
+   }
+  }
+ },
+ {
+  "id": "c5313a46-e7de-457d-b2eb-88e806e2311e",
+  "uuid": "c5313a46-e7de-457d-b2eb-88e806e2311e",
+  "name": "Repealed.",
+  "handle": "123456789/524444",
+  "metadata": {
+   "dc.date.accessioned": [
+    {
+     "value": "2026-07-10T22:23:40Z",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.date.act_year": [
+    {
+     "value": "1939",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_id": [
+    {
+     "value": "AC_CEN_3_20_00064_193908_1523352479755",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_name": [
+    {
+     "value": "The Dissolution of Muslim Marriages Act, 1939",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_number": [
+    {
+     "value": "8",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_repealed": [
+    {
+     "value": "false",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.collection": [
+    {
+     "value": "SECTION",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.department_id": [
+    {
+     "value": "20",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.department_name": [
+    {
+     "value": "Legislative Department",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.id": [
+    {
+     "value": "29824",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.ministry_id": [
+    {
+     "value": "3",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.ministry_name": [
+    {
+     "value": "Ministry of Law and Justice",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.order_number": [
+    {
+     "value": "6",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_from": [
+    {
+     "value": "0",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_number": [
+    {
+     "value": "3",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_to": [
+    {
+     "value": "0",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.repealed": [
+    {
+     "value": "false",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_id": [
+    {
+     "value": "29824",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_number": [
+    {
+     "value": "6",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_page_note": [
+    {
+     "value": "<span style=\"margin-left: 15px;\"></span><i>[Repeal of section</i> 5 <i>of Act</i> 26 <i>of</i> 1937.] <i>Rep. by the Repealing and Amending Act</i>, 1942 (25 <i>of</i> 1942), <i>s</i>. 2 <i>and the First Schedule</i> .<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/>",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.state_id": [
+    {
+     "value": "1",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.state_name": [
+    {
+     "value": "CENTRAL",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.uri": [
+    {
+     "value": "http://test1.indiacode.nic.in/handle/123456789/524444",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.title": [
+    {
+     "value": "Repealed.",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ]
+  },
+  "inArchive": true,
+  "discoverable": true,
+  "withdrawn": false,
+  "lastModified": "2026-07-10T22:23:40.344564Z",
+  "entityType": null,
+  "type": "item",
+  "_links": {
+   "accessStatus": {
+    "href": "https://indiacode.gov.in/server/api/core/items/c5313a46-e7de-457d-b2eb-88e806e2311e/accessStatus"
+   },
+   "bundles": {
+    "href": "https://indiacode.gov.in/server/api/core/items/c5313a46-e7de-457d-b2eb-88e806e2311e/bundles"
+   },
+   "identifiers": {
+    "href": "https://indiacode.gov.in/server/api/core/items/c5313a46-e7de-457d-b2eb-88e806e2311e/identifiers"
+   },
+   "mappedCollections": {
+    "href": "https://indiacode.gov.in/server/api/core/items/c5313a46-e7de-457d-b2eb-88e806e2311e/mappedCollections"
+   },
+   "owningCollection": {
+    "href": "https://indiacode.gov.in/server/api/core/items/c5313a46-e7de-457d-b2eb-88e806e2311e/owningCollection"
+   },
+   "relationships": {
+    "href": "https://indiacode.gov.in/server/api/core/items/c5313a46-e7de-457d-b2eb-88e806e2311e/relationships"
+   },
+   "version": {
+    "href": "https://indiacode.gov.in/server/api/core/items/c5313a46-e7de-457d-b2eb-88e806e2311e/version"
+   },
+   "templateItemOf": {
+    "href": "https://indiacode.gov.in/server/api/core/items/c5313a46-e7de-457d-b2eb-88e806e2311e/templateItemOf"
+   },
+   "thumbnail": {
+    "href": "https://indiacode.gov.in/server/api/core/items/c5313a46-e7de-457d-b2eb-88e806e2311e/thumbnail"
+   },
+   "submitter": {
+    "href": "https://indiacode.gov.in/server/api/core/items/c5313a46-e7de-457d-b2eb-88e806e2311e/submitter"
+   },
+   "self": {
+    "href": "https://indiacode.gov.in/server/api/core/items/c5313a46-e7de-457d-b2eb-88e806e2311e"
+   }
+  }
+ },
+ {
+  "id": "f251cd02-db22-483d-bb69-d5b8ea6635d4",
+  "uuid": "f251cd02-db22-483d-bb69-d5b8ea6635d4",
+  "name": "Rights to dower not to be affected.",
+  "handle": "123456789/524443",
+  "metadata": {
+   "dc.date.accessioned": [
+    {
+     "value": "2026-07-10T22:23:40Z",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.date.act_year": [
+    {
+     "value": "1939",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_id": [
+    {
+     "value": "AC_CEN_3_20_00064_193908_1523352479755",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_name": [
+    {
+     "value": "The Dissolution of Muslim Marriages Act, 1939",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_number": [
+    {
+     "value": "8",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_repealed": [
+    {
+     "value": "false",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.collection": [
+    {
+     "value": "SECTION",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.department_id": [
+    {
+     "value": "20",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.department_name": [
+    {
+     "value": "Legislative Department",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.id": [
+    {
+     "value": "29823",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.ministry_id": [
+    {
+     "value": "3",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.ministry_name": [
+    {
+     "value": "Ministry of Law and Justice",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.order_number": [
+    {
+     "value": "5",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_from": [
+    {
+     "value": "0",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_number": [
+    {
+     "value": "3",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_to": [
+    {
+     "value": "0",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.repealed": [
+    {
+     "value": "false",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_id": [
+    {
+     "value": "29823",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_number": [
+    {
+     "value": "5",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_page_note": [
+    {
+     "value": "Nothing contained in this Act shall affect any right which a married woman may have under Muslim law to her dower or any part thereof on the dissolution of her marriage.",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.state_id": [
+    {
+     "value": "1",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.state_name": [
+    {
+     "value": "CENTRAL",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.uri": [
+    {
+     "value": "http://test1.indiacode.nic.in/handle/123456789/524443",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.title": [
+    {
+     "value": "Rights to dower not to be affected.",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ]
+  },
+  "inArchive": true,
+  "discoverable": true,
+  "withdrawn": false,
+  "lastModified": "2026-07-10T22:23:40.263268Z",
+  "entityType": null,
+  "type": "item",
+  "_links": {
+   "accessStatus": {
+    "href": "https://indiacode.gov.in/server/api/core/items/f251cd02-db22-483d-bb69-d5b8ea6635d4/accessStatus"
+   },
+   "bundles": {
+    "href": "https://indiacode.gov.in/server/api/core/items/f251cd02-db22-483d-bb69-d5b8ea6635d4/bundles"
+   },
+   "identifiers": {
+    "href": "https://indiacode.gov.in/server/api/core/items/f251cd02-db22-483d-bb69-d5b8ea6635d4/identifiers"
+   },
+   "mappedCollections": {
+    "href": "https://indiacode.gov.in/server/api/core/items/f251cd02-db22-483d-bb69-d5b8ea6635d4/mappedCollections"
+   },
+   "owningCollection": {
+    "href": "https://indiacode.gov.in/server/api/core/items/f251cd02-db22-483d-bb69-d5b8ea6635d4/owningCollection"
+   },
+   "relationships": {
+    "href": "https://indiacode.gov.in/server/api/core/items/f251cd02-db22-483d-bb69-d5b8ea6635d4/relationships"
+   },
+   "version": {
+    "href": "https://indiacode.gov.in/server/api/core/items/f251cd02-db22-483d-bb69-d5b8ea6635d4/version"
+   },
+   "templateItemOf": {
+    "href": "https://indiacode.gov.in/server/api/core/items/f251cd02-db22-483d-bb69-d5b8ea6635d4/templateItemOf"
+   },
+   "thumbnail": {
+    "href": "https://indiacode.gov.in/server/api/core/items/f251cd02-db22-483d-bb69-d5b8ea6635d4/thumbnail"
+   },
+   "submitter": {
+    "href": "https://indiacode.gov.in/server/api/core/items/f251cd02-db22-483d-bb69-d5b8ea6635d4/submitter"
+   },
+   "self": {
+    "href": "https://indiacode.gov.in/server/api/core/items/f251cd02-db22-483d-bb69-d5b8ea6635d4"
+   }
+  }
+ }
+]

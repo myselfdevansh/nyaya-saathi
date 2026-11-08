@@ -1,0 +1,2697 @@
+[
+ {
+  "id": "173e031e-236a-478b-b6e5-e46f204725bd",
+  "uuid": "173e031e-236a-478b-b6e5-e46f204725bd",
+  "name": "Partition suit by transferee of share in dwelling-house.",
+  "handle": "123456789/531584",
+  "metadata": {
+   "dc.date.accessioned": [
+    {
+     "value": "2026-07-10T22:41:33Z",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.date.act_year": [
+    {
+     "value": "1893",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_id": [
+    {
+     "value": "AC_CEN_3_20_00070_189304_1547448130517",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_name": [
+    {
+     "value": "The Partition Act, 1893",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_number": [
+    {
+     "value": "4",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_repealed": [
+    {
+     "value": "false",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.collection": [
+    {
+     "value": "SECTION",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.department_id": [
+    {
+     "value": "20",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.department_name": [
+    {
+     "value": "Legislative Department",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.id": [
+    {
+     "value": "39003",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.ministry_id": [
+    {
+     "value": "3",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.ministry_name": [
+    {
+     "value": "Ministry of Law and Justice",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.order_number": [
+    {
+     "value": "4",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_from": [
+    {
+     "value": "0",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_number": [
+    {
+     "value": "2",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_to": [
+    {
+     "value": "0",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.repealed": [
+    {
+     "value": "false",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_id": [
+    {
+     "value": "39003",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_number": [
+    {
+     "value": "4",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_page_note": [
+    {
+     "value": "<span style=\"margin-left: 15px;\"></span>(1) Where a share of a dwelling-house belonging to an undivided family has been transferred to a person who is not a member of such family and such transferee sues for partition, the court shall, if any member of the family being a shareholder shall undertake to buy the share of such transferee, make a valuation of such share in such manner as it thinks fit and direct the sale of such share to such shareholder, and may give all necessary and proper directions in that behalf.<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span> (2) If in any case described in sub-section (1) two or more members of the family being such shareholders severally undertake to buy such share, the court shall follow the procedure prescribed by sub-section (2) of the last foregoing section. <br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/>",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.state_id": [
+    {
+     "value": "1",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.state_name": [
+    {
+     "value": "CENTRAL",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.uri": [
+    {
+     "value": "http://test1.indiacode.nic.in/handle/123456789/531584",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.title": [
+    {
+     "value": "Partition suit by transferee of share in dwelling-house.",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ]
+  },
+  "inArchive": true,
+  "discoverable": true,
+  "withdrawn": false,
+  "lastModified": "2026-07-10T22:41:33.630473Z",
+  "entityType": null,
+  "type": "item",
+  "_links": {
+   "accessStatus": {
+    "href": "https://indiacode.gov.in/server/api/core/items/173e031e-236a-478b-b6e5-e46f204725bd/accessStatus"
+   },
+   "bundles": {
+    "href": "https://indiacode.gov.in/server/api/core/items/173e031e-236a-478b-b6e5-e46f204725bd/bundles"
+   },
+   "identifiers": {
+    "href": "https://indiacode.gov.in/server/api/core/items/173e031e-236a-478b-b6e5-e46f204725bd/identifiers"
+   },
+   "mappedCollections": {
+    "href": "https://indiacode.gov.in/server/api/core/items/173e031e-236a-478b-b6e5-e46f204725bd/mappedCollections"
+   },
+   "owningCollection": {
+    "href": "https://indiacode.gov.in/server/api/core/items/173e031e-236a-478b-b6e5-e46f204725bd/owningCollection"
+   },
+   "relationships": {
+    "href": "https://indiacode.gov.in/server/api/core/items/173e031e-236a-478b-b6e5-e46f204725bd/relationships"
+   },
+   "version": {
+    "href": "https://indiacode.gov.in/server/api/core/items/173e031e-236a-478b-b6e5-e46f204725bd/version"
+   },
+   "templateItemOf": {
+    "href": "https://indiacode.gov.in/server/api/core/items/173e031e-236a-478b-b6e5-e46f204725bd/templateItemOf"
+   },
+   "thumbnail": {
+    "href": "https://indiacode.gov.in/server/api/core/items/173e031e-236a-478b-b6e5-e46f204725bd/thumbnail"
+   },
+   "submitter": {
+    "href": "https://indiacode.gov.in/server/api/core/items/173e031e-236a-478b-b6e5-e46f204725bd/submitter"
+   },
+   "self": {
+    "href": "https://indiacode.gov.in/server/api/core/items/173e031e-236a-478b-b6e5-e46f204725bd"
+   }
+  }
+ },
+ {
+  "id": "0bc455e0-ab14-449a-8eb3-b0204be7b1eb",
+  "uuid": "0bc455e0-ab14-449a-8eb3-b0204be7b1eb",
+  "name": "Representation of parties under disability.",
+  "handle": "123456789/531585",
+  "metadata": {
+   "dc.date.accessioned": [
+    {
+     "value": "2026-07-10T22:41:33Z",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.date.act_year": [
+    {
+     "value": "1893",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_id": [
+    {
+     "value": "AC_CEN_3_20_00070_189304_1547448130517",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_name": [
+    {
+     "value": "The Partition Act, 1893",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_number": [
+    {
+     "value": "4",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_repealed": [
+    {
+     "value": "false",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.collection": [
+    {
+     "value": "SECTION",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.department_id": [
+    {
+     "value": "20",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.department_name": [
+    {
+     "value": "Legislative Department",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.id": [
+    {
+     "value": "39004",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.ministry_id": [
+    {
+     "value": "3",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.ministry_name": [
+    {
+     "value": "Ministry of Law and Justice",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.order_number": [
+    {
+     "value": "5",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_from": [
+    {
+     "value": "0",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_number": [
+    {
+     "value": "3",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_to": [
+    {
+     "value": "0",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.repealed": [
+    {
+     "value": "false",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_id": [
+    {
+     "value": "39004",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_number": [
+    {
+     "value": "5",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_page_note": [
+    {
+     "value": "<span style=\"margin-left: 15px;\"></span>In any suit for partition a request for sale may be made or an undertaking, or application for leave, to buy may be given or made on behalf of any party under disability by any person authorised to act on behalf of such party in such suit, but the court shall not be bound to comply with any such request, undertaking or application unless it is of opinion that the sale or purchase will be for the benefit of the party under such disability.<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/>",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.state_id": [
+    {
+     "value": "1",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.state_name": [
+    {
+     "value": "CENTRAL",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.uri": [
+    {
+     "value": "http://test1.indiacode.nic.in/handle/123456789/531585",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.title": [
+    {
+     "value": "Representation of parties under disability.",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ]
+  },
+  "inArchive": true,
+  "discoverable": true,
+  "withdrawn": false,
+  "lastModified": "2026-07-10T22:41:33.702342Z",
+  "entityType": null,
+  "type": "item",
+  "_links": {
+   "accessStatus": {
+    "href": "https://indiacode.gov.in/server/api/core/items/0bc455e0-ab14-449a-8eb3-b0204be7b1eb/accessStatus"
+   },
+   "bundles": {
+    "href": "https://indiacode.gov.in/server/api/core/items/0bc455e0-ab14-449a-8eb3-b0204be7b1eb/bundles"
+   },
+   "identifiers": {
+    "href": "https://indiacode.gov.in/server/api/core/items/0bc455e0-ab14-449a-8eb3-b0204be7b1eb/identifiers"
+   },
+   "mappedCollections": {
+    "href": "https://indiacode.gov.in/server/api/core/items/0bc455e0-ab14-449a-8eb3-b0204be7b1eb/mappedCollections"
+   },
+   "owningCollection": {
+    "href": "https://indiacode.gov.in/server/api/core/items/0bc455e0-ab14-449a-8eb3-b0204be7b1eb/owningCollection"
+   },
+   "relationships": {
+    "href": "https://indiacode.gov.in/server/api/core/items/0bc455e0-ab14-449a-8eb3-b0204be7b1eb/relationships"
+   },
+   "version": {
+    "href": "https://indiacode.gov.in/server/api/core/items/0bc455e0-ab14-449a-8eb3-b0204be7b1eb/version"
+   },
+   "templateItemOf": {
+    "href": "https://indiacode.gov.in/server/api/core/items/0bc455e0-ab14-449a-8eb3-b0204be7b1eb/templateItemOf"
+   },
+   "thumbnail": {
+    "href": "https://indiacode.gov.in/server/api/core/items/0bc455e0-ab14-449a-8eb3-b0204be7b1eb/thumbnail"
+   },
+   "submitter": {
+    "href": "https://indiacode.gov.in/server/api/core/items/0bc455e0-ab14-449a-8eb3-b0204be7b1eb/submitter"
+   },
+   "self": {
+    "href": "https://indiacode.gov.in/server/api/core/items/0bc455e0-ab14-449a-8eb3-b0204be7b1eb"
+   }
+  }
+ },
+ {
+  "id": "30148c10-27e5-447d-b199-d1da77e67250",
+  "uuid": "30148c10-27e5-447d-b199-d1da77e67250",
+  "name": "Procedure to be followed in case of sales.",
+  "handle": "123456789/531587",
+  "metadata": {
+   "dc.date.accessioned": [
+    {
+     "value": "2026-07-10T22:41:33Z",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.date.act_year": [
+    {
+     "value": "1893",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_id": [
+    {
+     "value": "AC_CEN_3_20_00070_189304_1547448130517",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_name": [
+    {
+     "value": "The Partition Act, 1893",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_number": [
+    {
+     "value": "4",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_repealed": [
+    {
+     "value": "false",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.collection": [
+    {
+     "value": "SECTION",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.department_id": [
+    {
+     "value": "20",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.department_name": [
+    {
+     "value": "Legislative Department",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.id": [
+    {
+     "value": "39006",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.ministry_id": [
+    {
+     "value": "3",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.ministry_name": [
+    {
+     "value": "Ministry of Law and Justice",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.order_number": [
+    {
+     "value": "7",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_from": [
+    {
+     "value": "0",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_number": [
+    {
+     "value": "3",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_to": [
+    {
+     "value": "0",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.repealed": [
+    {
+     "value": "false",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_footnote": [
+    {
+     "value": "<sup>1</sup> The words \"or of the Court of the Recorder of Rangoon\" omitted by the A.O. 1937. <br/><hr style=\"border: none; margin-bottom: 3px; margin-top: 0;\"/>",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_id": [
+    {
+     "value": "39006",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_number": [
+    {
+     "value": "7",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_page_note": [
+    {
+     "value": "<span style=\"margin-left: 15px;\"></span>Save as hereinbefore provided, when any property is directed to be sold under this Act, the following procedure shall, as far as practicable, be adopted, namely:--<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span> (a) if the property be sold under a decree or order of the High Court of Calcutta, Madras or Bombay, in the exercise of its original jurisdiction, <sup>1</sup>*** the procedure of such court in its original civil jurisdiction for the sale of property by the Registrar;<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span> (b) if the property be sold under a decree or order of any other court, such procedure as the High Court may from time to time by rules prescribe in this behalf, and until such rules-art made the procedure prescribed in the Code of Civil Procedure in respect of sales in execution of decrees.<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/>",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.state_id": [
+    {
+     "value": "1",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.state_name": [
+    {
+     "value": "CENTRAL",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.uri": [
+    {
+     "value": "http://test1.indiacode.nic.in/handle/123456789/531587",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.title": [
+    {
+     "value": "Procedure to be followed in case of sales.",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ]
+  },
+  "inArchive": true,
+  "discoverable": true,
+  "withdrawn": false,
+  "lastModified": "2026-07-10T22:41:33.846980Z",
+  "entityType": null,
+  "type": "item",
+  "_links": {
+   "accessStatus": {
+    "href": "https://indiacode.gov.in/server/api/core/items/30148c10-27e5-447d-b199-d1da77e67250/accessStatus"
+   },
+   "bundles": {
+    "href": "https://indiacode.gov.in/server/api/core/items/30148c10-27e5-447d-b199-d1da77e67250/bundles"
+   },
+   "identifiers": {
+    "href": "https://indiacode.gov.in/server/api/core/items/30148c10-27e5-447d-b199-d1da77e67250/identifiers"
+   },
+   "mappedCollections": {
+    "href": "https://indiacode.gov.in/server/api/core/items/30148c10-27e5-447d-b199-d1da77e67250/mappedCollections"
+   },
+   "owningCollection": {
+    "href": "https://indiacode.gov.in/server/api/core/items/30148c10-27e5-447d-b199-d1da77e67250/owningCollection"
+   },
+   "relationships": {
+    "href": "https://indiacode.gov.in/server/api/core/items/30148c10-27e5-447d-b199-d1da77e67250/relationships"
+   },
+   "version": {
+    "href": "https://indiacode.gov.in/server/api/core/items/30148c10-27e5-447d-b199-d1da77e67250/version"
+   },
+   "templateItemOf": {
+    "href": "https://indiacode.gov.in/server/api/core/items/30148c10-27e5-447d-b199-d1da77e67250/templateItemOf"
+   },
+   "thumbnail": {
+    "href": "https://indiacode.gov.in/server/api/core/items/30148c10-27e5-447d-b199-d1da77e67250/thumbnail"
+   },
+   "submitter": {
+    "href": "https://indiacode.gov.in/server/api/core/items/30148c10-27e5-447d-b199-d1da77e67250/submitter"
+   },
+   "self": {
+    "href": "https://indiacode.gov.in/server/api/core/items/30148c10-27e5-447d-b199-d1da77e67250"
+   }
+  }
+ },
+ {
+  "id": "8ad13325-f042-4ea4-a7b4-98b3b9d6f6eb",
+  "uuid": "8ad13325-f042-4ea4-a7b4-98b3b9d6f6eb",
+  "name": "Title, extent and saving.",
+  "handle": "123456789/531581",
+  "metadata": {
+   "dc.date.accessioned": [
+    {
+     "value": "2026-07-10T22:41:33Z",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.date.act_year": [
+    {
+     "value": "1893",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_id": [
+    {
+     "value": "AC_CEN_3_20_00070_189304_1547448130517",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_name": [
+    {
+     "value": "The Partition Act, 1893",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_number": [
+    {
+     "value": "4",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_repealed": [
+    {
+     "value": "false",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.collection": [
+    {
+     "value": "SECTION",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.department_id": [
+    {
+     "value": "20",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.department_name": [
+    {
+     "value": "Legislative Department",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.id": [
+    {
+     "value": "39000",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.ministry_id": [
+    {
+     "value": "3",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.ministry_name": [
+    {
+     "value": "Ministry of Law and Justice",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.next_section": [
+    {
+     "value": "LAST SECTION",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.order_number": [
+    {
+     "value": "1",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_from": [
+    {
+     "value": "0",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_number": [
+    {
+     "value": "2",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_to": [
+    {
+     "value": "0",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.repealed": [
+    {
+     "value": "false",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_footnote": [
+    {
+     "value": "<sup>1</sup>. The words \"except the State of Jammu and Kashmir\" omitted by Act 34 of 2019, s. 95 and the Fifth Schedule (w.e.f. 31-10-2019)..<br/><hr style=\"border: none; margin-bottom: 3px; margin-top: 0;\"/> <sup>2</sup>. The word \"and\" rep. by Act 10 of 1914, s. 3 and the Second Schedule.<br/><hr style=\"border: none; margin-bottom: 3px; margin-top: 0;\"/> <sup>3</sup>. Sub-section (<i>3</i>) rep. by s. 3 and the Second Schedule, <i>ibid</i>.<br/><hr style=\"border: none; margin-bottom: 3px; margin-top: 0;\"/> <br/><hr style=\"border: none; margin-bottom: 3px; margin-top: 0;\"/>",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_id": [
+    {
+     "value": "39000",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_number": [
+    {
+     "value": "1",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_page_note": [
+    {
+     "value": "<span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span>(1) This Act may be called the Partition Act, 1893.<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span> (2) It extends to the whole of India <sup>1</sup>*** <sup>2</sup>***.<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><sup>3</sup>*<span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span>*<span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span>*<span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span>*<span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span>*<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span> (4) But nothing herein contained shall be deemed to affect any local law providing for the partition of immoveable property paying revenue to Government. <br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/><br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/>",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.state_id": [
+    {
+     "value": "1",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.state_name": [
+    {
+     "value": "CENTRAL",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.uri": [
+    {
+     "value": "http://test1.indiacode.nic.in/handle/123456789/531581",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.title": [
+    {
+     "value": "Title, extent and saving.",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ]
+  },
+  "inArchive": true,
+  "discoverable": true,
+  "withdrawn": false,
+  "lastModified": "2026-07-10T22:41:33.406137Z",
+  "entityType": null,
+  "type": "item",
+  "_links": {
+   "accessStatus": {
+    "href": "https://indiacode.gov.in/server/api/core/items/8ad13325-f042-4ea4-a7b4-98b3b9d6f6eb/accessStatus"
+   },
+   "bundles": {
+    "href": "https://indiacode.gov.in/server/api/core/items/8ad13325-f042-4ea4-a7b4-98b3b9d6f6eb/bundles"
+   },
+   "identifiers": {
+    "href": "https://indiacode.gov.in/server/api/core/items/8ad13325-f042-4ea4-a7b4-98b3b9d6f6eb/identifiers"
+   },
+   "mappedCollections": {
+    "href": "https://indiacode.gov.in/server/api/core/items/8ad13325-f042-4ea4-a7b4-98b3b9d6f6eb/mappedCollections"
+   },
+   "owningCollection": {
+    "href": "https://indiacode.gov.in/server/api/core/items/8ad13325-f042-4ea4-a7b4-98b3b9d6f6eb/owningCollection"
+   },
+   "relationships": {
+    "href": "https://indiacode.gov.in/server/api/core/items/8ad13325-f042-4ea4-a7b4-98b3b9d6f6eb/relationships"
+   },
+   "version": {
+    "href": "https://indiacode.gov.in/server/api/core/items/8ad13325-f042-4ea4-a7b4-98b3b9d6f6eb/version"
+   },
+   "templateItemOf": {
+    "href": "https://indiacode.gov.in/server/api/core/items/8ad13325-f042-4ea4-a7b4-98b3b9d6f6eb/templateItemOf"
+   },
+   "thumbnail": {
+    "href": "https://indiacode.gov.in/server/api/core/items/8ad13325-f042-4ea4-a7b4-98b3b9d6f6eb/thumbnail"
+   },
+   "submitter": {
+    "href": "https://indiacode.gov.in/server/api/core/items/8ad13325-f042-4ea4-a7b4-98b3b9d6f6eb/submitter"
+   },
+   "self": {
+    "href": "https://indiacode.gov.in/server/api/core/items/8ad13325-f042-4ea4-a7b4-98b3b9d6f6eb"
+   }
+  }
+ },
+ {
+  "id": "aa6e97b1-63bc-440f-b5a6-462aeeb8d2a6",
+  "uuid": "aa6e97b1-63bc-440f-b5a6-462aeeb8d2a6",
+  "name": "Orders for sale to be deemed decrees.",
+  "handle": "123456789/531588",
+  "metadata": {
+   "dc.date.accessioned": [
+    {
+     "value": "2026-07-10T22:41:33Z",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.date.act_year": [
+    {
+     "value": "1893",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_id": [
+    {
+     "value": "AC_CEN_3_20_00070_189304_1547448130517",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_name": [
+    {
+     "value": "The Partition Act, 1893",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_number": [
+    {
+     "value": "4",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_repealed": [
+    {
+     "value": "false",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.collection": [
+    {
+     "value": "SECTION",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.department_id": [
+    {
+     "value": "20",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.department_name": [
+    {
+     "value": "Legislative Department",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.id": [
+    {
+     "value": "39007",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.ministry_id": [
+    {
+     "value": "3",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.ministry_name": [
+    {
+     "value": "Ministry of Law and Justice",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.order_number": [
+    {
+     "value": "8",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_from": [
+    {
+     "value": "0",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_number": [
+    {
+     "value": "3",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_to": [
+    {
+     "value": "0",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.repealed": [
+    {
+     "value": "false",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_footnote": [
+    {
+     "value": "<sup>1</sup> . <i>See</i> now the Code of Civil Procedure, 1908 (Act 5 of 1908).<br/><hr style=\"border: none; margin-bottom: 3px; margin-top: 0;\"/>",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_id": [
+    {
+     "value": "39007",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_number": [
+    {
+     "value": "8",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_page_note": [
+    {
+     "value": "<span style=\"margin-left: 15px;\"></span>Any order for sale made by the court under section 2, 3 or 4 shall be deemed to be a decree within the meaning of section 2 of the <sup>1</sup>Code of Civil Procedure (14 of 1882).<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/>",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.state_id": [
+    {
+     "value": "1",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.state_name": [
+    {
+     "value": "CENTRAL",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.uri": [
+    {
+     "value": "http://test1.indiacode.nic.in/handle/123456789/531588",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.title": [
+    {
+     "value": "Orders for sale to be deemed decrees.",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ]
+  },
+  "inArchive": true,
+  "discoverable": true,
+  "withdrawn": false,
+  "lastModified": "2026-07-10T22:41:33.924006Z",
+  "entityType": null,
+  "type": "item",
+  "_links": {
+   "accessStatus": {
+    "href": "https://indiacode.gov.in/server/api/core/items/aa6e97b1-63bc-440f-b5a6-462aeeb8d2a6/accessStatus"
+   },
+   "bundles": {
+    "href": "https://indiacode.gov.in/server/api/core/items/aa6e97b1-63bc-440f-b5a6-462aeeb8d2a6/bundles"
+   },
+   "identifiers": {
+    "href": "https://indiacode.gov.in/server/api/core/items/aa6e97b1-63bc-440f-b5a6-462aeeb8d2a6/identifiers"
+   },
+   "mappedCollections": {
+    "href": "https://indiacode.gov.in/server/api/core/items/aa6e97b1-63bc-440f-b5a6-462aeeb8d2a6/mappedCollections"
+   },
+   "owningCollection": {
+    "href": "https://indiacode.gov.in/server/api/core/items/aa6e97b1-63bc-440f-b5a6-462aeeb8d2a6/owningCollection"
+   },
+   "relationships": {
+    "href": "https://indiacode.gov.in/server/api/core/items/aa6e97b1-63bc-440f-b5a6-462aeeb8d2a6/relationships"
+   },
+   "version": {
+    "href": "https://indiacode.gov.in/server/api/core/items/aa6e97b1-63bc-440f-b5a6-462aeeb8d2a6/version"
+   },
+   "templateItemOf": {
+    "href": "https://indiacode.gov.in/server/api/core/items/aa6e97b1-63bc-440f-b5a6-462aeeb8d2a6/templateItemOf"
+   },
+   "thumbnail": {
+    "href": "https://indiacode.gov.in/server/api/core/items/aa6e97b1-63bc-440f-b5a6-462aeeb8d2a6/thumbnail"
+   },
+   "submitter": {
+    "href": "https://indiacode.gov.in/server/api/core/items/aa6e97b1-63bc-440f-b5a6-462aeeb8d2a6/submitter"
+   },
+   "self": {
+    "href": "https://indiacode.gov.in/server/api/core/items/aa6e97b1-63bc-440f-b5a6-462aeeb8d2a6"
+   }
+  }
+ },
+ {
+  "id": "95d3ec63-655e-49dc-ad73-b93b24144f36",
+  "uuid": "95d3ec63-655e-49dc-ad73-b93b24144f36",
+  "name": "Reserved bidding and bidding by shareholders.",
+  "handle": "123456789/531586",
+  "metadata": {
+   "dc.date.accessioned": [
+    {
+     "value": "2026-07-10T22:41:33Z",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.date.act_year": [
+    {
+     "value": "1893",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_id": [
+    {
+     "value": "AC_CEN_3_20_00070_189304_1547448130517",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_name": [
+    {
+     "value": "The Partition Act, 1893",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_number": [
+    {
+     "value": "4",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_repealed": [
+    {
+     "value": "false",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.collection": [
+    {
+     "value": "SECTION",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.department_id": [
+    {
+     "value": "20",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.department_name": [
+    {
+     "value": "Legislative Department",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.id": [
+    {
+     "value": "39005",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.ministry_id": [
+    {
+     "value": "3",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.ministry_name": [
+    {
+     "value": "Ministry of Law and Justice",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.order_number": [
+    {
+     "value": "6",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_from": [
+    {
+     "value": "0",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_number": [
+    {
+     "value": "3",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_to": [
+    {
+     "value": "0",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.repealed": [
+    {
+     "value": "false",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_id": [
+    {
+     "value": "39005",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_number": [
+    {
+     "value": "6",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_page_note": [
+    {
+     "value": "<span style=\"margin-left: 15px;\"></span>(1) Every sale under section 2 shall be subject to a reserved bidding, and the amount of such bidding shall be fixed by the court in such manner as it may think fit and may be varied from time to time.<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span> (2) On any such sale any of the shareholders shall be at liberty to bid at the sale on such terms as to non-payment of deposit or as to setting off or accounting for the purchase-money or any part thereof instead of paying the same as to the court may seem reasonable.<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span> (3) If two or more persons, of whom one is a shareholder in the property, respectively advance the same sum at any bidding at such sale, such bidding shall be deemed to be the bidding of the shareholder.<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/>",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.state_id": [
+    {
+     "value": "1",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.state_name": [
+    {
+     "value": "CENTRAL",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.uri": [
+    {
+     "value": "http://test1.indiacode.nic.in/handle/123456789/531586",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.title": [
+    {
+     "value": "Reserved bidding and bidding by shareholders.",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ]
+  },
+  "inArchive": true,
+  "discoverable": true,
+  "withdrawn": false,
+  "lastModified": "2026-07-10T22:41:33.772009Z",
+  "entityType": null,
+  "type": "item",
+  "_links": {
+   "accessStatus": {
+    "href": "https://indiacode.gov.in/server/api/core/items/95d3ec63-655e-49dc-ad73-b93b24144f36/accessStatus"
+   },
+   "bundles": {
+    "href": "https://indiacode.gov.in/server/api/core/items/95d3ec63-655e-49dc-ad73-b93b24144f36/bundles"
+   },
+   "identifiers": {
+    "href": "https://indiacode.gov.in/server/api/core/items/95d3ec63-655e-49dc-ad73-b93b24144f36/identifiers"
+   },
+   "mappedCollections": {
+    "href": "https://indiacode.gov.in/server/api/core/items/95d3ec63-655e-49dc-ad73-b93b24144f36/mappedCollections"
+   },
+   "owningCollection": {
+    "href": "https://indiacode.gov.in/server/api/core/items/95d3ec63-655e-49dc-ad73-b93b24144f36/owningCollection"
+   },
+   "relationships": {
+    "href": "https://indiacode.gov.in/server/api/core/items/95d3ec63-655e-49dc-ad73-b93b24144f36/relationships"
+   },
+   "version": {
+    "href": "https://indiacode.gov.in/server/api/core/items/95d3ec63-655e-49dc-ad73-b93b24144f36/version"
+   },
+   "templateItemOf": {
+    "href": "https://indiacode.gov.in/server/api/core/items/95d3ec63-655e-49dc-ad73-b93b24144f36/templateItemOf"
+   },
+   "thumbnail": {
+    "href": "https://indiacode.gov.in/server/api/core/items/95d3ec63-655e-49dc-ad73-b93b24144f36/thumbnail"
+   },
+   "submitter": {
+    "href": "https://indiacode.gov.in/server/api/core/items/95d3ec63-655e-49dc-ad73-b93b24144f36/submitter"
+   },
+   "self": {
+    "href": "https://indiacode.gov.in/server/api/core/items/95d3ec63-655e-49dc-ad73-b93b24144f36"
+   }
+  }
+ },
+ {
+  "id": "852e11bb-9bbe-4820-99c6-5932097a2258",
+  "uuid": "852e11bb-9bbe-4820-99c6-5932097a2258",
+  "name": "Application of Act to pending suits.",
+  "handle": "123456789/531590",
+  "metadata": {
+   "dc.date.accessioned": [
+    {
+     "value": "2026-07-10T22:41:34Z",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.date.act_year": [
+    {
+     "value": "1893",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_id": [
+    {
+     "value": "AC_CEN_3_20_00070_189304_1547448130517",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_name": [
+    {
+     "value": "The Partition Act, 1893",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_number": [
+    {
+     "value": "4",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_repealed": [
+    {
+     "value": "false",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.collection": [
+    {
+     "value": "SECTION",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.department_id": [
+    {
+     "value": "20",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.department_name": [
+    {
+     "value": "Legislative Department",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.id": [
+    {
+     "value": "39009",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.ministry_id": [
+    {
+     "value": "3",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.ministry_name": [
+    {
+     "value": "Ministry of Law and Justice",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.next_section": [
+    {
+     "value": "10.Application of Act to pending suits.",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.order_number": [
+    {
+     "value": "10",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_from": [
+    {
+     "value": "0",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_number": [
+    {
+     "value": "3",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_to": [
+    {
+     "value": "0",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.repealed": [
+    {
+     "value": "false",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_id": [
+    {
+     "value": "39009",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_number": [
+    {
+     "value": "10",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_page_note": [
+    {
+     "value": "<span style=\"margin-left: 15px;\"></span>This Act shall apply to suits instituted before the commencement thereof, in which no scheme for the partition of the partition has been finally approved by the court<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/>",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.state_id": [
+    {
+     "value": "1",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.state_name": [
+    {
+     "value": "CENTRAL",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.uri": [
+    {
+     "value": "http://test1.indiacode.nic.in/handle/123456789/531590",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.title": [
+    {
+     "value": "Application of Act to pending suits.",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ]
+  },
+  "inArchive": true,
+  "discoverable": true,
+  "withdrawn": false,
+  "lastModified": "2026-07-10T22:41:34.079405Z",
+  "entityType": null,
+  "type": "item",
+  "_links": {
+   "accessStatus": {
+    "href": "https://indiacode.gov.in/server/api/core/items/852e11bb-9bbe-4820-99c6-5932097a2258/accessStatus"
+   },
+   "bundles": {
+    "href": "https://indiacode.gov.in/server/api/core/items/852e11bb-9bbe-4820-99c6-5932097a2258/bundles"
+   },
+   "identifiers": {
+    "href": "https://indiacode.gov.in/server/api/core/items/852e11bb-9bbe-4820-99c6-5932097a2258/identifiers"
+   },
+   "mappedCollections": {
+    "href": "https://indiacode.gov.in/server/api/core/items/852e11bb-9bbe-4820-99c6-5932097a2258/mappedCollections"
+   },
+   "owningCollection": {
+    "href": "https://indiacode.gov.in/server/api/core/items/852e11bb-9bbe-4820-99c6-5932097a2258/owningCollection"
+   },
+   "relationships": {
+    "href": "https://indiacode.gov.in/server/api/core/items/852e11bb-9bbe-4820-99c6-5932097a2258/relationships"
+   },
+   "version": {
+    "href": "https://indiacode.gov.in/server/api/core/items/852e11bb-9bbe-4820-99c6-5932097a2258/version"
+   },
+   "templateItemOf": {
+    "href": "https://indiacode.gov.in/server/api/core/items/852e11bb-9bbe-4820-99c6-5932097a2258/templateItemOf"
+   },
+   "thumbnail": {
+    "href": "https://indiacode.gov.in/server/api/core/items/852e11bb-9bbe-4820-99c6-5932097a2258/thumbnail"
+   },
+   "submitter": {
+    "href": "https://indiacode.gov.in/server/api/core/items/852e11bb-9bbe-4820-99c6-5932097a2258/submitter"
+   },
+   "self": {
+    "href": "https://indiacode.gov.in/server/api/core/items/852e11bb-9bbe-4820-99c6-5932097a2258"
+   }
+  }
+ },
+ {
+  "id": "e15461d2-c0e1-4f46-972d-5bf013d632b1",
+  "uuid": "e15461d2-c0e1-4f46-972d-5bf013d632b1",
+  "name": "Power to court to order sale instead of division in partition suits.",
+  "handle": "123456789/531582",
+  "metadata": {
+   "dc.date.accessioned": [
+    {
+     "value": "2026-07-10T22:41:33Z",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.date.act_year": [
+    {
+     "value": "1893",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_id": [
+    {
+     "value": "AC_CEN_3_20_00070_189304_1547448130517",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_name": [
+    {
+     "value": "The Partition Act, 1893",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_number": [
+    {
+     "value": "4",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_repealed": [
+    {
+     "value": "false",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.collection": [
+    {
+     "value": "SECTION",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.department_id": [
+    {
+     "value": "20",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.department_name": [
+    {
+     "value": "Legislative Department",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.id": [
+    {
+     "value": "39001",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.ministry_id": [
+    {
+     "value": "3",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.ministry_name": [
+    {
+     "value": "Ministry of Law and Justice",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.order_number": [
+    {
+     "value": "2",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_from": [
+    {
+     "value": "0",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_number": [
+    {
+     "value": "2",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_to": [
+    {
+     "value": "0",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.repealed": [
+    {
+     "value": "false",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_id": [
+    {
+     "value": "39001",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_number": [
+    {
+     "value": "2",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_page_note": [
+    {
+     "value": "<span style=\"margin-left: 15px;\"></span>Whenever in any suit for partition in which, if instituted prior to the commencement of this Act, a decree for partition might have been made, it appears to the court that, by reason of the nature of the properly to which the suit relates, or of the number of the shareholders therein, or of any other special circumstance, a division of the property cannot reasonably or conveniently be made, and that a sale of the property and distribution of the proceeds would be more beneficial for all the shareholders, the court may, if it thinks fit, on the request of any of such shareholders interested individually or collectively to the extent of one moiety or upwards, direct a sale of the property and a distribution of the proceeds. <br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/>",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.state_id": [
+    {
+     "value": "1",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.state_name": [
+    {
+     "value": "CENTRAL",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.uri": [
+    {
+     "value": "http://test1.indiacode.nic.in/handle/123456789/531582",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.title": [
+    {
+     "value": "Power to court to order sale instead of division in partition suits.",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ]
+  },
+  "inArchive": true,
+  "discoverable": true,
+  "withdrawn": false,
+  "lastModified": "2026-07-10T22:41:33.481332Z",
+  "entityType": null,
+  "type": "item",
+  "_links": {
+   "accessStatus": {
+    "href": "https://indiacode.gov.in/server/api/core/items/e15461d2-c0e1-4f46-972d-5bf013d632b1/accessStatus"
+   },
+   "bundles": {
+    "href": "https://indiacode.gov.in/server/api/core/items/e15461d2-c0e1-4f46-972d-5bf013d632b1/bundles"
+   },
+   "identifiers": {
+    "href": "https://indiacode.gov.in/server/api/core/items/e15461d2-c0e1-4f46-972d-5bf013d632b1/identifiers"
+   },
+   "mappedCollections": {
+    "href": "https://indiacode.gov.in/server/api/core/items/e15461d2-c0e1-4f46-972d-5bf013d632b1/mappedCollections"
+   },
+   "owningCollection": {
+    "href": "https://indiacode.gov.in/server/api/core/items/e15461d2-c0e1-4f46-972d-5bf013d632b1/owningCollection"
+   },
+   "relationships": {
+    "href": "https://indiacode.gov.in/server/api/core/items/e15461d2-c0e1-4f46-972d-5bf013d632b1/relationships"
+   },
+   "version": {
+    "href": "https://indiacode.gov.in/server/api/core/items/e15461d2-c0e1-4f46-972d-5bf013d632b1/version"
+   },
+   "templateItemOf": {
+    "href": "https://indiacode.gov.in/server/api/core/items/e15461d2-c0e1-4f46-972d-5bf013d632b1/templateItemOf"
+   },
+   "thumbnail": {
+    "href": "https://indiacode.gov.in/server/api/core/items/e15461d2-c0e1-4f46-972d-5bf013d632b1/thumbnail"
+   },
+   "submitter": {
+    "href": "https://indiacode.gov.in/server/api/core/items/e15461d2-c0e1-4f46-972d-5bf013d632b1/submitter"
+   },
+   "self": {
+    "href": "https://indiacode.gov.in/server/api/core/items/e15461d2-c0e1-4f46-972d-5bf013d632b1"
+   }
+  }
+ },
+ {
+  "id": "e267c053-956f-4086-a011-c07d56de9d2a",
+  "uuid": "e267c053-956f-4086-a011-c07d56de9d2a",
+  "name": "Procedure when sharer undertakes to buy.",
+  "handle": "123456789/531583",
+  "metadata": {
+   "dc.date.accessioned": [
+    {
+     "value": "2026-07-10T22:41:33Z",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.date.act_year": [
+    {
+     "value": "1893",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_id": [
+    {
+     "value": "AC_CEN_3_20_00070_189304_1547448130517",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_name": [
+    {
+     "value": "The Partition Act, 1893",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_number": [
+    {
+     "value": "4",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_repealed": [
+    {
+     "value": "false",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.collection": [
+    {
+     "value": "SECTION",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.department_id": [
+    {
+     "value": "20",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.department_name": [
+    {
+     "value": "Legislative Department",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.id": [
+    {
+     "value": "39002",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.ministry_id": [
+    {
+     "value": "3",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.ministry_name": [
+    {
+     "value": "Ministry of Law and Justice",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.order_number": [
+    {
+     "value": "3",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_from": [
+    {
+     "value": "0",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_number": [
+    {
+     "value": "2",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_to": [
+    {
+     "value": "0",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.repealed": [
+    {
+     "value": "false",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_id": [
+    {
+     "value": "39002",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_number": [
+    {
+     "value": "3",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_page_note": [
+    {
+     "value": "<span style=\"margin-left: 15px;\"></span>(1) If, in any case in which the court is requested under the last foregoing section to direct a sale, any other shareholder applies for leave to buy at a valuation the share or shares of the party or parties asking for a sale, the court shall order a valuation of the share or shares in such manner as it may think fit and offer to sell the same to such shareholder at the price so ascertained, and may give all necessary and proper directions in that behalf.<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span> (2) If two or more shareholders severally apply for leave to buy as provided in sub-section (1), the court shall order a sale of the share or shares to the shareholder who offers to pay the highest price above the valuation made by the court.<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span> (3) If no such shareholder is willing to buy such share or shares at the price so ascertained, the applicant or applicants shall be liable to pay all costs of or incident to the application or applications.<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/>",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.state_id": [
+    {
+     "value": "1",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.state_name": [
+    {
+     "value": "CENTRAL",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.uri": [
+    {
+     "value": "http://test1.indiacode.nic.in/handle/123456789/531583",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.title": [
+    {
+     "value": "Procedure when sharer undertakes to buy.",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ]
+  },
+  "inArchive": true,
+  "discoverable": true,
+  "withdrawn": false,
+  "lastModified": "2026-07-10T22:41:33.555806Z",
+  "entityType": null,
+  "type": "item",
+  "_links": {
+   "accessStatus": {
+    "href": "https://indiacode.gov.in/server/api/core/items/e267c053-956f-4086-a011-c07d56de9d2a/accessStatus"
+   },
+   "bundles": {
+    "href": "https://indiacode.gov.in/server/api/core/items/e267c053-956f-4086-a011-c07d56de9d2a/bundles"
+   },
+   "identifiers": {
+    "href": "https://indiacode.gov.in/server/api/core/items/e267c053-956f-4086-a011-c07d56de9d2a/identifiers"
+   },
+   "mappedCollections": {
+    "href": "https://indiacode.gov.in/server/api/core/items/e267c053-956f-4086-a011-c07d56de9d2a/mappedCollections"
+   },
+   "owningCollection": {
+    "href": "https://indiacode.gov.in/server/api/core/items/e267c053-956f-4086-a011-c07d56de9d2a/owningCollection"
+   },
+   "relationships": {
+    "href": "https://indiacode.gov.in/server/api/core/items/e267c053-956f-4086-a011-c07d56de9d2a/relationships"
+   },
+   "version": {
+    "href": "https://indiacode.gov.in/server/api/core/items/e267c053-956f-4086-a011-c07d56de9d2a/version"
+   },
+   "templateItemOf": {
+    "href": "https://indiacode.gov.in/server/api/core/items/e267c053-956f-4086-a011-c07d56de9d2a/templateItemOf"
+   },
+   "thumbnail": {
+    "href": "https://indiacode.gov.in/server/api/core/items/e267c053-956f-4086-a011-c07d56de9d2a/thumbnail"
+   },
+   "submitter": {
+    "href": "https://indiacode.gov.in/server/api/core/items/e267c053-956f-4086-a011-c07d56de9d2a/submitter"
+   },
+   "self": {
+    "href": "https://indiacode.gov.in/server/api/core/items/e267c053-956f-4086-a011-c07d56de9d2a"
+   }
+  }
+ },
+ {
+  "id": "ffd19810-90e6-440b-8397-d97f0f3f18c0",
+  "uuid": "ffd19810-90e6-440b-8397-d97f0f3f18c0",
+  "name": "Saving of power to order partly partition and partly sale.",
+  "handle": "123456789/531589",
+  "metadata": {
+   "dc.date.accessioned": [
+    {
+     "value": "2026-07-10T22:41:33Z",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.date.act_year": [
+    {
+     "value": "1893",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_id": [
+    {
+     "value": "AC_CEN_3_20_00070_189304_1547448130517",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_name": [
+    {
+     "value": "The Partition Act, 1893",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_number": [
+    {
+     "value": "4",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_repealed": [
+    {
+     "value": "false",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.collection": [
+    {
+     "value": "SECTION",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.department_id": [
+    {
+     "value": "20",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.department_name": [
+    {
+     "value": "Legislative Department",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.id": [
+    {
+     "value": "39008",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.ministry_id": [
+    {
+     "value": "3",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.ministry_name": [
+    {
+     "value": "Ministry of Law and Justice",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.order_number": [
+    {
+     "value": "9",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_from": [
+    {
+     "value": "0",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_number": [
+    {
+     "value": "3",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_to": [
+    {
+     "value": "0",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.repealed": [
+    {
+     "value": "false",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_id": [
+    {
+     "value": "39008",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_number": [
+    {
+     "value": "9",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_page_note": [
+    {
+     "value": "<span style=\"margin-left: 15px;\"></span>In any suit for partition the court may, if it shall think fit, make a decree for a partition of part of the property to which the suit relates and a sale of the remainder under this Act<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/>",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.state_id": [
+    {
+     "value": "1",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.state_name": [
+    {
+     "value": "CENTRAL",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.uri": [
+    {
+     "value": "http://test1.indiacode.nic.in/handle/123456789/531589",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.title": [
+    {
+     "value": "Saving of power to order partly partition and partly sale.",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ]
+  },
+  "inArchive": true,
+  "discoverable": true,
+  "withdrawn": false,
+  "lastModified": "2026-07-10T22:41:34.000410Z",
+  "entityType": null,
+  "type": "item",
+  "_links": {
+   "accessStatus": {
+    "href": "https://indiacode.gov.in/server/api/core/items/ffd19810-90e6-440b-8397-d97f0f3f18c0/accessStatus"
+   },
+   "bundles": {
+    "href": "https://indiacode.gov.in/server/api/core/items/ffd19810-90e6-440b-8397-d97f0f3f18c0/bundles"
+   },
+   "identifiers": {
+    "href": "https://indiacode.gov.in/server/api/core/items/ffd19810-90e6-440b-8397-d97f0f3f18c0/identifiers"
+   },
+   "mappedCollections": {
+    "href": "https://indiacode.gov.in/server/api/core/items/ffd19810-90e6-440b-8397-d97f0f3f18c0/mappedCollections"
+   },
+   "owningCollection": {
+    "href": "https://indiacode.gov.in/server/api/core/items/ffd19810-90e6-440b-8397-d97f0f3f18c0/owningCollection"
+   },
+   "relationships": {
+    "href": "https://indiacode.gov.in/server/api/core/items/ffd19810-90e6-440b-8397-d97f0f3f18c0/relationships"
+   },
+   "version": {
+    "href": "https://indiacode.gov.in/server/api/core/items/ffd19810-90e6-440b-8397-d97f0f3f18c0/version"
+   },
+   "templateItemOf": {
+    "href": "https://indiacode.gov.in/server/api/core/items/ffd19810-90e6-440b-8397-d97f0f3f18c0/templateItemOf"
+   },
+   "thumbnail": {
+    "href": "https://indiacode.gov.in/server/api/core/items/ffd19810-90e6-440b-8397-d97f0f3f18c0/thumbnail"
+   },
+   "submitter": {
+    "href": "https://indiacode.gov.in/server/api/core/items/ffd19810-90e6-440b-8397-d97f0f3f18c0/submitter"
+   },
+   "self": {
+    "href": "https://indiacode.gov.in/server/api/core/items/ffd19810-90e6-440b-8397-d97f0f3f18c0"
+   }
+  }
+ }
+]

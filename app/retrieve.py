@@ -9,7 +9,7 @@ Hybrid retrieval:
 
 import numpy as np
 
-from . import llm
+from . import agents, llm
 from .kb import get_embedder, load_index, tokenize
 
 # Legal areas -> Acts. The rewriter picks areas; we boost Acts in those areas.
@@ -23,9 +23,8 @@ AREAS = {
     "housing": ["The Transfer of Property Act, 1882", "The Real Estate (Regulation and Development) Act, 2016"],
     "criminal": ["The Bharatiya Nyaya Sanhita, 2023", "The Bharatiya Nagarik Suraksha Sanhita, 2023",
                  "The Bharatiya Sakshya Adhiniyam, 2023"],
-    "family": ["The Protection of Women from Domestic Violence Act, 2005",
-               "The Maintenance and Welfare of Parents and Senior Citizens Act, 2007",
-               "The Dowry Prohibition Act, 1961"],
+    "family": agents.AGENTS["family"]["acts"],
+    "banking": agents.AGENTS["banking"]["acts"],
     "cyber_privacy": ["The Information Technology Act, 2000", "The Digital Personal Data Protection Act, 2023"],
     "government": ["The Right to Information Act, 2005", "The Legal Services Authorities Act, 1987"],
     "accident": ["The Motor Vehicles Act, 1988"],
@@ -42,10 +41,13 @@ Do NOT name section numbers; you might be wrong. Use plain legal phrases.""" % "
 RRF_K = 60
 
 
-def rewrite(question):
+def rewrite(question, agent=None):
+    system = REWRITE_PROMPT
+    if agent and agent != "general":
+        system += f"\nThis is a matter about {agents.get(agent)['route']}; write queries for that area of law."
     try:
         out = llm.chat_json([
-            {"role": "system", "content": REWRITE_PROMPT},
+            {"role": "system", "content": system},
             {"role": "user", "content": question},
         ], max_tokens=1500)
         queries = [q for q in out.get("queries", []) if isinstance(q, str)][:5]
@@ -55,35 +57,44 @@ def rewrite(question):
         return {"summary": question, "queries": [question], "areas": [], "rewrite_error": str(e)}
 
 
-def _bm25_ranks(index, query, n):
+def _bm25_ranks(index, query, n, mask=None):
     scores = index["bm25"].get_scores(tokenize(query))
+    if mask is not None:
+        scores = np.where(mask, scores, -np.inf)
     return list(np.argsort(-scores)[:n])
 
 
-def _dense_ranks(index, query, n):
+def _dense_ranks(index, query, n, mask=None):
     q = get_embedder().encode([f"query: {query}"], normalize_embeddings=True)[0]
     sims = index["embeddings"] @ q
+    if mask is not None:
+        sims = np.where(mask, sims, -np.inf)
     return list(np.argsort(-sims)[:n])
 
 
-def search(queries, areas=(), k=6, mode="hybrid", per_list=50, dense_queries=()):
+def search(queries, areas=(), k=6, mode="hybrid", per_list=50, dense_queries=(), acts=None):
     """
     Return the top-k sections.
     queries:       searched with `mode` (bm25 / dense / hybrid)
     dense_queries: searched with embeddings only. Used for the user's own words:
                    lay or Hindi phrasing rarely shares keywords with statute text,
                    so BM25 on it adds noise (measured: see raw_outputs/retrieval_eval_raw.txt).
+    acts:          if given, only these Acts are searched (an agent's scope of law)
     """
     index = load_index()
     chunks = index["chunks"]
+    mask = None
+    if acts:
+        wanted = set(acts)
+        mask = np.array([c["act"] in wanted for c in chunks])
     fused = {}
     jobs = [(q, mode) for q in queries] + [(q, "dense") for q in dense_queries]
     for q, m in jobs:
         lists = []
         if m in ("hybrid", "bm25"):
-            lists.append(_bm25_ranks(index, q, per_list))
+            lists.append(_bm25_ranks(index, q, per_list, mask))
         if m in ("hybrid", "dense"):
-            lists.append(_dense_ranks(index, q, per_list))
+            lists.append(_dense_ranks(index, q, per_list, mask))
         for ranks in lists:
             for rank, ci in enumerate(ranks):
                 fused[ci] = fused.get(ci, 0.0) + 1.0 / (RRF_K + rank)
@@ -117,13 +128,14 @@ DEFAULT_MODE = "dense"
 DEFAULT_K = 8
 
 
-def retrieve(question, k=DEFAULT_K, use_rewrite=True, mode=DEFAULT_MODE):
+def retrieve(question, k=DEFAULT_K, use_rewrite=True, mode=DEFAULT_MODE, agent=None):
+    acts = agents.get(agent)["acts"] if agent else None
     if use_rewrite and llm.is_configured():
-        rw = rewrite(question)
+        rw = rewrite(question, agent)
     else:
         rw = {"summary": question, "queries": [], "areas": [], "rewrite_error": "no LLM configured"}
     # Always also search the user's own words, in case the rewrite misses something.
     rewritten = [q for q in rw["queries"] if q != question]
     if mode == "hybrid":  # BM25 only on legal phrasing; user's words via embeddings
-        return search(rewritten, rw["areas"], k=k, mode="hybrid", dense_queries=[question]), rw
-    return search(rewritten + [question], rw["areas"], k=k, mode=mode), rw
+        return search(rewritten, rw["areas"], k=k, mode="hybrid", dense_queries=[question], acts=acts), rw
+    return search(rewritten + [question], rw["areas"], k=k, mode=mode, acts=acts), rw

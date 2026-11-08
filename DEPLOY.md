@@ -99,6 +99,7 @@ To update the app later: commit, then `git push space main`. To update GitHub: `
 | Build fails at `pip install` | Look at the Logs tab. If a pinned version is unavailable on Linux, relax that line in `requirements.txt` (e.g. `streamlit>=1.48`). |
 | "No AI model configured" banner | A secret/variable is missing or misnamed (names are case-sensitive). Restart the Space after adding it. |
 | "Free AI quota is used up" | Wait (quota resets daily), or add another fallback model or provider key. |
+| Hugging Face rejects files over 10 MB | The index in `data/index/` is now over 10 MB, and the Docker build doesn't need it. Leave it out of the Space's copy of the repo, or track it with `git xet install`. |
 | Search results look out of date | The index is committed for hosts that don't build it. After changing the Acts, run `python scripts/build_index.py` and commit `data/index/`. |
 | App works locally but not on the Space | Check that `data/processed/sections.jsonl` was pushed: the index is built from it. |
 

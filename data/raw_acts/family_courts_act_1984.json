@@ -1,0 +1,6615 @@
+[
+ {
+  "id": "2771505a-50b8-4832-b3e3-fd6928378717",
+  "uuid": "2771505a-50b8-4832-b3e3-fd6928378717",
+  "name": "Appeal.",
+  "handle": "123456789/546988",
+  "metadata": {
+   "dc.date.accessioned": [
+    {
+     "value": "2026-07-10T23:20:29Z",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.date.act_year": [
+    {
+     "value": "1984",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_id": [
+    {
+     "value": "AC_CEN_3_3_00019_198466_1517807326692",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_name": [
+    {
+     "value": "The Family Courts Act, 1984",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_number": [
+    {
+     "value": "66",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_repealed": [
+    {
+     "value": "false",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.collection": [
+    {
+     "value": "SECTION",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.department_id": [
+    {
+     "value": "3",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.department_name": [
+    {
+     "value": "Department of Justice",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.id": [
+    {
+     "value": "9560",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.ministry_id": [
+    {
+     "value": "3",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.ministry_name": [
+    {
+     "value": "Ministry of Law and Justice",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.next_section": [
+    {
+     "value": "20.Act to have overriding effect.",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.order_number": [
+    {
+     "value": "19",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_from": [
+    {
+     "value": "0",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_number": [
+    {
+     "value": "7",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_to": [
+    {
+     "value": "0",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.repealed": [
+    {
+     "value": "false",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_footnote": [
+    {
+     "value": "<sup>1</sup>. Subs. by Act 59 of 1991, s. 2, for &quot;Appeals&quot; (w.e.f 28-12-1991).<br/><hr style=\"border: none; margin-bottom: 3px; margin-top: 0;\"/> <sup>2</sup>. Ins. by s.2, <i>ibid</i>. (w.e.f. 28-12-1991).<br/><hr style=\"border: none; margin-bottom: 3px; margin-top: 0;\"/> <sup>3</sup>. Sub-section <i>(4)</i> renumbered as sub-section <i>(5)</i> thereof by s. 2, <i>ibid</i>. (w.e.f. 28-12-1991).<br/><hr style=\"border: none; margin-bottom: 3px; margin-top: 0;\"/> <sup>4</sup>. Sub-section (6) by the Jammu and Kashmir Reorganization (Adaptation of Central Laws) Order, 2020, <i>vide</i> notification No. S.O. 1123(E) dated (18-3-2020) and <i>vide</i> Union Territory of Ladakh Reorganisation (Adaptation of Central Laws) Order, 2020, notification No. S.O. 3774(E), dated (23-10-2020).<br/><hr style=\"border: none; margin-bottom: 3px; margin-top: 0;\"/>",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_id": [
+    {
+     "value": "9560",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_number": [
+    {
+     "value": "19",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_page_note": [
+    {
+     "value": "<span style=\"margin-left: 15px;\"></span><sup>1</sup>(1) Save as provided in sub-section <i>(2)</i> and notwithstanding anything contained in the Code of Civil Procedure,1908 (5 of 1908) or in the Code of Criminal Procedure, 1973 (2 of 1974) or in any other law, an appeal shall lie from every judgment or order, not being an interlocutory order, of a Family Court to the High Court both on facts and on law.<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span> (2) No appeal shall lie from a decree or order passed by the Family Court with the consent of the parties<sup>2</sup> [or from an order passed under Chapter IX of the Code of Criminal Procedure, 1973 (2 of 1974):<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span> Provided that nothing in this sub-section shall apply to any appeal pending before a High Court or any order passed under Chapter IX of the Code of Criminal Procedure, 1973 (2 of 1974) before the commencement of the Family Courts (Amendment) Act, 1991 (59 of 1991).]<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span> (3) Every appeal under this section shall be preferred within a period of thirty days from the date of the judgment or order of a Family Court.<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span> <sup>2</sup> [(4) The High Court may, of its own motion or otherwise, call for and examine the record of any proceeding in which the Family Court situate within its jurisdiction passed an order under Chapter IX of the Code of Criminal Procedure, 1973 (2 of 1974) for the purpose of satisfying itself as to the correctness, legality or propriety of the order, not being an interlocutory order, and as to the regularity of such proceeding.]<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span> <sup>3</sup> [(5)] Except as aforesaid, no appeal or revision shall lie to any court from any judgment, order or decree of a Family Court.<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span> <sup>4</sup> *<span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span>*<span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span>*<span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span>*<span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span>* <br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/>",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.state_id": [
+    {
+     "value": "1",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.state_name": [
+    {
+     "value": "CENTRAL",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.uri": [
+    {
+     "value": "http://test1.indiacode.nic.in/handle/123456789/546988",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.title": [
+    {
+     "value": "Appeal.",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ]
+  },
+  "inArchive": true,
+  "discoverable": true,
+  "withdrawn": false,
+  "lastModified": "2026-07-10T23:20:29.712216Z",
+  "entityType": null,
+  "type": "item",
+  "_links": {
+   "accessStatus": {
+    "href": "https://indiacode.gov.in/server/api/core/items/2771505a-50b8-4832-b3e3-fd6928378717/accessStatus"
+   },
+   "bundles": {
+    "href": "https://indiacode.gov.in/server/api/core/items/2771505a-50b8-4832-b3e3-fd6928378717/bundles"
+   },
+   "identifiers": {
+    "href": "https://indiacode.gov.in/server/api/core/items/2771505a-50b8-4832-b3e3-fd6928378717/identifiers"
+   },
+   "mappedCollections": {
+    "href": "https://indiacode.gov.in/server/api/core/items/2771505a-50b8-4832-b3e3-fd6928378717/mappedCollections"
+   },
+   "owningCollection": {
+    "href": "https://indiacode.gov.in/server/api/core/items/2771505a-50b8-4832-b3e3-fd6928378717/owningCollection"
+   },
+   "relationships": {
+    "href": "https://indiacode.gov.in/server/api/core/items/2771505a-50b8-4832-b3e3-fd6928378717/relationships"
+   },
+   "version": {
+    "href": "https://indiacode.gov.in/server/api/core/items/2771505a-50b8-4832-b3e3-fd6928378717/version"
+   },
+   "templateItemOf": {
+    "href": "https://indiacode.gov.in/server/api/core/items/2771505a-50b8-4832-b3e3-fd6928378717/templateItemOf"
+   },
+   "thumbnail": {
+    "href": "https://indiacode.gov.in/server/api/core/items/2771505a-50b8-4832-b3e3-fd6928378717/thumbnail"
+   },
+   "submitter": {
+    "href": "https://indiacode.gov.in/server/api/core/items/2771505a-50b8-4832-b3e3-fd6928378717/submitter"
+   },
+   "self": {
+    "href": "https://indiacode.gov.in/server/api/core/items/2771505a-50b8-4832-b3e3-fd6928378717"
+   }
+  }
+ },
+ {
+  "id": "25c73250-1da0-46a7-8c78-fe829e1e9781",
+  "uuid": "25c73250-1da0-46a7-8c78-fe829e1e9781",
+  "name": "Association of social welfare agencies, etc.",
+  "handle": "123456789/546919",
+  "metadata": {
+   "dc.date.accessioned": [
+    {
+     "value": "2026-07-10T23:20:22Z",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.date.act_year": [
+    {
+     "value": "1984",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_id": [
+    {
+     "value": "AC_CEN_3_3_00019_198466_1517807326692",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_name": [
+    {
+     "value": "The Family Courts Act, 1984",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_number": [
+    {
+     "value": "66",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_repealed": [
+    {
+     "value": "false",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.collection": [
+    {
+     "value": "SECTION",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.department_id": [
+    {
+     "value": "3",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.department_name": [
+    {
+     "value": "Department of Justice",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.id": [
+    {
+     "value": "9546",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.ministry_id": [
+    {
+     "value": "3",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.ministry_name": [
+    {
+     "value": "Ministry of Law and Justice",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.next_section": [
+    {
+     "value": "6.Counsellors, officers and other employees of Family Courts.",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.order_number": [
+    {
+     "value": "5",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_from": [
+    {
+     "value": "0",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_number": [
+    {
+     "value": "4",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_to": [
+    {
+     "value": "0",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.repealed": [
+    {
+     "value": "false",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_id": [
+    {
+     "value": "9546",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_number": [
+    {
+     "value": "5",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_page_note": [
+    {
+     "value": "<span style=\"margin-left: 15px;\"></span>The State Government may, in consultation with the High Court, provide, by rules, for the association, in such manner and for such purposes and subject to such conditions as may be specified in the rules, with a Family Court of—<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span> (a) institutions or organisations engaged in social welfare or the representatives thereof;<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span> (b) persons professionally engaged in promoting the welfare of the family;<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span> (c) persons working in the field of social welfare; and<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span> (d) any other person whose association with a Family Court would enable it to exercise its jurisdiction more effectively in accordance with the purposes of this Act.<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/>",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.state_id": [
+    {
+     "value": "1",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.state_name": [
+    {
+     "value": "CENTRAL",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.uri": [
+    {
+     "value": "http://test1.indiacode.nic.in/handle/123456789/546919",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.title": [
+    {
+     "value": "Association of social welfare agencies, etc.",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ]
+  },
+  "inArchive": true,
+  "discoverable": true,
+  "withdrawn": false,
+  "lastModified": "2026-07-10T23:20:22.927220Z",
+  "entityType": null,
+  "type": "item",
+  "_links": {
+   "accessStatus": {
+    "href": "https://indiacode.gov.in/server/api/core/items/25c73250-1da0-46a7-8c78-fe829e1e9781/accessStatus"
+   },
+   "bundles": {
+    "href": "https://indiacode.gov.in/server/api/core/items/25c73250-1da0-46a7-8c78-fe829e1e9781/bundles"
+   },
+   "identifiers": {
+    "href": "https://indiacode.gov.in/server/api/core/items/25c73250-1da0-46a7-8c78-fe829e1e9781/identifiers"
+   },
+   "mappedCollections": {
+    "href": "https://indiacode.gov.in/server/api/core/items/25c73250-1da0-46a7-8c78-fe829e1e9781/mappedCollections"
+   },
+   "owningCollection": {
+    "href": "https://indiacode.gov.in/server/api/core/items/25c73250-1da0-46a7-8c78-fe829e1e9781/owningCollection"
+   },
+   "relationships": {
+    "href": "https://indiacode.gov.in/server/api/core/items/25c73250-1da0-46a7-8c78-fe829e1e9781/relationships"
+   },
+   "version": {
+    "href": "https://indiacode.gov.in/server/api/core/items/25c73250-1da0-46a7-8c78-fe829e1e9781/version"
+   },
+   "templateItemOf": {
+    "href": "https://indiacode.gov.in/server/api/core/items/25c73250-1da0-46a7-8c78-fe829e1e9781/templateItemOf"
+   },
+   "thumbnail": {
+    "href": "https://indiacode.gov.in/server/api/core/items/25c73250-1da0-46a7-8c78-fe829e1e9781/thumbnail"
+   },
+   "submitter": {
+    "href": "https://indiacode.gov.in/server/api/core/items/25c73250-1da0-46a7-8c78-fe829e1e9781/submitter"
+   },
+   "self": {
+    "href": "https://indiacode.gov.in/server/api/core/items/25c73250-1da0-46a7-8c78-fe829e1e9781"
+   }
+  }
+ },
+ {
+  "id": "24fb76f2-aaba-49ab-963e-73670ce2856d",
+  "uuid": "24fb76f2-aaba-49ab-963e-73670ce2856d",
+  "name": "Power of the Central Government to make rules.",
+  "handle": "123456789/546991",
+  "metadata": {
+   "dc.date.accessioned": [
+    {
+     "value": "2026-07-10T23:20:30Z",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.date.act_year": [
+    {
+     "value": "1984",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_id": [
+    {
+     "value": "AC_CEN_3_3_00019_198466_1517807326692",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_name": [
+    {
+     "value": "The Family Courts Act, 1984",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_number": [
+    {
+     "value": "66",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_repealed": [
+    {
+     "value": "false",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.collection": [
+    {
+     "value": "SECTION",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.department_id": [
+    {
+     "value": "3",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.department_name": [
+    {
+     "value": "Department of Justice",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.id": [
+    {
+     "value": "9563",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.ministry_id": [
+    {
+     "value": "3",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.ministry_name": [
+    {
+     "value": "Ministry of Law and Justice",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.next_section": [
+    {
+     "value": "23.Power of the State Government to make rules.",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.order_number": [
+    {
+     "value": "22",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_from": [
+    {
+     "value": "0",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_number": [
+    {
+     "value": "8",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_to": [
+    {
+     "value": "0",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.repealed": [
+    {
+     "value": "false",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_id": [
+    {
+     "value": "9563",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_number": [
+    {
+     "value": "22",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_page_note": [
+    {
+     "value": "<span style=\"margin-left: 15px;\"></span>(1) The Central Government may, with the concurrence of the Chief Justice of India, by notification, make rules prescribing the other qualifications for appointment of a Judge referred to in clause <i>(c)</i> of sub-section <i>(3)</i> of section 4.<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span> (2) Every rule made under this Act by the Central Government shall be laid, as soon as may be after it is made, before each House of Parliament, while it is in session, for a total period of thirty days which may be comprised in one session or in two or more successive sessions, and if, before the expiry of the session immediately following the session or the successive sessions aforesaid, both Houses agree in making any modification in the rule or both Houses agree that the rule should not be made, the rule shall thereafter have effect only in such modified form or be of no effect, as the case may be; so, however, that any such modification or annulment shall be without prejudice to the validity of anything previously done under that rule.<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/>",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.state_id": [
+    {
+     "value": "1",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.state_name": [
+    {
+     "value": "CENTRAL",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.uri": [
+    {
+     "value": "http://test1.indiacode.nic.in/handle/123456789/546991",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.title": [
+    {
+     "value": "Power of the Central Government to make rules.",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ]
+  },
+  "inArchive": true,
+  "discoverable": true,
+  "withdrawn": false,
+  "lastModified": "2026-07-10T23:20:30.042506Z",
+  "entityType": null,
+  "type": "item",
+  "_links": {
+   "accessStatus": {
+    "href": "https://indiacode.gov.in/server/api/core/items/24fb76f2-aaba-49ab-963e-73670ce2856d/accessStatus"
+   },
+   "bundles": {
+    "href": "https://indiacode.gov.in/server/api/core/items/24fb76f2-aaba-49ab-963e-73670ce2856d/bundles"
+   },
+   "identifiers": {
+    "href": "https://indiacode.gov.in/server/api/core/items/24fb76f2-aaba-49ab-963e-73670ce2856d/identifiers"
+   },
+   "mappedCollections": {
+    "href": "https://indiacode.gov.in/server/api/core/items/24fb76f2-aaba-49ab-963e-73670ce2856d/mappedCollections"
+   },
+   "owningCollection": {
+    "href": "https://indiacode.gov.in/server/api/core/items/24fb76f2-aaba-49ab-963e-73670ce2856d/owningCollection"
+   },
+   "relationships": {
+    "href": "https://indiacode.gov.in/server/api/core/items/24fb76f2-aaba-49ab-963e-73670ce2856d/relationships"
+   },
+   "version": {
+    "href": "https://indiacode.gov.in/server/api/core/items/24fb76f2-aaba-49ab-963e-73670ce2856d/version"
+   },
+   "templateItemOf": {
+    "href": "https://indiacode.gov.in/server/api/core/items/24fb76f2-aaba-49ab-963e-73670ce2856d/templateItemOf"
+   },
+   "thumbnail": {
+    "href": "https://indiacode.gov.in/server/api/core/items/24fb76f2-aaba-49ab-963e-73670ce2856d/thumbnail"
+   },
+   "submitter": {
+    "href": "https://indiacode.gov.in/server/api/core/items/24fb76f2-aaba-49ab-963e-73670ce2856d/submitter"
+   },
+   "self": {
+    "href": "https://indiacode.gov.in/server/api/core/items/24fb76f2-aaba-49ab-963e-73670ce2856d"
+   }
+  }
+ },
+ {
+  "id": "4e7de26c-2f6d-4b8e-b642-042762f1b585",
+  "uuid": "4e7de26c-2f6d-4b8e-b642-042762f1b585",
+  "name": "Power of High Court to make rules.",
+  "handle": "123456789/546990",
+  "metadata": {
+   "dc.date.accessioned": [
+    {
+     "value": "2026-07-10T23:20:29Z",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.date.act_year": [
+    {
+     "value": "1984",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_id": [
+    {
+     "value": "AC_CEN_3_3_00019_198466_1517807326692",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_name": [
+    {
+     "value": "The Family Courts Act, 1984",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_number": [
+    {
+     "value": "66",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_repealed": [
+    {
+     "value": "false",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.collection": [
+    {
+     "value": "SECTION",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.department_id": [
+    {
+     "value": "3",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.department_name": [
+    {
+     "value": "Department of Justice",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.id": [
+    {
+     "value": "9562",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.linked_id": [
+    {
+     "value": "RU_UP_88_480_00002_1644567282699",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    },
+    {
+     "value": "NO_CEN_3_3_00001_1525416626250",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 1
+    },
+    {
+     "value": "RU_CEN_3_3_00005_1525416052268",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 2
+    },
+    {
+     "value": "RU_CEN_3_3_00007_1526903539669",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 3
+    },
+    {
+     "value": "RU_CEN_3_3_00004_1525415004569",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 4
+    },
+    {
+     "value": "RU_CEN_3_3_00001_1524208244663",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 5
+    },
+    {
+     "value": "RU_CEN_3_3_00002_1524208298120",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 6
+    },
+    {
+     "value": "RU_CEN_3_3_00006_1526276125583",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 7
+    },
+    {
+     "value": "RU_CEN_3_3_00003_1524831065116",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 8
+    }
+   ],
+   "dc.identifier.ministry_id": [
+    {
+     "value": "3",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.ministry_name": [
+    {
+     "value": "Ministry of Law and Justice",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.next_section": [
+    {
+     "value": "22.Power of the Central Government to make rules.",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.order_number": [
+    {
+     "value": "21",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_from": [
+    {
+     "value": "0",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_number": [
+    {
+     "value": "7",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_to": [
+    {
+     "value": "0",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.repealed": [
+    {
+     "value": "false",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_id": [
+    {
+     "value": "9562",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_number": [
+    {
+     "value": "21",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_page_note": [
+    {
+     "value": "<span style=\"margin-left: 15px;\"></span>(1) The High Court may, by notification in the Official Gazette, make such rules as it may deem necessary for carrying out the purposes of this Act.<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span> (2) In particular, and without prejudice to the generality of the foregoing power, such rules may provide for all or any of the following matters, namely:—<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span> (a) normal working hours of Family Courts and holding of sittings of Family Courts on holidays and outside normal working hours;<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span> (b) holding of sittings of Family Courts at places other than their ordinary places of sitting;<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span> (c) efforts which may be made by, and the procedure which may be followed by, a Family Court for assisting and persuading parties to arrive at a settlement.<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/>",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.state_id": [
+    {
+     "value": "1",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.state_name": [
+    {
+     "value": "CENTRAL",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.uri": [
+    {
+     "value": "http://test1.indiacode.nic.in/handle/123456789/546990",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.title": [
+    {
+     "value": "Power of High Court to make rules.",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ]
+  },
+  "inArchive": true,
+  "discoverable": true,
+  "withdrawn": false,
+  "lastModified": "2026-07-10T23:20:29.941321Z",
+  "entityType": null,
+  "type": "item",
+  "_links": {
+   "accessStatus": {
+    "href": "https://indiacode.gov.in/server/api/core/items/4e7de26c-2f6d-4b8e-b642-042762f1b585/accessStatus"
+   },
+   "bundles": {
+    "href": "https://indiacode.gov.in/server/api/core/items/4e7de26c-2f6d-4b8e-b642-042762f1b585/bundles"
+   },
+   "identifiers": {
+    "href": "https://indiacode.gov.in/server/api/core/items/4e7de26c-2f6d-4b8e-b642-042762f1b585/identifiers"
+   },
+   "mappedCollections": {
+    "href": "https://indiacode.gov.in/server/api/core/items/4e7de26c-2f6d-4b8e-b642-042762f1b585/mappedCollections"
+   },
+   "owningCollection": {
+    "href": "https://indiacode.gov.in/server/api/core/items/4e7de26c-2f6d-4b8e-b642-042762f1b585/owningCollection"
+   },
+   "relationships": {
+    "href": "https://indiacode.gov.in/server/api/core/items/4e7de26c-2f6d-4b8e-b642-042762f1b585/relationships"
+   },
+   "version": {
+    "href": "https://indiacode.gov.in/server/api/core/items/4e7de26c-2f6d-4b8e-b642-042762f1b585/version"
+   },
+   "templateItemOf": {
+    "href": "https://indiacode.gov.in/server/api/core/items/4e7de26c-2f6d-4b8e-b642-042762f1b585/templateItemOf"
+   },
+   "thumbnail": {
+    "href": "https://indiacode.gov.in/server/api/core/items/4e7de26c-2f6d-4b8e-b642-042762f1b585/thumbnail"
+   },
+   "submitter": {
+    "href": "https://indiacode.gov.in/server/api/core/items/4e7de26c-2f6d-4b8e-b642-042762f1b585/submitter"
+   },
+   "self": {
+    "href": "https://indiacode.gov.in/server/api/core/items/4e7de26c-2f6d-4b8e-b642-042762f1b585"
+   }
+  }
+ },
+ {
+  "id": "45fc7273-ac0b-40fd-88c3-851937efca47",
+  "uuid": "45fc7273-ac0b-40fd-88c3-851937efca47",
+  "name": "Jurisdiction.",
+  "handle": "123456789/546921",
+  "metadata": {
+   "dc.date.accessioned": [
+    {
+     "value": "2026-07-10T23:20:23Z",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.date.act_year": [
+    {
+     "value": "1984",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_id": [
+    {
+     "value": "AC_CEN_3_3_00019_198466_1517807326692",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_name": [
+    {
+     "value": "The Family Courts Act, 1984",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_number": [
+    {
+     "value": "66",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_repealed": [
+    {
+     "value": "false",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.collection": [
+    {
+     "value": "SECTION",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.department_id": [
+    {
+     "value": "3",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.department_name": [
+    {
+     "value": "Department of Justice",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.id": [
+    {
+     "value": "9548",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.ministry_id": [
+    {
+     "value": "3",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.ministry_name": [
+    {
+     "value": "Ministry of Law and Justice",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.next_section": [
+    {
+     "value": "8.Exclusion of jurisdiction and pending proceedings.",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.order_number": [
+    {
+     "value": "7",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_from": [
+    {
+     "value": "0",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_number": [
+    {
+     "value": "4",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_to": [
+    {
+     "value": "0",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.repealed": [
+    {
+     "value": "false",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_id": [
+    {
+     "value": "9548",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_number": [
+    {
+     "value": "7",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_page_note": [
+    {
+     "value": "<span style=\"margin-left: 15px;\"></span>(1) Subject to the other provisions of this Act, a Family Court shall—<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span> (a) have and exercise all the jurisdiction exercisable by any district court or any subordinate civil court under any law for the time being in force in respect of suits and proceedings of the nature referred to in the <i>Explanation</i>; and<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span> (b) be deemed, for the purposes of exercising such jurisdiction under such law, to be a district court or, as the case may be, such subordinate civil court for the area to which the jurisdiction of the Family Court extends.<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span> <i>Explanation</i>.—The suits and proceedings referred to in this sub-section are suits and proceedings of the following nature, namely:—<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span> (a) a suit or proceeding between the parties to a marriage for a decree of nullity of marriage (declaring the marriage to be null and void or, as the case may be, annulling the marriage) or restitution of conjugal rights or judicial separation or dissolution of marriage;<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span> (b) a suit or proceeding for a declaration as to the validity of a marriage or as to the matrimonial status of any person;<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span> (c) a suit or proceeding between the parties to a marriage with respect to the property of the parties or of either of them;<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span> (d) a suit or proceeding for an order or injunction in circumstance arising out of a marital relationship;<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span> (e) a suit or proceeding for a declaration as to the legitimacy of any person;<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span> (f) a suit or proceeding for maintenance;<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span> (g) a suit or proceeding in relation to the guardianship of the person or the custody of, or access to, any minor.<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span> (2) Subject to the other provisions of this Act, a Family Court shall also have and exercise—<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span> (a) the jurisdiction exercisable by a Magistrate of the first class under Chapter IX (relating to order for maintenance of wife, children and parents) of the Code of Criminal Procedure, 1973 (2 of 1974); and<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span> (b) such other jurisdiction as may be conferred on it by any other enactment. <br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/>",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.state_id": [
+    {
+     "value": "1",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.state_name": [
+    {
+     "value": "CENTRAL",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.uri": [
+    {
+     "value": "http://test1.indiacode.nic.in/handle/123456789/546921",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.title": [
+    {
+     "value": "Jurisdiction.",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ]
+  },
+  "inArchive": true,
+  "discoverable": true,
+  "withdrawn": false,
+  "lastModified": "2026-07-10T23:20:23.116170Z",
+  "entityType": null,
+  "type": "item",
+  "_links": {
+   "accessStatus": {
+    "href": "https://indiacode.gov.in/server/api/core/items/45fc7273-ac0b-40fd-88c3-851937efca47/accessStatus"
+   },
+   "bundles": {
+    "href": "https://indiacode.gov.in/server/api/core/items/45fc7273-ac0b-40fd-88c3-851937efca47/bundles"
+   },
+   "identifiers": {
+    "href": "https://indiacode.gov.in/server/api/core/items/45fc7273-ac0b-40fd-88c3-851937efca47/identifiers"
+   },
+   "mappedCollections": {
+    "href": "https://indiacode.gov.in/server/api/core/items/45fc7273-ac0b-40fd-88c3-851937efca47/mappedCollections"
+   },
+   "owningCollection": {
+    "href": "https://indiacode.gov.in/server/api/core/items/45fc7273-ac0b-40fd-88c3-851937efca47/owningCollection"
+   },
+   "relationships": {
+    "href": "https://indiacode.gov.in/server/api/core/items/45fc7273-ac0b-40fd-88c3-851937efca47/relationships"
+   },
+   "version": {
+    "href": "https://indiacode.gov.in/server/api/core/items/45fc7273-ac0b-40fd-88c3-851937efca47/version"
+   },
+   "templateItemOf": {
+    "href": "https://indiacode.gov.in/server/api/core/items/45fc7273-ac0b-40fd-88c3-851937efca47/templateItemOf"
+   },
+   "thumbnail": {
+    "href": "https://indiacode.gov.in/server/api/core/items/45fc7273-ac0b-40fd-88c3-851937efca47/thumbnail"
+   },
+   "submitter": {
+    "href": "https://indiacode.gov.in/server/api/core/items/45fc7273-ac0b-40fd-88c3-851937efca47/submitter"
+   },
+   "self": {
+    "href": "https://indiacode.gov.in/server/api/core/items/45fc7273-ac0b-40fd-88c3-851937efca47"
+   }
+  }
+ },
+ {
+  "id": "3cd4cb68-4773-47f0-a03c-7af1b225e533",
+  "uuid": "3cd4cb68-4773-47f0-a03c-7af1b225e533",
+  "name": "Right to legal representation.",
+  "handle": "123456789/546950",
+  "metadata": {
+   "dc.date.accessioned": [
+    {
+     "value": "2026-07-10T23:20:25Z",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.date.act_year": [
+    {
+     "value": "1984",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_id": [
+    {
+     "value": "AC_CEN_3_3_00019_198466_1517807326692",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_name": [
+    {
+     "value": "The Family Courts Act, 1984",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_number": [
+    {
+     "value": "66",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_repealed": [
+    {
+     "value": "false",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.collection": [
+    {
+     "value": "SECTION",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.department_id": [
+    {
+     "value": "3",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.department_name": [
+    {
+     "value": "Department of Justice",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.id": [
+    {
+     "value": "9554",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.ministry_id": [
+    {
+     "value": "3",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.ministry_name": [
+    {
+     "value": "Ministry of Law and Justice",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.next_section": [
+    {
+     "value": "14.Application of Indian Evidence Act, 1872.",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.order_number": [
+    {
+     "value": "13",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_from": [
+    {
+     "value": "0",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_number": [
+    {
+     "value": "6",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_to": [
+    {
+     "value": "0",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.repealed": [
+    {
+     "value": "false",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_id": [
+    {
+     "value": "9554",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_number": [
+    {
+     "value": "13",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_page_note": [
+    {
+     "value": "<span style=\"margin-left: 15px;\"></span>Notwithstanding anything contained in any law, no party to a suit or proceeding before a Family Court shall be entitled, as of right, to be represented by a legal practitioner:<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span> Provided that if the Family Court considers it necessary in the interest of justice, it may seek the assistance of a legal expert as <i>amicus curiae</i>.<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/>",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.state_id": [
+    {
+     "value": "1",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.state_name": [
+    {
+     "value": "CENTRAL",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.uri": [
+    {
+     "value": "http://test1.indiacode.nic.in/handle/123456789/546950",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.title": [
+    {
+     "value": "Right to legal representation.",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ]
+  },
+  "inArchive": true,
+  "discoverable": true,
+  "withdrawn": false,
+  "lastModified": "2026-07-10T23:20:25.938708Z",
+  "entityType": null,
+  "type": "item",
+  "_links": {
+   "accessStatus": {
+    "href": "https://indiacode.gov.in/server/api/core/items/3cd4cb68-4773-47f0-a03c-7af1b225e533/accessStatus"
+   },
+   "bundles": {
+    "href": "https://indiacode.gov.in/server/api/core/items/3cd4cb68-4773-47f0-a03c-7af1b225e533/bundles"
+   },
+   "identifiers": {
+    "href": "https://indiacode.gov.in/server/api/core/items/3cd4cb68-4773-47f0-a03c-7af1b225e533/identifiers"
+   },
+   "mappedCollections": {
+    "href": "https://indiacode.gov.in/server/api/core/items/3cd4cb68-4773-47f0-a03c-7af1b225e533/mappedCollections"
+   },
+   "owningCollection": {
+    "href": "https://indiacode.gov.in/server/api/core/items/3cd4cb68-4773-47f0-a03c-7af1b225e533/owningCollection"
+   },
+   "relationships": {
+    "href": "https://indiacode.gov.in/server/api/core/items/3cd4cb68-4773-47f0-a03c-7af1b225e533/relationships"
+   },
+   "version": {
+    "href": "https://indiacode.gov.in/server/api/core/items/3cd4cb68-4773-47f0-a03c-7af1b225e533/version"
+   },
+   "templateItemOf": {
+    "href": "https://indiacode.gov.in/server/api/core/items/3cd4cb68-4773-47f0-a03c-7af1b225e533/templateItemOf"
+   },
+   "thumbnail": {
+    "href": "https://indiacode.gov.in/server/api/core/items/3cd4cb68-4773-47f0-a03c-7af1b225e533/thumbnail"
+   },
+   "submitter": {
+    "href": "https://indiacode.gov.in/server/api/core/items/3cd4cb68-4773-47f0-a03c-7af1b225e533/submitter"
+   },
+   "self": {
+    "href": "https://indiacode.gov.in/server/api/core/items/3cd4cb68-4773-47f0-a03c-7af1b225e533"
+   }
+  }
+ },
+ {
+  "id": "47335219-7d0c-4c69-980c-35ffa38875da",
+  "uuid": "47335219-7d0c-4c69-980c-35ffa38875da",
+  "name": "Proceedings to be held in camera.",
+  "handle": "123456789/546928",
+  "metadata": {
+   "dc.date.accessioned": [
+    {
+     "value": "2026-07-10T23:20:23Z",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.date.act_year": [
+    {
+     "value": "1984",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_id": [
+    {
+     "value": "AC_CEN_3_3_00019_198466_1517807326692",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_name": [
+    {
+     "value": "The Family Courts Act, 1984",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_number": [
+    {
+     "value": "66",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_repealed": [
+    {
+     "value": "false",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.collection": [
+    {
+     "value": "SECTION",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.department_id": [
+    {
+     "value": "3",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.department_name": [
+    {
+     "value": "Department of Justice",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.id": [
+    {
+     "value": "9552",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.ministry_id": [
+    {
+     "value": "3",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.ministry_name": [
+    {
+     "value": "Ministry of Law and Justice",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.next_section": [
+    {
+     "value": "12.Assistance of medical and welfare experts.",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.order_number": [
+    {
+     "value": "11",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_from": [
+    {
+     "value": "0",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_number": [
+    {
+     "value": "6",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_to": [
+    {
+     "value": "0",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.repealed": [
+    {
+     "value": "false",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_id": [
+    {
+     "value": "9552",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_number": [
+    {
+     "value": "11",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_page_note": [
+    {
+     "value": "<span style=\"margin-left: 15px;\"></span>In every suit or proceedings to which this Act applies, the proceedings may be held <i>in camera</i> if the Family Court so desires and shall be so held if either party so desires. <br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/>",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.state_id": [
+    {
+     "value": "1",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.state_name": [
+    {
+     "value": "CENTRAL",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.uri": [
+    {
+     "value": "http://test1.indiacode.nic.in/handle/123456789/546928",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.title": [
+    {
+     "value": "Proceedings to be held in camera.",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ]
+  },
+  "inArchive": true,
+  "discoverable": true,
+  "withdrawn": false,
+  "lastModified": "2026-07-10T23:20:23.810681Z",
+  "entityType": null,
+  "type": "item",
+  "_links": {
+   "accessStatus": {
+    "href": "https://indiacode.gov.in/server/api/core/items/47335219-7d0c-4c69-980c-35ffa38875da/accessStatus"
+   },
+   "bundles": {
+    "href": "https://indiacode.gov.in/server/api/core/items/47335219-7d0c-4c69-980c-35ffa38875da/bundles"
+   },
+   "identifiers": {
+    "href": "https://indiacode.gov.in/server/api/core/items/47335219-7d0c-4c69-980c-35ffa38875da/identifiers"
+   },
+   "mappedCollections": {
+    "href": "https://indiacode.gov.in/server/api/core/items/47335219-7d0c-4c69-980c-35ffa38875da/mappedCollections"
+   },
+   "owningCollection": {
+    "href": "https://indiacode.gov.in/server/api/core/items/47335219-7d0c-4c69-980c-35ffa38875da/owningCollection"
+   },
+   "relationships": {
+    "href": "https://indiacode.gov.in/server/api/core/items/47335219-7d0c-4c69-980c-35ffa38875da/relationships"
+   },
+   "version": {
+    "href": "https://indiacode.gov.in/server/api/core/items/47335219-7d0c-4c69-980c-35ffa38875da/version"
+   },
+   "templateItemOf": {
+    "href": "https://indiacode.gov.in/server/api/core/items/47335219-7d0c-4c69-980c-35ffa38875da/templateItemOf"
+   },
+   "thumbnail": {
+    "href": "https://indiacode.gov.in/server/api/core/items/47335219-7d0c-4c69-980c-35ffa38875da/thumbnail"
+   },
+   "submitter": {
+    "href": "https://indiacode.gov.in/server/api/core/items/47335219-7d0c-4c69-980c-35ffa38875da/submitter"
+   },
+   "self": {
+    "href": "https://indiacode.gov.in/server/api/core/items/47335219-7d0c-4c69-980c-35ffa38875da"
+   }
+  }
+ },
+ {
+  "id": "3826537e-b444-4dec-a1b8-300bab65522d",
+  "uuid": "3826537e-b444-4dec-a1b8-300bab65522d",
+  "name": "Assistance of medical and welfare experts.",
+  "handle": "123456789/546939",
+  "metadata": {
+   "dc.date.accessioned": [
+    {
+     "value": "2026-07-10T23:20:24Z",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.date.act_year": [
+    {
+     "value": "1984",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_id": [
+    {
+     "value": "AC_CEN_3_3_00019_198466_1517807326692",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_name": [
+    {
+     "value": "The Family Courts Act, 1984",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_number": [
+    {
+     "value": "66",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_repealed": [
+    {
+     "value": "false",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.collection": [
+    {
+     "value": "SECTION",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.department_id": [
+    {
+     "value": "3",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.department_name": [
+    {
+     "value": "Department of Justice",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.id": [
+    {
+     "value": "9553",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.ministry_id": [
+    {
+     "value": "3",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.ministry_name": [
+    {
+     "value": "Ministry of Law and Justice",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.next_section": [
+    {
+     "value": "13.Right to legal representation.",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.order_number": [
+    {
+     "value": "12",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_from": [
+    {
+     "value": "0",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_number": [
+    {
+     "value": "6",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_to": [
+    {
+     "value": "0",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.repealed": [
+    {
+     "value": "false",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_id": [
+    {
+     "value": "9553",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_number": [
+    {
+     "value": "12",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_page_note": [
+    {
+     "value": "<span style=\"margin-left: 15px;\"></span>In every suit or proceedings, it shall be open to a Family Court to secure the services of a medical expert or such person (preferably a woman where available), whether related to the parties or not, including a person professionally engaged in promoting the welfare of the family as the Court may think fit, for the purposes of assisting the Family Court in discharging the functions imposed by this Act.<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/>",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.state_id": [
+    {
+     "value": "1",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.state_name": [
+    {
+     "value": "CENTRAL",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.uri": [
+    {
+     "value": "http://test1.indiacode.nic.in/handle/123456789/546939",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.title": [
+    {
+     "value": "Assistance of medical and welfare experts.",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ]
+  },
+  "inArchive": true,
+  "discoverable": true,
+  "withdrawn": false,
+  "lastModified": "2026-07-10T23:20:24.861219Z",
+  "entityType": null,
+  "type": "item",
+  "_links": {
+   "accessStatus": {
+    "href": "https://indiacode.gov.in/server/api/core/items/3826537e-b444-4dec-a1b8-300bab65522d/accessStatus"
+   },
+   "bundles": {
+    "href": "https://indiacode.gov.in/server/api/core/items/3826537e-b444-4dec-a1b8-300bab65522d/bundles"
+   },
+   "identifiers": {
+    "href": "https://indiacode.gov.in/server/api/core/items/3826537e-b444-4dec-a1b8-300bab65522d/identifiers"
+   },
+   "mappedCollections": {
+    "href": "https://indiacode.gov.in/server/api/core/items/3826537e-b444-4dec-a1b8-300bab65522d/mappedCollections"
+   },
+   "owningCollection": {
+    "href": "https://indiacode.gov.in/server/api/core/items/3826537e-b444-4dec-a1b8-300bab65522d/owningCollection"
+   },
+   "relationships": {
+    "href": "https://indiacode.gov.in/server/api/core/items/3826537e-b444-4dec-a1b8-300bab65522d/relationships"
+   },
+   "version": {
+    "href": "https://indiacode.gov.in/server/api/core/items/3826537e-b444-4dec-a1b8-300bab65522d/version"
+   },
+   "templateItemOf": {
+    "href": "https://indiacode.gov.in/server/api/core/items/3826537e-b444-4dec-a1b8-300bab65522d/templateItemOf"
+   },
+   "thumbnail": {
+    "href": "https://indiacode.gov.in/server/api/core/items/3826537e-b444-4dec-a1b8-300bab65522d/thumbnail"
+   },
+   "submitter": {
+    "href": "https://indiacode.gov.in/server/api/core/items/3826537e-b444-4dec-a1b8-300bab65522d/submitter"
+   },
+   "self": {
+    "href": "https://indiacode.gov.in/server/api/core/items/3826537e-b444-4dec-a1b8-300bab65522d"
+   }
+  }
+ },
+ {
+  "id": "67f04fe1-d32e-43f7-a9e4-d82761bce87e",
+  "uuid": "67f04fe1-d32e-43f7-a9e4-d82761bce87e",
+  "name": "Power of the State Government to make rules.",
+  "handle": "123456789/546992",
+  "metadata": {
+   "dc.date.accessioned": [
+    {
+     "value": "2026-07-10T23:20:30Z",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.date.act_year": [
+    {
+     "value": "1984",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_id": [
+    {
+     "value": "AC_CEN_3_3_00019_198466_1517807326692",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_name": [
+    {
+     "value": "The Family Courts Act, 1984",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_number": [
+    {
+     "value": "66",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_repealed": [
+    {
+     "value": "false",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.collection": [
+    {
+     "value": "SECTION",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.department_id": [
+    {
+     "value": "3",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.department_name": [
+    {
+     "value": "Department of Justice",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.id": [
+    {
+     "value": "9564",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.linked_id": [
+    {
+     "value": "RU_UP_88_480_00001_1644567190496",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    },
+    {
+     "value": "RU_CEN_3_3_00008_1527739749946",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 1
+    }
+   ],
+   "dc.identifier.ministry_id": [
+    {
+     "value": "3",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.ministry_name": [
+    {
+     "value": "Ministry of Law and Justice",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.order_number": [
+    {
+     "value": "23",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_from": [
+    {
+     "value": "0",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_number": [
+    {
+     "value": "8",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_to": [
+    {
+     "value": "0",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.repealed": [
+    {
+     "value": "false",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_id": [
+    {
+     "value": "9564",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_number": [
+    {
+     "value": "23",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_page_note": [
+    {
+     "value": "<span style=\"margin-left: 15px;\"></span>(1) The State Government may, after consultation with the High Court, by notification, make rules for carrying out the purposes of this Act.<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span> (2) In particular and without prejudice to the generality of the provisions of sub-section <i>(1)</i> such rules may provide for all or any of the following matters, namely:--<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span> (a) the salary or honorarium and other allowances payable to, and the other terms and conditions of Judges under sub-section <i>(6)</i> of section 4;<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span> (b) the terms and conditions of association of counsellors and the terms and conditions of service of the officers and other employees referred to in section 6;<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span> (c) payment of fees and expenses (including travelling expenses) of medical and other experts and other persons referred to in section 12 out of the revenues of the State Government and the scales of such fees and expenses;<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span> (d) payment of fees and expenses to legal practitioners appointed under section 13 as <i>amicus curiae</i> out of the revenues of the State Government and the scales of such fees and expenses;<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span> (e) any other matter which is required to be, or may be, prescribed or provided for by rules.<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span> (3) Every rule made by a State Government under this Act shall be laid, as soon as may be after it is made, before the State Legislature.<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/>",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.state_id": [
+    {
+     "value": "1",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.state_name": [
+    {
+     "value": "CENTRAL",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.uri": [
+    {
+     "value": "http://test1.indiacode.nic.in/handle/123456789/546992",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.title": [
+    {
+     "value": "Power of the State Government to make rules.",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ]
+  },
+  "inArchive": true,
+  "discoverable": true,
+  "withdrawn": false,
+  "lastModified": "2026-07-10T23:20:30.151729Z",
+  "entityType": null,
+  "type": "item",
+  "_links": {
+   "accessStatus": {
+    "href": "https://indiacode.gov.in/server/api/core/items/67f04fe1-d32e-43f7-a9e4-d82761bce87e/accessStatus"
+   },
+   "bundles": {
+    "href": "https://indiacode.gov.in/server/api/core/items/67f04fe1-d32e-43f7-a9e4-d82761bce87e/bundles"
+   },
+   "identifiers": {
+    "href": "https://indiacode.gov.in/server/api/core/items/67f04fe1-d32e-43f7-a9e4-d82761bce87e/identifiers"
+   },
+   "mappedCollections": {
+    "href": "https://indiacode.gov.in/server/api/core/items/67f04fe1-d32e-43f7-a9e4-d82761bce87e/mappedCollections"
+   },
+   "owningCollection": {
+    "href": "https://indiacode.gov.in/server/api/core/items/67f04fe1-d32e-43f7-a9e4-d82761bce87e/owningCollection"
+   },
+   "relationships": {
+    "href": "https://indiacode.gov.in/server/api/core/items/67f04fe1-d32e-43f7-a9e4-d82761bce87e/relationships"
+   },
+   "version": {
+    "href": "https://indiacode.gov.in/server/api/core/items/67f04fe1-d32e-43f7-a9e4-d82761bce87e/version"
+   },
+   "templateItemOf": {
+    "href": "https://indiacode.gov.in/server/api/core/items/67f04fe1-d32e-43f7-a9e4-d82761bce87e/templateItemOf"
+   },
+   "thumbnail": {
+    "href": "https://indiacode.gov.in/server/api/core/items/67f04fe1-d32e-43f7-a9e4-d82761bce87e/thumbnail"
+   },
+   "submitter": {
+    "href": "https://indiacode.gov.in/server/api/core/items/67f04fe1-d32e-43f7-a9e4-d82761bce87e/submitter"
+   },
+   "self": {
+    "href": "https://indiacode.gov.in/server/api/core/items/67f04fe1-d32e-43f7-a9e4-d82761bce87e"
+   }
+  }
+ },
+ {
+  "id": "2fff7b97-71e6-483c-9603-00687103283c",
+  "uuid": "2fff7b97-71e6-483c-9603-00687103283c",
+  "name": "Duty of Family Court to make efforts for settlement.",
+  "handle": "123456789/546924",
+  "metadata": {
+   "dc.date.accessioned": [
+    {
+     "value": "2026-07-10T23:20:23Z",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.date.act_year": [
+    {
+     "value": "1984",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_id": [
+    {
+     "value": "AC_CEN_3_3_00019_198466_1517807326692",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_name": [
+    {
+     "value": "The Family Courts Act, 1984",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_number": [
+    {
+     "value": "66",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_repealed": [
+    {
+     "value": "false",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.collection": [
+    {
+     "value": "SECTION",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.department_id": [
+    {
+     "value": "3",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.department_name": [
+    {
+     "value": "Department of Justice",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.id": [
+    {
+     "value": "9550",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.ministry_id": [
+    {
+     "value": "3",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.ministry_name": [
+    {
+     "value": "Ministry of Law and Justice",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.next_section": [
+    {
+     "value": "10.Procedure generally.",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.order_number": [
+    {
+     "value": "9",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_from": [
+    {
+     "value": "0",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_number": [
+    {
+     "value": "5",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_to": [
+    {
+     "value": "0",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.repealed": [
+    {
+     "value": "false",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_id": [
+    {
+     "value": "9550",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_number": [
+    {
+     "value": "9",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_page_note": [
+    {
+     "value": "<span style=\"margin-left: 15px;\"></span>(1) In every suit or proceeding, endeavour shall be made by the Family Court in the first instance, where it is possible to do so consistent with the nature and circumstances of the case, to assist and persuade the parties in arriving at a settlement in respect of the subject-matter of the suit or proceeding and for this purpose a Family Court may, subject to any rules made by the High Court, follow such procedure as it may deem fit.<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span> (2) If, in any suit or proceeding, at any stage, it appears to the Family Court that there is a reasonable possibility of a settlement between the parties, the Family Court may adjourn the proceedings for such period as it thinks fit to enable attempts to be made to effect such a settlement.<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span> (3) The power conferred by sub-section <i>(2)</i> shall be in addition to, and not in derogation of, any other power of the Family Court to adjourn the proceedings.<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/>",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.state_id": [
+    {
+     "value": "1",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.state_name": [
+    {
+     "value": "CENTRAL",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.uri": [
+    {
+     "value": "http://test1.indiacode.nic.in/handle/123456789/546924",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.title": [
+    {
+     "value": "Duty of Family Court to make efforts for settlement.",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ]
+  },
+  "inArchive": true,
+  "discoverable": true,
+  "withdrawn": false,
+  "lastModified": "2026-07-10T23:20:23.415606Z",
+  "entityType": null,
+  "type": "item",
+  "_links": {
+   "accessStatus": {
+    "href": "https://indiacode.gov.in/server/api/core/items/2fff7b97-71e6-483c-9603-00687103283c/accessStatus"
+   },
+   "bundles": {
+    "href": "https://indiacode.gov.in/server/api/core/items/2fff7b97-71e6-483c-9603-00687103283c/bundles"
+   },
+   "identifiers": {
+    "href": "https://indiacode.gov.in/server/api/core/items/2fff7b97-71e6-483c-9603-00687103283c/identifiers"
+   },
+   "mappedCollections": {
+    "href": "https://indiacode.gov.in/server/api/core/items/2fff7b97-71e6-483c-9603-00687103283c/mappedCollections"
+   },
+   "owningCollection": {
+    "href": "https://indiacode.gov.in/server/api/core/items/2fff7b97-71e6-483c-9603-00687103283c/owningCollection"
+   },
+   "relationships": {
+    "href": "https://indiacode.gov.in/server/api/core/items/2fff7b97-71e6-483c-9603-00687103283c/relationships"
+   },
+   "version": {
+    "href": "https://indiacode.gov.in/server/api/core/items/2fff7b97-71e6-483c-9603-00687103283c/version"
+   },
+   "templateItemOf": {
+    "href": "https://indiacode.gov.in/server/api/core/items/2fff7b97-71e6-483c-9603-00687103283c/templateItemOf"
+   },
+   "thumbnail": {
+    "href": "https://indiacode.gov.in/server/api/core/items/2fff7b97-71e6-483c-9603-00687103283c/thumbnail"
+   },
+   "submitter": {
+    "href": "https://indiacode.gov.in/server/api/core/items/2fff7b97-71e6-483c-9603-00687103283c/submitter"
+   },
+   "self": {
+    "href": "https://indiacode.gov.in/server/api/core/items/2fff7b97-71e6-483c-9603-00687103283c"
+   }
+  }
+ },
+ {
+  "id": "2c431c83-f213-47c7-a193-eaed0eb2915c",
+  "uuid": "2c431c83-f213-47c7-a193-eaed0eb2915c",
+  "name": "Exclusion of jurisdiction and pending proceedings.",
+  "handle": "123456789/546922",
+  "metadata": {
+   "dc.date.accessioned": [
+    {
+     "value": "2026-07-10T23:20:23Z",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.date.act_year": [
+    {
+     "value": "1984",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_id": [
+    {
+     "value": "AC_CEN_3_3_00019_198466_1517807326692",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_name": [
+    {
+     "value": "The Family Courts Act, 1984",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_number": [
+    {
+     "value": "66",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_repealed": [
+    {
+     "value": "false",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.collection": [
+    {
+     "value": "SECTION",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.department_id": [
+    {
+     "value": "3",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.department_name": [
+    {
+     "value": "Department of Justice",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.id": [
+    {
+     "value": "9549",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.ministry_id": [
+    {
+     "value": "3",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.ministry_name": [
+    {
+     "value": "Ministry of Law and Justice",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.next_section": [
+    {
+     "value": "9.Duty of Family Court to make efforts for settlement.",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.order_number": [
+    {
+     "value": "8",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_from": [
+    {
+     "value": "0",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_number": [
+    {
+     "value": "5",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_to": [
+    {
+     "value": "0",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.repealed": [
+    {
+     "value": "false",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_id": [
+    {
+     "value": "9549",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_number": [
+    {
+     "value": "8",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_page_note": [
+    {
+     "value": "<span style=\"margin-left: 15px;\"></span>Where a Family Court has been established for any area,—<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span> (a) no district court or any subordinate civil court referred to in sub-section <i>(1)</i> of section 7 shall, in relation to such area, have or exercise any jurisdiction in respect of any suit or proceeding of the nature referred to in the <i>Explanation</i> to that sub-section;<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span> (b) no magistrate shall, in relation to such area, have or exercise any jurisdiction or powers under Chapter IX of the Code of Criminal Procedure, 1973 (2 of 1974);<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span> (c) every suit or proceeding of the nature referred to in the <i>Explanation</i> to sub-section <i>(1)</i> of section 7 and every proceeding under Chapter IX of the Code of Criminal Procedure, 1973 (2 of 1974),—<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span> (i) which is pending immediately before the establishment of such Family Court before any district court or subordinate court referred to in that sub-section or, as the case may be, before any magistrate under the said Code; and<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span> (ii) which would have been required to be instituted or taken before such Family Court if, before the date on which such suit or proceeding was instituted or taken, this Act had come into force and such Family Court had been established,<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span> shall stand transferred to such Family Court on the date on which it is established. <br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/>",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.state_id": [
+    {
+     "value": "1",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.state_name": [
+    {
+     "value": "CENTRAL",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.uri": [
+    {
+     "value": "http://test1.indiacode.nic.in/handle/123456789/546922",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.title": [
+    {
+     "value": "Exclusion of jurisdiction and pending proceedings.",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ]
+  },
+  "inArchive": true,
+  "discoverable": true,
+  "withdrawn": false,
+  "lastModified": "2026-07-10T23:20:23.213792Z",
+  "entityType": null,
+  "type": "item",
+  "_links": {
+   "accessStatus": {
+    "href": "https://indiacode.gov.in/server/api/core/items/2c431c83-f213-47c7-a193-eaed0eb2915c/accessStatus"
+   },
+   "bundles": {
+    "href": "https://indiacode.gov.in/server/api/core/items/2c431c83-f213-47c7-a193-eaed0eb2915c/bundles"
+   },
+   "identifiers": {
+    "href": "https://indiacode.gov.in/server/api/core/items/2c431c83-f213-47c7-a193-eaed0eb2915c/identifiers"
+   },
+   "mappedCollections": {
+    "href": "https://indiacode.gov.in/server/api/core/items/2c431c83-f213-47c7-a193-eaed0eb2915c/mappedCollections"
+   },
+   "owningCollection": {
+    "href": "https://indiacode.gov.in/server/api/core/items/2c431c83-f213-47c7-a193-eaed0eb2915c/owningCollection"
+   },
+   "relationships": {
+    "href": "https://indiacode.gov.in/server/api/core/items/2c431c83-f213-47c7-a193-eaed0eb2915c/relationships"
+   },
+   "version": {
+    "href": "https://indiacode.gov.in/server/api/core/items/2c431c83-f213-47c7-a193-eaed0eb2915c/version"
+   },
+   "templateItemOf": {
+    "href": "https://indiacode.gov.in/server/api/core/items/2c431c83-f213-47c7-a193-eaed0eb2915c/templateItemOf"
+   },
+   "thumbnail": {
+    "href": "https://indiacode.gov.in/server/api/core/items/2c431c83-f213-47c7-a193-eaed0eb2915c/thumbnail"
+   },
+   "submitter": {
+    "href": "https://indiacode.gov.in/server/api/core/items/2c431c83-f213-47c7-a193-eaed0eb2915c/submitter"
+   },
+   "self": {
+    "href": "https://indiacode.gov.in/server/api/core/items/2c431c83-f213-47c7-a193-eaed0eb2915c"
+   }
+  }
+ },
+ {
+  "id": "308da464-5171-4a2e-b2ed-43a9859e9f88",
+  "uuid": "308da464-5171-4a2e-b2ed-43a9859e9f88",
+  "name": "Definitions.",
+  "handle": "123456789/546916",
+  "metadata": {
+   "dc.date.accessioned": [
+    {
+     "value": "2026-07-10T23:20:22Z",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.date.act_year": [
+    {
+     "value": "1984",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_id": [
+    {
+     "value": "AC_CEN_3_3_00019_198466_1517807326692",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_name": [
+    {
+     "value": "The Family Courts Act, 1984",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_number": [
+    {
+     "value": "66",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_repealed": [
+    {
+     "value": "false",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.collection": [
+    {
+     "value": "SECTION",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.department_id": [
+    {
+     "value": "3",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.department_name": [
+    {
+     "value": "Department of Justice",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.id": [
+    {
+     "value": "9543",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.ministry_id": [
+    {
+     "value": "3",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.ministry_name": [
+    {
+     "value": "Ministry of Law and Justice",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.next_section": [
+    {
+     "value": "3.Establishment of Family Courts.",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.order_number": [
+    {
+     "value": "2",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_from": [
+    {
+     "value": "0",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_number": [
+    {
+     "value": "3",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_to": [
+    {
+     "value": "0",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.repealed": [
+    {
+     "value": "false",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_id": [
+    {
+     "value": "9543",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_number": [
+    {
+     "value": "2",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_page_note": [
+    {
+     "value": "<span style=\"margin-left: 15px;\"></span>In this Act, unless the context otherwise requires,—<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span> (a) \"Judge\" means the Judge or, as the case may be, the Principal Judge, Additional Principal Judge or other Judge of a Family Court;<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span> (b) \"notification\" means a notification published in the Official Gazette;<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span> (c) \"prescribed\" means prescribed by rules made under this Act;<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span> (d) \"Family Court\" means a Family Court established under section 3;<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span> (e) all other words and expressions used but not defined in this Act and defined in the Code of Civil Procedure, 1908 (5 of 1908) shall have the meanings respectively assigned to them in that Code.<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/>",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.state_id": [
+    {
+     "value": "1",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.state_name": [
+    {
+     "value": "CENTRAL",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.uri": [
+    {
+     "value": "http://test1.indiacode.nic.in/handle/123456789/546916",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.title": [
+    {
+     "value": "Definitions.",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ]
+  },
+  "inArchive": true,
+  "discoverable": true,
+  "withdrawn": false,
+  "lastModified": "2026-07-10T23:20:22.634417Z",
+  "entityType": null,
+  "type": "item",
+  "_links": {
+   "accessStatus": {
+    "href": "https://indiacode.gov.in/server/api/core/items/308da464-5171-4a2e-b2ed-43a9859e9f88/accessStatus"
+   },
+   "bundles": {
+    "href": "https://indiacode.gov.in/server/api/core/items/308da464-5171-4a2e-b2ed-43a9859e9f88/bundles"
+   },
+   "identifiers": {
+    "href": "https://indiacode.gov.in/server/api/core/items/308da464-5171-4a2e-b2ed-43a9859e9f88/identifiers"
+   },
+   "mappedCollections": {
+    "href": "https://indiacode.gov.in/server/api/core/items/308da464-5171-4a2e-b2ed-43a9859e9f88/mappedCollections"
+   },
+   "owningCollection": {
+    "href": "https://indiacode.gov.in/server/api/core/items/308da464-5171-4a2e-b2ed-43a9859e9f88/owningCollection"
+   },
+   "relationships": {
+    "href": "https://indiacode.gov.in/server/api/core/items/308da464-5171-4a2e-b2ed-43a9859e9f88/relationships"
+   },
+   "version": {
+    "href": "https://indiacode.gov.in/server/api/core/items/308da464-5171-4a2e-b2ed-43a9859e9f88/version"
+   },
+   "templateItemOf": {
+    "href": "https://indiacode.gov.in/server/api/core/items/308da464-5171-4a2e-b2ed-43a9859e9f88/templateItemOf"
+   },
+   "thumbnail": {
+    "href": "https://indiacode.gov.in/server/api/core/items/308da464-5171-4a2e-b2ed-43a9859e9f88/thumbnail"
+   },
+   "submitter": {
+    "href": "https://indiacode.gov.in/server/api/core/items/308da464-5171-4a2e-b2ed-43a9859e9f88/submitter"
+   },
+   "self": {
+    "href": "https://indiacode.gov.in/server/api/core/items/308da464-5171-4a2e-b2ed-43a9859e9f88"
+   }
+  }
+ },
+ {
+  "id": "a02b59c5-5353-4b46-bd37-f5563c03ab63",
+  "uuid": "a02b59c5-5353-4b46-bd37-f5563c03ab63",
+  "name": "Procedure generally.",
+  "handle": "123456789/546925",
+  "metadata": {
+   "dc.date.accessioned": [
+    {
+     "value": "2026-07-10T23:20:23Z",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.date.act_year": [
+    {
+     "value": "1984",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_id": [
+    {
+     "value": "AC_CEN_3_3_00019_198466_1517807326692",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_name": [
+    {
+     "value": "The Family Courts Act, 1984",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_number": [
+    {
+     "value": "66",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_repealed": [
+    {
+     "value": "false",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.collection": [
+    {
+     "value": "SECTION",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.department_id": [
+    {
+     "value": "3",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.department_name": [
+    {
+     "value": "Department of Justice",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.id": [
+    {
+     "value": "9551",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.ministry_id": [
+    {
+     "value": "3",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.ministry_name": [
+    {
+     "value": "Ministry of Law and Justice",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.next_section": [
+    {
+     "value": "11.Proceedings to be held in camera.",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.order_number": [
+    {
+     "value": "10",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_from": [
+    {
+     "value": "0",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_number": [
+    {
+     "value": "6",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_to": [
+    {
+     "value": "0",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.repealed": [
+    {
+     "value": "false",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_id": [
+    {
+     "value": "9551",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_number": [
+    {
+     "value": "10",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_page_note": [
+    {
+     "value": "<span style=\"margin-left: 15px;\"></span>(1) Subject to the other provisions of this Act and the rules, the provisions of the Code of Civil Procedure, 1908 (5 of 1908) and of any other law for the time being in force shall apply to the suits and proceedings [other than the proceedings under Chapter IX of the Code of Criminal Procedure, 1973 (2 of 1974)] before a Family Court and for the purposes of the said provisions of the Code, a Family Court shall be deemed to be a civil court and shall have all the powers of such court.<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span> (2) Subject to the other provisions of this Act and the rules, the provisions of the Code of Criminal Procedure, 1973 (2 of 1974) or the rules made thereunder, shall apply to the proceedings under Chapter IX of that Code before a Family Court.<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span> (3) Nothing in sub-section <i>(1)</i> or sub-section <i>(2)</i> shall prevent a Family Court from laying down its own procedure with a view to arrive at a settlement in respect of the subject-matter of the suit or proceedings or at the truth of the facts alleged by the one party and denied by the other.<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/>",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.state_id": [
+    {
+     "value": "1",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.state_name": [
+    {
+     "value": "CENTRAL",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.uri": [
+    {
+     "value": "http://test1.indiacode.nic.in/handle/123456789/546925",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.title": [
+    {
+     "value": "Procedure generally.",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ]
+  },
+  "inArchive": true,
+  "discoverable": true,
+  "withdrawn": false,
+  "lastModified": "2026-07-10T23:20:23.509890Z",
+  "entityType": null,
+  "type": "item",
+  "_links": {
+   "accessStatus": {
+    "href": "https://indiacode.gov.in/server/api/core/items/a02b59c5-5353-4b46-bd37-f5563c03ab63/accessStatus"
+   },
+   "bundles": {
+    "href": "https://indiacode.gov.in/server/api/core/items/a02b59c5-5353-4b46-bd37-f5563c03ab63/bundles"
+   },
+   "identifiers": {
+    "href": "https://indiacode.gov.in/server/api/core/items/a02b59c5-5353-4b46-bd37-f5563c03ab63/identifiers"
+   },
+   "mappedCollections": {
+    "href": "https://indiacode.gov.in/server/api/core/items/a02b59c5-5353-4b46-bd37-f5563c03ab63/mappedCollections"
+   },
+   "owningCollection": {
+    "href": "https://indiacode.gov.in/server/api/core/items/a02b59c5-5353-4b46-bd37-f5563c03ab63/owningCollection"
+   },
+   "relationships": {
+    "href": "https://indiacode.gov.in/server/api/core/items/a02b59c5-5353-4b46-bd37-f5563c03ab63/relationships"
+   },
+   "version": {
+    "href": "https://indiacode.gov.in/server/api/core/items/a02b59c5-5353-4b46-bd37-f5563c03ab63/version"
+   },
+   "templateItemOf": {
+    "href": "https://indiacode.gov.in/server/api/core/items/a02b59c5-5353-4b46-bd37-f5563c03ab63/templateItemOf"
+   },
+   "thumbnail": {
+    "href": "https://indiacode.gov.in/server/api/core/items/a02b59c5-5353-4b46-bd37-f5563c03ab63/thumbnail"
+   },
+   "submitter": {
+    "href": "https://indiacode.gov.in/server/api/core/items/a02b59c5-5353-4b46-bd37-f5563c03ab63/submitter"
+   },
+   "self": {
+    "href": "https://indiacode.gov.in/server/api/core/items/a02b59c5-5353-4b46-bd37-f5563c03ab63"
+   }
+  }
+ },
+ {
+  "id": "a6a86335-afa5-4baf-bd98-51b9e9c33c50",
+  "uuid": "a6a86335-afa5-4baf-bd98-51b9e9c33c50",
+  "name": "Record of oral evidence.",
+  "handle": "123456789/546972",
+  "metadata": {
+   "dc.date.accessioned": [
+    {
+     "value": "2026-07-10T23:20:28Z",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.date.act_year": [
+    {
+     "value": "1984",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_id": [
+    {
+     "value": "AC_CEN_3_3_00019_198466_1517807326692",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_name": [
+    {
+     "value": "The Family Courts Act, 1984",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_number": [
+    {
+     "value": "66",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_repealed": [
+    {
+     "value": "false",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.collection": [
+    {
+     "value": "SECTION",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.department_id": [
+    {
+     "value": "3",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.department_name": [
+    {
+     "value": "Department of Justice",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.id": [
+    {
+     "value": "9556",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.ministry_id": [
+    {
+     "value": "3",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.ministry_name": [
+    {
+     "value": "Ministry of Law and Justice",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.next_section": [
+    {
+     "value": "16.Evidence of formal character on affidavit.",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.order_number": [
+    {
+     "value": "15",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_from": [
+    {
+     "value": "0",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_number": [
+    {
+     "value": "6",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_to": [
+    {
+     "value": "0",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.repealed": [
+    {
+     "value": "false",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_id": [
+    {
+     "value": "9556",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_number": [
+    {
+     "value": "15",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_page_note": [
+    {
+     "value": "<span style=\"margin-left: 15px;\"></span>In suits or proceedings before a Family Court, it shall not be necessary to record the evidence of witnesses at length, but the Judge, as the examination of each witness proceeds, shall, record or cause to be recorded, a memorandum of the substance of what the witness deposes, and such memorandum shall be signed by the witness and the Judge and shall form part of the record.<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/>",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.state_id": [
+    {
+     "value": "1",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.state_name": [
+    {
+     "value": "CENTRAL",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.uri": [
+    {
+     "value": "http://test1.indiacode.nic.in/handle/123456789/546972",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.title": [
+    {
+     "value": "Record of oral evidence.",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ]
+  },
+  "inArchive": true,
+  "discoverable": true,
+  "withdrawn": false,
+  "lastModified": "2026-07-10T23:20:28.132171Z",
+  "entityType": null,
+  "type": "item",
+  "_links": {
+   "accessStatus": {
+    "href": "https://indiacode.gov.in/server/api/core/items/a6a86335-afa5-4baf-bd98-51b9e9c33c50/accessStatus"
+   },
+   "bundles": {
+    "href": "https://indiacode.gov.in/server/api/core/items/a6a86335-afa5-4baf-bd98-51b9e9c33c50/bundles"
+   },
+   "identifiers": {
+    "href": "https://indiacode.gov.in/server/api/core/items/a6a86335-afa5-4baf-bd98-51b9e9c33c50/identifiers"
+   },
+   "mappedCollections": {
+    "href": "https://indiacode.gov.in/server/api/core/items/a6a86335-afa5-4baf-bd98-51b9e9c33c50/mappedCollections"
+   },
+   "owningCollection": {
+    "href": "https://indiacode.gov.in/server/api/core/items/a6a86335-afa5-4baf-bd98-51b9e9c33c50/owningCollection"
+   },
+   "relationships": {
+    "href": "https://indiacode.gov.in/server/api/core/items/a6a86335-afa5-4baf-bd98-51b9e9c33c50/relationships"
+   },
+   "version": {
+    "href": "https://indiacode.gov.in/server/api/core/items/a6a86335-afa5-4baf-bd98-51b9e9c33c50/version"
+   },
+   "templateItemOf": {
+    "href": "https://indiacode.gov.in/server/api/core/items/a6a86335-afa5-4baf-bd98-51b9e9c33c50/templateItemOf"
+   },
+   "thumbnail": {
+    "href": "https://indiacode.gov.in/server/api/core/items/a6a86335-afa5-4baf-bd98-51b9e9c33c50/thumbnail"
+   },
+   "submitter": {
+    "href": "https://indiacode.gov.in/server/api/core/items/a6a86335-afa5-4baf-bd98-51b9e9c33c50/submitter"
+   },
+   "self": {
+    "href": "https://indiacode.gov.in/server/api/core/items/a6a86335-afa5-4baf-bd98-51b9e9c33c50"
+   }
+  }
+ },
+ {
+  "id": "9168f1f5-401d-4b27-a86b-34df2c040a0c",
+  "uuid": "9168f1f5-401d-4b27-a86b-34df2c040a0c",
+  "name": "Counsellors, officers and other employees of Family Courts.",
+  "handle": "123456789/546920",
+  "metadata": {
+   "dc.date.accessioned": [
+    {
+     "value": "2026-07-10T23:20:22Z",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.date.act_year": [
+    {
+     "value": "1984",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_id": [
+    {
+     "value": "AC_CEN_3_3_00019_198466_1517807326692",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_name": [
+    {
+     "value": "The Family Courts Act, 1984",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_number": [
+    {
+     "value": "66",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_repealed": [
+    {
+     "value": "false",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.collection": [
+    {
+     "value": "SECTION",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.department_id": [
+    {
+     "value": "3",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.department_name": [
+    {
+     "value": "Department of Justice",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.id": [
+    {
+     "value": "9547",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.ministry_id": [
+    {
+     "value": "3",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.ministry_name": [
+    {
+     "value": "Ministry of Law and Justice",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.next_section": [
+    {
+     "value": "7.Jurisdiction.",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.order_number": [
+    {
+     "value": "6",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_from": [
+    {
+     "value": "0",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_number": [
+    {
+     "value": "4",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_to": [
+    {
+     "value": "0",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.repealed": [
+    {
+     "value": "false",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_id": [
+    {
+     "value": "9547",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_number": [
+    {
+     "value": "6",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_page_note": [
+    {
+     "value": "<span style=\"margin-left: 15px;\"></span>(1) The State Government shall, in consultation with the High Court, determine the number and categories of counsellors, officers and other employees required to assist a Family Court in the discharge of its functions and provide the Family Court with such counsellors, officers and other employees as it may think fit.<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span> (2) The terms and conditions of association of the counsellors and the terms and conditions of service of the officers and other employees, referred to in sub-section <i>(1)</i>, shall be such as may be specified by rules made by the State Government.<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/>",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.state_id": [
+    {
+     "value": "1",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.state_name": [
+    {
+     "value": "CENTRAL",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.uri": [
+    {
+     "value": "http://test1.indiacode.nic.in/handle/123456789/546920",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.title": [
+    {
+     "value": "Counsellors, officers and other employees of Family Courts.",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ]
+  },
+  "inArchive": true,
+  "discoverable": true,
+  "withdrawn": false,
+  "lastModified": "2026-07-10T23:20:23.020541Z",
+  "entityType": null,
+  "type": "item",
+  "_links": {
+   "accessStatus": {
+    "href": "https://indiacode.gov.in/server/api/core/items/9168f1f5-401d-4b27-a86b-34df2c040a0c/accessStatus"
+   },
+   "bundles": {
+    "href": "https://indiacode.gov.in/server/api/core/items/9168f1f5-401d-4b27-a86b-34df2c040a0c/bundles"
+   },
+   "identifiers": {
+    "href": "https://indiacode.gov.in/server/api/core/items/9168f1f5-401d-4b27-a86b-34df2c040a0c/identifiers"
+   },
+   "mappedCollections": {
+    "href": "https://indiacode.gov.in/server/api/core/items/9168f1f5-401d-4b27-a86b-34df2c040a0c/mappedCollections"
+   },
+   "owningCollection": {
+    "href": "https://indiacode.gov.in/server/api/core/items/9168f1f5-401d-4b27-a86b-34df2c040a0c/owningCollection"
+   },
+   "relationships": {
+    "href": "https://indiacode.gov.in/server/api/core/items/9168f1f5-401d-4b27-a86b-34df2c040a0c/relationships"
+   },
+   "version": {
+    "href": "https://indiacode.gov.in/server/api/core/items/9168f1f5-401d-4b27-a86b-34df2c040a0c/version"
+   },
+   "templateItemOf": {
+    "href": "https://indiacode.gov.in/server/api/core/items/9168f1f5-401d-4b27-a86b-34df2c040a0c/templateItemOf"
+   },
+   "thumbnail": {
+    "href": "https://indiacode.gov.in/server/api/core/items/9168f1f5-401d-4b27-a86b-34df2c040a0c/thumbnail"
+   },
+   "submitter": {
+    "href": "https://indiacode.gov.in/server/api/core/items/9168f1f5-401d-4b27-a86b-34df2c040a0c/submitter"
+   },
+   "self": {
+    "href": "https://indiacode.gov.in/server/api/core/items/9168f1f5-401d-4b27-a86b-34df2c040a0c"
+   }
+  }
+ },
+ {
+  "id": "bcb80e96-49ae-4420-90d4-e4a2e7f529bd",
+  "uuid": "bcb80e96-49ae-4420-90d4-e4a2e7f529bd",
+  "name": "Execution of decrees and orders.",
+  "handle": "123456789/546986",
+  "metadata": {
+   "dc.date.accessioned": [
+    {
+     "value": "2026-07-10T23:20:29Z",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.date.act_year": [
+    {
+     "value": "1984",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_id": [
+    {
+     "value": "AC_CEN_3_3_00019_198466_1517807326692",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_name": [
+    {
+     "value": "The Family Courts Act, 1984",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_number": [
+    {
+     "value": "66",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_repealed": [
+    {
+     "value": "false",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.collection": [
+    {
+     "value": "SECTION",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.department_id": [
+    {
+     "value": "3",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.department_name": [
+    {
+     "value": "Department of Justice",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.id": [
+    {
+     "value": "9559",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.ministry_id": [
+    {
+     "value": "3",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.ministry_name": [
+    {
+     "value": "Ministry of Law and Justice",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.next_section": [
+    {
+     "value": "19.Appeal.",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.order_number": [
+    {
+     "value": "18",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_from": [
+    {
+     "value": "0",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_number": [
+    {
+     "value": "6",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_to": [
+    {
+     "value": "0",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.repealed": [
+    {
+     "value": "false",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_id": [
+    {
+     "value": "9559",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_number": [
+    {
+     "value": "18",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_page_note": [
+    {
+     "value": "<span style=\"margin-left: 15px;\"></span>(1) A decree or an order [other than an order under Chapter IX of the Code of Criminal Procedure, 1973 (2 of 1974)], passed by a Family Court shall have the same force and effect as a decree or order of a civil court and shall be executed in the same manner as is prescribed by the Code of Civil Procedure, 1908 (5 of 1908) for the execution of decrees and orders.<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span> (2) An order passed by a Family Court under Chapter IX of the Code of Criminal Procedure, 1973 (2 of 1974) shall be executed in the manner prescribed for the execution of such order by that Code.<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span> (3) A decree or order may be executed either by the Family Court which passed it or by the other Family Court or ordinary civil court to which it is sent for execution.<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/>",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.state_id": [
+    {
+     "value": "1",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.state_name": [
+    {
+     "value": "CENTRAL",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.uri": [
+    {
+     "value": "http://test1.indiacode.nic.in/handle/123456789/546986",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.title": [
+    {
+     "value": "Execution of decrees and orders.",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ]
+  },
+  "inArchive": true,
+  "discoverable": true,
+  "withdrawn": false,
+  "lastModified": "2026-07-10T23:20:29.487712Z",
+  "entityType": null,
+  "type": "item",
+  "_links": {
+   "accessStatus": {
+    "href": "https://indiacode.gov.in/server/api/core/items/bcb80e96-49ae-4420-90d4-e4a2e7f529bd/accessStatus"
+   },
+   "bundles": {
+    "href": "https://indiacode.gov.in/server/api/core/items/bcb80e96-49ae-4420-90d4-e4a2e7f529bd/bundles"
+   },
+   "identifiers": {
+    "href": "https://indiacode.gov.in/server/api/core/items/bcb80e96-49ae-4420-90d4-e4a2e7f529bd/identifiers"
+   },
+   "mappedCollections": {
+    "href": "https://indiacode.gov.in/server/api/core/items/bcb80e96-49ae-4420-90d4-e4a2e7f529bd/mappedCollections"
+   },
+   "owningCollection": {
+    "href": "https://indiacode.gov.in/server/api/core/items/bcb80e96-49ae-4420-90d4-e4a2e7f529bd/owningCollection"
+   },
+   "relationships": {
+    "href": "https://indiacode.gov.in/server/api/core/items/bcb80e96-49ae-4420-90d4-e4a2e7f529bd/relationships"
+   },
+   "version": {
+    "href": "https://indiacode.gov.in/server/api/core/items/bcb80e96-49ae-4420-90d4-e4a2e7f529bd/version"
+   },
+   "templateItemOf": {
+    "href": "https://indiacode.gov.in/server/api/core/items/bcb80e96-49ae-4420-90d4-e4a2e7f529bd/templateItemOf"
+   },
+   "thumbnail": {
+    "href": "https://indiacode.gov.in/server/api/core/items/bcb80e96-49ae-4420-90d4-e4a2e7f529bd/thumbnail"
+   },
+   "submitter": {
+    "href": "https://indiacode.gov.in/server/api/core/items/bcb80e96-49ae-4420-90d4-e4a2e7f529bd/submitter"
+   },
+   "self": {
+    "href": "https://indiacode.gov.in/server/api/core/items/bcb80e96-49ae-4420-90d4-e4a2e7f529bd"
+   }
+  }
+ },
+ {
+  "id": "b7cf5bcb-9519-48d0-84f7-7b082c4f0a22",
+  "uuid": "b7cf5bcb-9519-48d0-84f7-7b082c4f0a22",
+  "name": "Short title, extent and commencement.",
+  "handle": "123456789/546915",
+  "metadata": {
+   "dc.date.accessioned": [
+    {
+     "value": "2026-07-10T23:20:22Z",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.date.act_year": [
+    {
+     "value": "1984",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_id": [
+    {
+     "value": "AC_CEN_3_3_00019_198466_1517807326692",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_name": [
+    {
+     "value": "The Family Courts Act, 1984",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_number": [
+    {
+     "value": "66",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_repealed": [
+    {
+     "value": "false",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.collection": [
+    {
+     "value": "SECTION",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.department_id": [
+    {
+     "value": "3",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.department_name": [
+    {
+     "value": "Department of Justice",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.id": [
+    {
+     "value": "9542",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.linked_id": [
+    {
+     "value": "RU_CEN_3_3_00007_1526903539669",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    },
+    {
+     "value": "RU_CEN_3_3_00004_1525415004569",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 1
+    },
+    {
+     "value": "RU_CEN_3_3_00008_1527739749946",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 2
+    },
+    {
+     "value": "RU_CEN_3_3_00001_1524208244663",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 3
+    },
+    {
+     "value": "RU_CEN_3_3_00002_1524208298120",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 4
+    },
+    {
+     "value": "RU_CEN_3_3_00003_1524831065116",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 5
+    },
+    {
+     "value": "NO_CEN_3_3_00001_1525416626250",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 6
+    },
+    {
+     "value": "RU_CEN_3_3_00005_1525416052268",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 7
+    },
+    {
+     "value": "RU_CEN_3_3_00006_1526276125583",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 8
+    }
+   ],
+   "dc.identifier.ministry_id": [
+    {
+     "value": "3",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.ministry_name": [
+    {
+     "value": "Ministry of Law and Justice",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.next_section": [
+    {
+     "value": "2.Definitions.",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.order_number": [
+    {
+     "value": "1",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_from": [
+    {
+     "value": "0",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_number": [
+    {
+     "value": "2",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_to": [
+    {
+     "value": "0",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.repealed": [
+    {
+     "value": "false",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_footnote": [
+    {
+     "value": "<sup>1</sup>. The words &quot;except the State of Jammu and Kashmir&quot; Omitted by the Jammu and Kashmir Reorganization (Adaptation of Central Laws) Order, 2020, <i>vide</i> notification No. S.O. 1123(E) dated (18-3-2020) and <i>vide</i> Union Territory of Ladakh Reorganisation (Adaptation of Central Laws) Order, 2020, notification No. S.O. 3774(E), dated (23-10-2020).<br/><hr style=\"border: none; margin-bottom: 3px; margin-top: 0;\"/> <sup>2</sup>. This Act shall come into force in--<br/><hr style=\"border: none; margin-bottom: 3px; margin-top: 0;\"/> (i) Union territory of Andaman and Nicobar Islands on 19th November, 1986,<i>vide</i> notification No. 79/22/86, dated 19th November, 1986, Gazette of India, Extra., Pt. II, Section 1.<br/><hr style=\"border: none; margin-bottom: 3px; margin-top: 0;\"/> (ii) Madhya Pradesh on 19thNovember, 1986, <i>vide</i> notification No. 79/6/86, dated 14th November, 1986, Gazette of India, Extra., Pt. II, Section 1<br/><hr style=\"border: none; margin-bottom: 3px; margin-top: 0;\"/> (iii) Uttar Pradesh on 2ndOctober, 1986, <i>vide</i> notification No. 79/11/86-Jus., dated 4th September, 1986, Gazette of India, Pt. II, Section 1<br/><hr style=\"border: none; margin-bottom: 3px; margin-top: 0;\"/> (iv) Delhi on 19th November, 1986,<i>vide</i> notification No. S.O. 863(E), dater 18th November, 1986, Gazette of India, Extra., Pt. II, Section 3 <i>(ii)</i>.<br/><hr style=\"border: none; margin-bottom: 3px; margin-top: 0;\"/> (v) Maharashtra on 1st December, 1986, <i>vide</i> notification No. S.O. 944(E), dated 5th December, 1986, Gazette of India, Extra., Pt. II, Section 3<i>(ii)</i>.<br/><hr style=\"border: none; margin-bottom: 3px; margin-top: 0;\"/> (vi) Karnataka on 25th May, 1987, <i>vide</i> notification No. G.S.R. 685(E), dated 15th May, 1987, Gazette of India, Extra., Pt. II, Section 3<i>(i)</i>.<br/><hr style=\"border: none; margin-bottom: 3px; margin-top: 0;\"/> (vii) Orissa on 1st May, 1989, <i>vide</i> notification No. S.O. 321(E), dated 27th April, 1989, Gazette of India, Extra, Pt. II, Section 3<i>(ii)</i>.<br/><hr style=\"border: none; margin-bottom: 3px; margin-top: 0;\"/> (viii) Kerala on 21st October, 1989, <i>vide</i> notification No. 79/5/86, dated 17th October, 1989, Gazette of India, Extra., Pt. II, Section 1.<br/><hr style=\"border: none; margin-bottom: 3px; margin-top: 0;\"/> (ix) Goa on 16th April, 1990, <i>vide</i> notification No. S.O. 328(E), dated 12th April, 1990, Gazette of India, Extra., Pt. II, Section 3<i>(ii)</i>.<br/><hr style=\"border: none; margin-bottom: 3px; margin-top: 0;\"/> (x) Union territory of Pondicherry on 1st May, 1987, <i>vide</i> notification No. G.S.R. 459 (E), dated 29th April, 1987, Gazette of India, Extra, Pt. II, Section 3<i>(i)</i>.<br/><hr style=\"border: none; margin-bottom: 3px; margin-top: 0;\"/> (xi) West Bengal on 1st November, 1991, <i>vide</i> notification No. 79/12/86-Jus., dated 1st November, 1991, Gazette of India, Extra., Pt. II, Section 1 (E).<br/><hr style=\"border: none; margin-bottom: 3px; margin-top: 0;\"/> (xii) Assam on 2nd October, 1991, <i>vide</i> notification No. 79/2/86Jus., dated 30th November, 1991, Gazette of India, Extra., Pt. II, Section 1 (E).<br/><hr style=\"border: none; margin-bottom: 3px; margin-top: 0;\"/> (xiii) Bihar on 10th December, 1991, <i>vide</i> notification No. S.O. 838(E), dated 6th December, 1991, Gazette of India, Extra., Pt. II, Section 3<i>(ii)</i>.<br/><hr style=\"border: none; margin-bottom: 3px; margin-top: 0;\"/> (xiv) Manipur on 3rd February, 1992, <i>vide</i> notification No. S.O. 91(E), dated 30th January, 1992, Gazette of India, Extra., Pt. II, Section 3<i>(ii)</i>.<br/><hr style=\"border: none; margin-bottom: 3px; margin-top: 0;\"/> (xv) Haryana on 2nd November, 1992, <i>vide</i> notification No. S.O. 784(E), dated 23th October, 1992, Gazette of India, Extra., Pt. II, Section 3<i>(i)</i>.<br/><hr style=\"border: none; margin-bottom: 3px; margin-top: 0;\"/> (xvi) Andhra Pradesh on 15th February, 1995, <i>vide</i> notification No. S.O. 92(E), dated 6th February, 1995, Gazette of India, Extra.. Part II, Section 3 <i>(ii)</i>.<br/><hr style=\"border: none; margin-bottom: 3px; margin-top: 0;\"/> (xvii) Gujarat on 1st January, 2000, <i>vide</i> notification No. S.O. 1268(E), dated 20nd December, 1999, Gazette of India, Extra., Pt. II, Section 3 <i>(ii)</i>.<br/><hr style=\"border: none; margin-bottom: 3px; margin-top: 0;\"/> (xviii) Union territory of Daman and Diu on 10th October, 2003, <i>vide</i> notification No. S.O. 1161 (E), dated 14th October, 2003, Gazette of India, Extra., Pt. II, Section 3 <i>(ii)</i>.<br/><hr style=\"border: none; margin-bottom: 3px; margin-top: 0;\"/>",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_id": [
+    {
+     "value": "9542",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_number": [
+    {
+     "value": "1",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_page_note": [
+    {
+     "value": "<span style=\"margin-left: 15px;\"></span>(1) This Act may be called the Family Courts Act, 1984.<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span> (2) It extends to the whole of India <sup>1</sup>***<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span> (3) It shall come into force on such date<sup>2</sup> as the Central Government may, by notification in the Official Gazette, appoint, and different dates may be appointed for different States.<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/>",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.state_id": [
+    {
+     "value": "1",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.state_name": [
+    {
+     "value": "CENTRAL",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.uri": [
+    {
+     "value": "http://test1.indiacode.nic.in/handle/123456789/546915",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.title": [
+    {
+     "value": "Short title, extent and commencement.",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ]
+  },
+  "inArchive": true,
+  "discoverable": true,
+  "withdrawn": false,
+  "lastModified": "2026-07-10T23:20:22.538748Z",
+  "entityType": null,
+  "type": "item",
+  "_links": {
+   "accessStatus": {
+    "href": "https://indiacode.gov.in/server/api/core/items/b7cf5bcb-9519-48d0-84f7-7b082c4f0a22/accessStatus"
+   },
+   "bundles": {
+    "href": "https://indiacode.gov.in/server/api/core/items/b7cf5bcb-9519-48d0-84f7-7b082c4f0a22/bundles"
+   },
+   "identifiers": {
+    "href": "https://indiacode.gov.in/server/api/core/items/b7cf5bcb-9519-48d0-84f7-7b082c4f0a22/identifiers"
+   },
+   "mappedCollections": {
+    "href": "https://indiacode.gov.in/server/api/core/items/b7cf5bcb-9519-48d0-84f7-7b082c4f0a22/mappedCollections"
+   },
+   "owningCollection": {
+    "href": "https://indiacode.gov.in/server/api/core/items/b7cf5bcb-9519-48d0-84f7-7b082c4f0a22/owningCollection"
+   },
+   "relationships": {
+    "href": "https://indiacode.gov.in/server/api/core/items/b7cf5bcb-9519-48d0-84f7-7b082c4f0a22/relationships"
+   },
+   "version": {
+    "href": "https://indiacode.gov.in/server/api/core/items/b7cf5bcb-9519-48d0-84f7-7b082c4f0a22/version"
+   },
+   "templateItemOf": {
+    "href": "https://indiacode.gov.in/server/api/core/items/b7cf5bcb-9519-48d0-84f7-7b082c4f0a22/templateItemOf"
+   },
+   "thumbnail": {
+    "href": "https://indiacode.gov.in/server/api/core/items/b7cf5bcb-9519-48d0-84f7-7b082c4f0a22/thumbnail"
+   },
+   "submitter": {
+    "href": "https://indiacode.gov.in/server/api/core/items/b7cf5bcb-9519-48d0-84f7-7b082c4f0a22/submitter"
+   },
+   "self": {
+    "href": "https://indiacode.gov.in/server/api/core/items/b7cf5bcb-9519-48d0-84f7-7b082c4f0a22"
+   }
+  }
+ },
+ {
+  "id": "d50bec96-cb3c-4ea6-ba22-25df6c4e02ff",
+  "uuid": "d50bec96-cb3c-4ea6-ba22-25df6c4e02ff",
+  "name": "Judgment.",
+  "handle": "123456789/546985",
+  "metadata": {
+   "dc.date.accessioned": [
+    {
+     "value": "2026-07-10T23:20:29Z",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.date.act_year": [
+    {
+     "value": "1984",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_id": [
+    {
+     "value": "AC_CEN_3_3_00019_198466_1517807326692",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_name": [
+    {
+     "value": "The Family Courts Act, 1984",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_number": [
+    {
+     "value": "66",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_repealed": [
+    {
+     "value": "false",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.collection": [
+    {
+     "value": "SECTION",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.department_id": [
+    {
+     "value": "3",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.department_name": [
+    {
+     "value": "Department of Justice",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.id": [
+    {
+     "value": "9558",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.ministry_id": [
+    {
+     "value": "3",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.ministry_name": [
+    {
+     "value": "Ministry of Law and Justice",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.next_section": [
+    {
+     "value": "18.Execution of decrees and orders.",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.order_number": [
+    {
+     "value": "17",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_from": [
+    {
+     "value": "0",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_number": [
+    {
+     "value": "6",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_to": [
+    {
+     "value": "0",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.repealed": [
+    {
+     "value": "false",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_id": [
+    {
+     "value": "9558",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_number": [
+    {
+     "value": "17",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_page_note": [
+    {
+     "value": "<span style=\"margin-left: 15px;\"></span>Judgment of a Family Court shall contain a concise statement of the case, the point for determination, the decision thereon and the reasons for such decision.<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/>",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.state_id": [
+    {
+     "value": "1",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.state_name": [
+    {
+     "value": "CENTRAL",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.uri": [
+    {
+     "value": "http://test1.indiacode.nic.in/handle/123456789/546985",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.title": [
+    {
+     "value": "Judgment.",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ]
+  },
+  "inArchive": true,
+  "discoverable": true,
+  "withdrawn": false,
+  "lastModified": "2026-07-10T23:20:29.387528Z",
+  "entityType": null,
+  "type": "item",
+  "_links": {
+   "accessStatus": {
+    "href": "https://indiacode.gov.in/server/api/core/items/d50bec96-cb3c-4ea6-ba22-25df6c4e02ff/accessStatus"
+   },
+   "bundles": {
+    "href": "https://indiacode.gov.in/server/api/core/items/d50bec96-cb3c-4ea6-ba22-25df6c4e02ff/bundles"
+   },
+   "identifiers": {
+    "href": "https://indiacode.gov.in/server/api/core/items/d50bec96-cb3c-4ea6-ba22-25df6c4e02ff/identifiers"
+   },
+   "mappedCollections": {
+    "href": "https://indiacode.gov.in/server/api/core/items/d50bec96-cb3c-4ea6-ba22-25df6c4e02ff/mappedCollections"
+   },
+   "owningCollection": {
+    "href": "https://indiacode.gov.in/server/api/core/items/d50bec96-cb3c-4ea6-ba22-25df6c4e02ff/owningCollection"
+   },
+   "relationships": {
+    "href": "https://indiacode.gov.in/server/api/core/items/d50bec96-cb3c-4ea6-ba22-25df6c4e02ff/relationships"
+   },
+   "version": {
+    "href": "https://indiacode.gov.in/server/api/core/items/d50bec96-cb3c-4ea6-ba22-25df6c4e02ff/version"
+   },
+   "templateItemOf": {
+    "href": "https://indiacode.gov.in/server/api/core/items/d50bec96-cb3c-4ea6-ba22-25df6c4e02ff/templateItemOf"
+   },
+   "thumbnail": {
+    "href": "https://indiacode.gov.in/server/api/core/items/d50bec96-cb3c-4ea6-ba22-25df6c4e02ff/thumbnail"
+   },
+   "submitter": {
+    "href": "https://indiacode.gov.in/server/api/core/items/d50bec96-cb3c-4ea6-ba22-25df6c4e02ff/submitter"
+   },
+   "self": {
+    "href": "https://indiacode.gov.in/server/api/core/items/d50bec96-cb3c-4ea6-ba22-25df6c4e02ff"
+   }
+  }
+ },
+ {
+  "id": "d2cc8c87-dc3e-49b8-90b0-b260325a17b2",
+  "uuid": "d2cc8c87-dc3e-49b8-90b0-b260325a17b2",
+  "name": "Appointment of Judges.",
+  "handle": "123456789/546918",
+  "metadata": {
+   "dc.date.accessioned": [
+    {
+     "value": "2026-07-10T23:20:22Z",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.date.act_year": [
+    {
+     "value": "1984",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_id": [
+    {
+     "value": "AC_CEN_3_3_00019_198466_1517807326692",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_name": [
+    {
+     "value": "The Family Courts Act, 1984",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_number": [
+    {
+     "value": "66",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_repealed": [
+    {
+     "value": "false",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.collection": [
+    {
+     "value": "SECTION",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.department_id": [
+    {
+     "value": "3",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.department_name": [
+    {
+     "value": "Department of Justice",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.id": [
+    {
+     "value": "9545",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.ministry_id": [
+    {
+     "value": "3",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.ministry_name": [
+    {
+     "value": "Ministry of Law and Justice",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.next_section": [
+    {
+     "value": "5.Association of social welfare agencies, etc.",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.order_number": [
+    {
+     "value": "4",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_from": [
+    {
+     "value": "0",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_number": [
+    {
+     "value": "3",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_to": [
+    {
+     "value": "0",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.repealed": [
+    {
+     "value": "false",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_id": [
+    {
+     "value": "9545",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_number": [
+    {
+     "value": "4",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_page_note": [
+    {
+     "value": "<span style=\"margin-left: 15px;\"></span>(1) The State Government may, with the concurrence of the High Court, appoint one or more persons to be the Judge or Judges of a Family Court.<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span> (2) When a Family Court consists of more than one Judge,—<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span> (a) each of the Judges may exercise all or any of the powers conferred on the Court by this Act or any other law for the time being in force;<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span> (b) the State Government may, with the concurrence of the High Court, appoint any of the Judges to be the Principal Judge and any other Judge to be the Additional Principal Judge;<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span> (c) the Principal Judge may, from time to time, make such arrangements as he may deem fit for the distribution of the business of the Court among the various Judges thereof;<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span> (d) the Additional Principal Judge may exercise the powers of the Principal Judge in the event of any vacancy in the office of the Principal Judge or when the Principal Judge is unable to discharge his functions owing to absence, illness or any other cause.<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span> (3) A person shall not be qualified for appointment as a Judge unless he—<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span> (a) has for at least seven years held a judicial office in India or the office of a Member of a Tribunal or any post under the Union or a State requiring special knowledge of law; or<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span> (b) has for at least seven years been an advocate of a High Court or of two or more such Courts in succession; or<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span> (c) possesses such other qualifications as the Central Government may, with the concurrence of the Chief Justice of India, prescribe.<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span> (4) In selecting persons for appointment as Judges,—<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span> (a) every endeavour shall be made to ensure that persons committed to the need to protect and preserve the institution of marriage and to promote the welfare of children and qualified by reason of their experience and expertise to promote the settlement of disputes by conciliation and counselling are selected; and<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span> (b) preference shall be given to women.<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span> (5) No person shall be appointed as, or hold the office of, a Judge of a Family Court after he has attained the age of sixty-two years.<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span> (6) The salary or honorarium and other allowances payable to, and the other terms and conditions of service of, a Judge shall be such as the State Government may, in consultation with the High Court, prescribe.<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/>",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.state_id": [
+    {
+     "value": "1",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.state_name": [
+    {
+     "value": "CENTRAL",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.uri": [
+    {
+     "value": "http://test1.indiacode.nic.in/handle/123456789/546918",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.title": [
+    {
+     "value": "Appointment of Judges.",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ]
+  },
+  "inArchive": true,
+  "discoverable": true,
+  "withdrawn": false,
+  "lastModified": "2026-07-10T23:20:22.832028Z",
+  "entityType": null,
+  "type": "item",
+  "_links": {
+   "accessStatus": {
+    "href": "https://indiacode.gov.in/server/api/core/items/d2cc8c87-dc3e-49b8-90b0-b260325a17b2/accessStatus"
+   },
+   "bundles": {
+    "href": "https://indiacode.gov.in/server/api/core/items/d2cc8c87-dc3e-49b8-90b0-b260325a17b2/bundles"
+   },
+   "identifiers": {
+    "href": "https://indiacode.gov.in/server/api/core/items/d2cc8c87-dc3e-49b8-90b0-b260325a17b2/identifiers"
+   },
+   "mappedCollections": {
+    "href": "https://indiacode.gov.in/server/api/core/items/d2cc8c87-dc3e-49b8-90b0-b260325a17b2/mappedCollections"
+   },
+   "owningCollection": {
+    "href": "https://indiacode.gov.in/server/api/core/items/d2cc8c87-dc3e-49b8-90b0-b260325a17b2/owningCollection"
+   },
+   "relationships": {
+    "href": "https://indiacode.gov.in/server/api/core/items/d2cc8c87-dc3e-49b8-90b0-b260325a17b2/relationships"
+   },
+   "version": {
+    "href": "https://indiacode.gov.in/server/api/core/items/d2cc8c87-dc3e-49b8-90b0-b260325a17b2/version"
+   },
+   "templateItemOf": {
+    "href": "https://indiacode.gov.in/server/api/core/items/d2cc8c87-dc3e-49b8-90b0-b260325a17b2/templateItemOf"
+   },
+   "thumbnail": {
+    "href": "https://indiacode.gov.in/server/api/core/items/d2cc8c87-dc3e-49b8-90b0-b260325a17b2/thumbnail"
+   },
+   "submitter": {
+    "href": "https://indiacode.gov.in/server/api/core/items/d2cc8c87-dc3e-49b8-90b0-b260325a17b2/submitter"
+   },
+   "self": {
+    "href": "https://indiacode.gov.in/server/api/core/items/d2cc8c87-dc3e-49b8-90b0-b260325a17b2"
+   }
+  }
+ },
+ {
+  "id": "e3950164-478a-4899-8a1e-2f1eb4cb0cd8",
+  "uuid": "e3950164-478a-4899-8a1e-2f1eb4cb0cd8",
+  "name": "Act to have overriding effect.",
+  "handle": "123456789/546989",
+  "metadata": {
+   "dc.date.accessioned": [
+    {
+     "value": "2026-07-10T23:20:29Z",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.date.act_year": [
+    {
+     "value": "1984",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_id": [
+    {
+     "value": "AC_CEN_3_3_00019_198466_1517807326692",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_name": [
+    {
+     "value": "The Family Courts Act, 1984",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_number": [
+    {
+     "value": "66",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_repealed": [
+    {
+     "value": "false",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.collection": [
+    {
+     "value": "SECTION",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.department_id": [
+    {
+     "value": "3",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.department_name": [
+    {
+     "value": "Department of Justice",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.id": [
+    {
+     "value": "9561",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.ministry_id": [
+    {
+     "value": "3",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.ministry_name": [
+    {
+     "value": "Ministry of Law and Justice",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.next_section": [
+    {
+     "value": "21.Power of High Court to make rules.",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.order_number": [
+    {
+     "value": "20",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_from": [
+    {
+     "value": "0",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_number": [
+    {
+     "value": "7",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_to": [
+    {
+     "value": "0",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.repealed": [
+    {
+     "value": "false",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_id": [
+    {
+     "value": "9561",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_number": [
+    {
+     "value": "20",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_page_note": [
+    {
+     "value": "<span style=\"margin-left: 15px;\"></span>The provisions of this Act shall have effect notwithstanding anything inconsistent therewith contained in any other law for the time being in force or in any instrument having effect by virtue of any law other than this Act.<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/>",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.state_id": [
+    {
+     "value": "1",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.state_name": [
+    {
+     "value": "CENTRAL",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.uri": [
+    {
+     "value": "http://test1.indiacode.nic.in/handle/123456789/546989",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.title": [
+    {
+     "value": "Act to have overriding effect.",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ]
+  },
+  "inArchive": true,
+  "discoverable": true,
+  "withdrawn": false,
+  "lastModified": "2026-07-10T23:20:29.834578Z",
+  "entityType": null,
+  "type": "item",
+  "_links": {
+   "accessStatus": {
+    "href": "https://indiacode.gov.in/server/api/core/items/e3950164-478a-4899-8a1e-2f1eb4cb0cd8/accessStatus"
+   },
+   "bundles": {
+    "href": "https://indiacode.gov.in/server/api/core/items/e3950164-478a-4899-8a1e-2f1eb4cb0cd8/bundles"
+   },
+   "identifiers": {
+    "href": "https://indiacode.gov.in/server/api/core/items/e3950164-478a-4899-8a1e-2f1eb4cb0cd8/identifiers"
+   },
+   "mappedCollections": {
+    "href": "https://indiacode.gov.in/server/api/core/items/e3950164-478a-4899-8a1e-2f1eb4cb0cd8/mappedCollections"
+   },
+   "owningCollection": {
+    "href": "https://indiacode.gov.in/server/api/core/items/e3950164-478a-4899-8a1e-2f1eb4cb0cd8/owningCollection"
+   },
+   "relationships": {
+    "href": "https://indiacode.gov.in/server/api/core/items/e3950164-478a-4899-8a1e-2f1eb4cb0cd8/relationships"
+   },
+   "version": {
+    "href": "https://indiacode.gov.in/server/api/core/items/e3950164-478a-4899-8a1e-2f1eb4cb0cd8/version"
+   },
+   "templateItemOf": {
+    "href": "https://indiacode.gov.in/server/api/core/items/e3950164-478a-4899-8a1e-2f1eb4cb0cd8/templateItemOf"
+   },
+   "thumbnail": {
+    "href": "https://indiacode.gov.in/server/api/core/items/e3950164-478a-4899-8a1e-2f1eb4cb0cd8/thumbnail"
+   },
+   "submitter": {
+    "href": "https://indiacode.gov.in/server/api/core/items/e3950164-478a-4899-8a1e-2f1eb4cb0cd8/submitter"
+   },
+   "self": {
+    "href": "https://indiacode.gov.in/server/api/core/items/e3950164-478a-4899-8a1e-2f1eb4cb0cd8"
+   }
+  }
+ },
+ {
+  "id": "e475ce9c-e15c-4f92-a18b-948873daa2ae",
+  "uuid": "e475ce9c-e15c-4f92-a18b-948873daa2ae",
+  "name": "Establishment of Family Courts.",
+  "handle": "123456789/546917",
+  "metadata": {
+   "dc.date.accessioned": [
+    {
+     "value": "2026-07-10T23:20:22Z",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.date.act_year": [
+    {
+     "value": "1984",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_id": [
+    {
+     "value": "AC_CEN_3_3_00019_198466_1517807326692",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_name": [
+    {
+     "value": "The Family Courts Act, 1984",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_number": [
+    {
+     "value": "66",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_repealed": [
+    {
+     "value": "false",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.collection": [
+    {
+     "value": "SECTION",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.department_id": [
+    {
+     "value": "3",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.department_name": [
+    {
+     "value": "Department of Justice",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.id": [
+    {
+     "value": "9544",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.linked_id": [
+    {
+     "value": "NO_MH_166_855_00023_1713766487455",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    },
+    {
+     "value": "NO_MH_166_855_00022_1699345373216",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 1
+    },
+    {
+     "value": "NO_MH_166_855_000010_1699343113623",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 2
+    },
+    {
+     "value": "NO_MH_166_855_00021_1699344695835",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 3
+    },
+    {
+     "value": "NO_MH_166_855_00019_1699344514423",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 4
+    },
+    {
+     "value": "NO_MH_166_855_00020_1699344597499",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 5
+    },
+    {
+     "value": "NO_MH_166_855_00006_1693222124955",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 6
+    },
+    {
+     "value": "NO_MH_166_855_00011_1699343236630",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 7
+    },
+    {
+     "value": "NO_MH_166_855_00009_1699342943810",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 8
+    },
+    {
+     "value": "NO_MH_166_855_00008_1693222220991",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 9
+    },
+    {
+     "value": "NO_MH_166_855_00009_1693222268792",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 10
+    },
+    {
+     "value": "NO_MH_166_855_00015_1699343841902",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 11
+    },
+    {
+     "value": "NO_MH_166_855_00012_1699343390051",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 12
+    },
+    {
+     "value": "NO_MH_166_855_00017_1699344174287",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 13
+    },
+    {
+     "value": "NO_MH_166_855_00016_1699343987539",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 14
+    },
+    {
+     "value": "NO_MH_166_855_00013_1699343613357",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 15
+    },
+    {
+     "value": "NO_MH_166_855_00014_1699343697166",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 16
+    },
+    {
+     "value": "NO_MH_166_855_00007_1693222170617",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 17
+    },
+    {
+     "value": "NO_MH_166_855_00003_1693221981866",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 18
+    },
+    {
+     "value": "NO_MH_166_855_00004_1693222022995",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 19
+    },
+    {
+     "value": "NO_MH_166_855_00001_1693221858073",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 20
+    },
+    {
+     "value": "NO_MH_166_855_00002_1693221938674",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 21
+    }
+   ],
+   "dc.identifier.ministry_id": [
+    {
+     "value": "3",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.ministry_name": [
+    {
+     "value": "Ministry of Law and Justice",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.next_section": [
+    {
+     "value": "4.Appointment of Judges.",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.order_number": [
+    {
+     "value": "3",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_from": [
+    {
+     "value": "0",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_number": [
+    {
+     "value": "3",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_to": [
+    {
+     "value": "0",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.repealed": [
+    {
+     "value": "false",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_id": [
+    {
+     "value": "9544",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_number": [
+    {
+     "value": "3",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_page_note": [
+    {
+     "value": "<span style=\"margin-left: 15px;\"></span>(1) For the purpose of exercising the jurisdiction and powers conferred on a Family Court by this Act, the State Government, after consultation with the High Court, and by notification,—<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span> (a) shall, as soon as may be after the commencement of this Act, established for every area in the State comprising of city or town whose population exceeds one million, a Family Court;<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span> (b) may establish Family Courts for such other areas in the State as it may deem necessary.<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span> (2) The State Government shall, after consultation with the High Court, specify, by notification, the local limits of the area to which the jurisdiction of a Family Court shall extend and may, at any time, increase, reduce or alter such limits.<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/>",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.state_id": [
+    {
+     "value": "1",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.state_name": [
+    {
+     "value": "CENTRAL",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.uri": [
+    {
+     "value": "http://test1.indiacode.nic.in/handle/123456789/546917",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.title": [
+    {
+     "value": "Establishment of Family Courts.",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ]
+  },
+  "inArchive": true,
+  "discoverable": true,
+  "withdrawn": false,
+  "lastModified": "2026-07-10T23:20:22.739330Z",
+  "entityType": null,
+  "type": "item",
+  "_links": {
+   "accessStatus": {
+    "href": "https://indiacode.gov.in/server/api/core/items/e475ce9c-e15c-4f92-a18b-948873daa2ae/accessStatus"
+   },
+   "bundles": {
+    "href": "https://indiacode.gov.in/server/api/core/items/e475ce9c-e15c-4f92-a18b-948873daa2ae/bundles"
+   },
+   "identifiers": {
+    "href": "https://indiacode.gov.in/server/api/core/items/e475ce9c-e15c-4f92-a18b-948873daa2ae/identifiers"
+   },
+   "mappedCollections": {
+    "href": "https://indiacode.gov.in/server/api/core/items/e475ce9c-e15c-4f92-a18b-948873daa2ae/mappedCollections"
+   },
+   "owningCollection": {
+    "href": "https://indiacode.gov.in/server/api/core/items/e475ce9c-e15c-4f92-a18b-948873daa2ae/owningCollection"
+   },
+   "relationships": {
+    "href": "https://indiacode.gov.in/server/api/core/items/e475ce9c-e15c-4f92-a18b-948873daa2ae/relationships"
+   },
+   "version": {
+    "href": "https://indiacode.gov.in/server/api/core/items/e475ce9c-e15c-4f92-a18b-948873daa2ae/version"
+   },
+   "templateItemOf": {
+    "href": "https://indiacode.gov.in/server/api/core/items/e475ce9c-e15c-4f92-a18b-948873daa2ae/templateItemOf"
+   },
+   "thumbnail": {
+    "href": "https://indiacode.gov.in/server/api/core/items/e475ce9c-e15c-4f92-a18b-948873daa2ae/thumbnail"
+   },
+   "submitter": {
+    "href": "https://indiacode.gov.in/server/api/core/items/e475ce9c-e15c-4f92-a18b-948873daa2ae/submitter"
+   },
+   "self": {
+    "href": "https://indiacode.gov.in/server/api/core/items/e475ce9c-e15c-4f92-a18b-948873daa2ae"
+   }
+  }
+ },
+ {
+  "id": "ce3c4057-89c5-41bd-8e72-c3f54b967df6",
+  "uuid": "ce3c4057-89c5-41bd-8e72-c3f54b967df6",
+  "name": "Evidence of formal character on affidavit.",
+  "handle": "123456789/546982",
+  "metadata": {
+   "dc.date.accessioned": [
+    {
+     "value": "2026-07-10T23:20:29Z",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.date.act_year": [
+    {
+     "value": "1984",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_id": [
+    {
+     "value": "AC_CEN_3_3_00019_198466_1517807326692",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_name": [
+    {
+     "value": "The Family Courts Act, 1984",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_number": [
+    {
+     "value": "66",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_repealed": [
+    {
+     "value": "false",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.collection": [
+    {
+     "value": "SECTION",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.department_id": [
+    {
+     "value": "3",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.department_name": [
+    {
+     "value": "Department of Justice",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.id": [
+    {
+     "value": "9557",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.ministry_id": [
+    {
+     "value": "3",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.ministry_name": [
+    {
+     "value": "Ministry of Law and Justice",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.next_section": [
+    {
+     "value": "17.Judgment.",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.order_number": [
+    {
+     "value": "16",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_from": [
+    {
+     "value": "0",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_number": [
+    {
+     "value": "6",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_to": [
+    {
+     "value": "0",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.repealed": [
+    {
+     "value": "false",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_id": [
+    {
+     "value": "9557",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_number": [
+    {
+     "value": "16",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_page_note": [
+    {
+     "value": "<span style=\"margin-left: 15px;\"></span>(1) The evidence of any person where such evidence is of a formal character, may be given by affidavit and may, subject to all just exceptions, be read in evidence in any suit or proceeding before a Family Court.<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span> (2) The Family Court may, if it thinks fit, and shall, on the application of any of the parties to the suit or proceeding summon and examine any such person as to the facts contained in his affidavit.<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/>",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.state_id": [
+    {
+     "value": "1",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.state_name": [
+    {
+     "value": "CENTRAL",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.uri": [
+    {
+     "value": "http://test1.indiacode.nic.in/handle/123456789/546982",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.title": [
+    {
+     "value": "Evidence of formal character on affidavit.",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ]
+  },
+  "inArchive": true,
+  "discoverable": true,
+  "withdrawn": false,
+  "lastModified": "2026-07-10T23:20:29.082020Z",
+  "entityType": null,
+  "type": "item",
+  "_links": {
+   "accessStatus": {
+    "href": "https://indiacode.gov.in/server/api/core/items/ce3c4057-89c5-41bd-8e72-c3f54b967df6/accessStatus"
+   },
+   "bundles": {
+    "href": "https://indiacode.gov.in/server/api/core/items/ce3c4057-89c5-41bd-8e72-c3f54b967df6/bundles"
+   },
+   "identifiers": {
+    "href": "https://indiacode.gov.in/server/api/core/items/ce3c4057-89c5-41bd-8e72-c3f54b967df6/identifiers"
+   },
+   "mappedCollections": {
+    "href": "https://indiacode.gov.in/server/api/core/items/ce3c4057-89c5-41bd-8e72-c3f54b967df6/mappedCollections"
+   },
+   "owningCollection": {
+    "href": "https://indiacode.gov.in/server/api/core/items/ce3c4057-89c5-41bd-8e72-c3f54b967df6/owningCollection"
+   },
+   "relationships": {
+    "href": "https://indiacode.gov.in/server/api/core/items/ce3c4057-89c5-41bd-8e72-c3f54b967df6/relationships"
+   },
+   "version": {
+    "href": "https://indiacode.gov.in/server/api/core/items/ce3c4057-89c5-41bd-8e72-c3f54b967df6/version"
+   },
+   "templateItemOf": {
+    "href": "https://indiacode.gov.in/server/api/core/items/ce3c4057-89c5-41bd-8e72-c3f54b967df6/templateItemOf"
+   },
+   "thumbnail": {
+    "href": "https://indiacode.gov.in/server/api/core/items/ce3c4057-89c5-41bd-8e72-c3f54b967df6/thumbnail"
+   },
+   "submitter": {
+    "href": "https://indiacode.gov.in/server/api/core/items/ce3c4057-89c5-41bd-8e72-c3f54b967df6/submitter"
+   },
+   "self": {
+    "href": "https://indiacode.gov.in/server/api/core/items/ce3c4057-89c5-41bd-8e72-c3f54b967df6"
+   }
+  }
+ },
+ {
+  "id": "efb43cad-11e2-4306-8afe-c2443f694c58",
+  "uuid": "efb43cad-11e2-4306-8afe-c2443f694c58",
+  "name": "Application of Indian Evidence Act, 1872.",
+  "handle": "123456789/546961",
+  "metadata": {
+   "dc.date.accessioned": [
+    {
+     "value": "2026-07-10T23:20:26Z",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.date.act_year": [
+    {
+     "value": "1984",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_id": [
+    {
+     "value": "AC_CEN_3_3_00019_198466_1517807326692",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_name": [
+    {
+     "value": "The Family Courts Act, 1984",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_number": [
+    {
+     "value": "66",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_repealed": [
+    {
+     "value": "false",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.collection": [
+    {
+     "value": "SECTION",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.department_id": [
+    {
+     "value": "3",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.department_name": [
+    {
+     "value": "Department of Justice",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.id": [
+    {
+     "value": "9555",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.ministry_id": [
+    {
+     "value": "3",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.ministry_name": [
+    {
+     "value": "Ministry of Law and Justice",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.next_section": [
+    {
+     "value": "15.Record of oral evidence.",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.order_number": [
+    {
+     "value": "14",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_from": [
+    {
+     "value": "0",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_number": [
+    {
+     "value": "6",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_to": [
+    {
+     "value": "0",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.repealed": [
+    {
+     "value": "false",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_id": [
+    {
+     "value": "9555",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_number": [
+    {
+     "value": "14",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_page_note": [
+    {
+     "value": "<span style=\"margin-left: 15px;\"></span>A Family Court may receive as evidence any report, statement, documents, information or matter that may, in its opinion, assist it to deal effectually with a dispute, whether or not the same would be otherwise relevant or admissible under the Indian Evidence Act, 1872 (1 of 1872). <br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/>",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.state_id": [
+    {
+     "value": "1",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.state_name": [
+    {
+     "value": "CENTRAL",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.uri": [
+    {
+     "value": "http://test1.indiacode.nic.in/handle/123456789/546961",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.title": [
+    {
+     "value": "Application of Indian Evidence Act, 1872.",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ]
+  },
+  "inArchive": true,
+  "discoverable": true,
+  "withdrawn": false,
+  "lastModified": "2026-07-10T23:20:27.018931Z",
+  "entityType": null,
+  "type": "item",
+  "_links": {
+   "accessStatus": {
+    "href": "https://indiacode.gov.in/server/api/core/items/efb43cad-11e2-4306-8afe-c2443f694c58/accessStatus"
+   },
+   "bundles": {
+    "href": "https://indiacode.gov.in/server/api/core/items/efb43cad-11e2-4306-8afe-c2443f694c58/bundles"
+   },
+   "identifiers": {
+    "href": "https://indiacode.gov.in/server/api/core/items/efb43cad-11e2-4306-8afe-c2443f694c58/identifiers"
+   },
+   "mappedCollections": {
+    "href": "https://indiacode.gov.in/server/api/core/items/efb43cad-11e2-4306-8afe-c2443f694c58/mappedCollections"
+   },
+   "owningCollection": {
+    "href": "https://indiacode.gov.in/server/api/core/items/efb43cad-11e2-4306-8afe-c2443f694c58/owningCollection"
+   },
+   "relationships": {
+    "href": "https://indiacode.gov.in/server/api/core/items/efb43cad-11e2-4306-8afe-c2443f694c58/relationships"
+   },
+   "version": {
+    "href": "https://indiacode.gov.in/server/api/core/items/efb43cad-11e2-4306-8afe-c2443f694c58/version"
+   },
+   "templateItemOf": {
+    "href": "https://indiacode.gov.in/server/api/core/items/efb43cad-11e2-4306-8afe-c2443f694c58/templateItemOf"
+   },
+   "thumbnail": {
+    "href": "https://indiacode.gov.in/server/api/core/items/efb43cad-11e2-4306-8afe-c2443f694c58/thumbnail"
+   },
+   "submitter": {
+    "href": "https://indiacode.gov.in/server/api/core/items/efb43cad-11e2-4306-8afe-c2443f694c58/submitter"
+   },
+   "self": {
+    "href": "https://indiacode.gov.in/server/api/core/items/efb43cad-11e2-4306-8afe-c2443f694c58"
+   }
+  }
+ }
+]

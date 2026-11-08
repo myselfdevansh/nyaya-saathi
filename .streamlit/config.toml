@@ -4,4 +4,11 @@
 fileWatcherType = "none"
 
 [theme]
-primaryColor = "#C2410C"
+base = "light"
+primaryColor = "#1F3A8A"
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#F3F5FA"
+textColor = "#172033"
+borderColor = "#E2E6EF"
+baseRadius = "0.75rem"
+font = "Inter:https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap"

@@ -1,0 +1,5387 @@
+[
+ {
+  "id": "1627b8b2-877a-4c54-9160-d00ad0d4d6f4",
+  "uuid": "1627b8b2-877a-4c54-9160-d00ad0d4d6f4",
+  "name": "Amendment of Act No. 25 of 1955.",
+  "handle": "123456789/521478",
+  "metadata": {
+   "dc.date.accessioned": [
+    {
+     "value": "2026-07-10T22:16:04Z",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.date.act_year": [
+    {
+     "value": "2007",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_id": [
+    {
+     "value": "AC_CEN_13_14_00001_200706_1517807317592",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_name": [
+    {
+     "value": "The Prohibition of Child Marriage Act, 2006",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_number": [
+    {
+     "value": "6",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_repealed": [
+    {
+     "value": "false",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.collection": [
+    {
+     "value": "SECTION",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.id": [
+    {
+     "value": "25749",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.ministry_id": [
+    {
+     "value": "13",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.ministry_name": [
+    {
+     "value": "Ministry of Women and Child Development",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.next_section": [
+    {
+     "value": "21.Repeal and savings.",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.order_number": [
+    {
+     "value": "20",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_from": [
+    {
+     "value": "0",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_number": [
+    {
+     "value": "6",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_to": [
+    {
+     "value": "0",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.repealed": [
+    {
+     "value": "false",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_id": [
+    {
+     "value": "25749",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_number": [
+    {
+     "value": "20",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_page_note": [
+    {
+     "value": "<span style=\"margin-left: 15px;\"></span>In the Hindu Marriage Act, 1955, in section 18, for clause <i>(a)</i>, the following clause shall be substituted, namely:--<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span> \"(a) in the case of contravention of the condition specified in clause <i>(iii)</i> of section 5, with rigorous imprisonment which may extend to two years or with fine which may extend to one lakh rupees, or with both\".<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/>",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.state_id": [
+    {
+     "value": "1",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.state_name": [
+    {
+     "value": "CENTRAL",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.uri": [
+    {
+     "value": "http://test1.indiacode.nic.in/handle/123456789/521478",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.title": [
+    {
+     "value": "Amendment of Act No. 25 of 1955.",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ]
+  },
+  "inArchive": true,
+  "discoverable": true,
+  "withdrawn": false,
+  "lastModified": "2026-07-10T22:16:04.632890Z",
+  "entityType": null,
+  "type": "item",
+  "_links": {
+   "accessStatus": {
+    "href": "https://indiacode.gov.in/server/api/core/items/1627b8b2-877a-4c54-9160-d00ad0d4d6f4/accessStatus"
+   },
+   "bundles": {
+    "href": "https://indiacode.gov.in/server/api/core/items/1627b8b2-877a-4c54-9160-d00ad0d4d6f4/bundles"
+   },
+   "identifiers": {
+    "href": "https://indiacode.gov.in/server/api/core/items/1627b8b2-877a-4c54-9160-d00ad0d4d6f4/identifiers"
+   },
+   "mappedCollections": {
+    "href": "https://indiacode.gov.in/server/api/core/items/1627b8b2-877a-4c54-9160-d00ad0d4d6f4/mappedCollections"
+   },
+   "owningCollection": {
+    "href": "https://indiacode.gov.in/server/api/core/items/1627b8b2-877a-4c54-9160-d00ad0d4d6f4/owningCollection"
+   },
+   "relationships": {
+    "href": "https://indiacode.gov.in/server/api/core/items/1627b8b2-877a-4c54-9160-d00ad0d4d6f4/relationships"
+   },
+   "version": {
+    "href": "https://indiacode.gov.in/server/api/core/items/1627b8b2-877a-4c54-9160-d00ad0d4d6f4/version"
+   },
+   "templateItemOf": {
+    "href": "https://indiacode.gov.in/server/api/core/items/1627b8b2-877a-4c54-9160-d00ad0d4d6f4/templateItemOf"
+   },
+   "thumbnail": {
+    "href": "https://indiacode.gov.in/server/api/core/items/1627b8b2-877a-4c54-9160-d00ad0d4d6f4/thumbnail"
+   },
+   "submitter": {
+    "href": "https://indiacode.gov.in/server/api/core/items/1627b8b2-877a-4c54-9160-d00ad0d4d6f4/submitter"
+   },
+   "self": {
+    "href": "https://indiacode.gov.in/server/api/core/items/1627b8b2-877a-4c54-9160-d00ad0d4d6f4"
+   }
+  }
+ },
+ {
+  "id": "0af14e0d-97c1-41ef-9c9c-5a82ff22307b",
+  "uuid": "0af14e0d-97c1-41ef-9c9c-5a82ff22307b",
+  "name": "Marriage of a minor child to be void in certain circumstances.",
+  "handle": "123456789/521470",
+  "metadata": {
+   "dc.date.accessioned": [
+    {
+     "value": "2026-07-10T22:16:04Z",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.date.act_year": [
+    {
+     "value": "2007",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_id": [
+    {
+     "value": "AC_CEN_13_14_00001_200706_1517807317592",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_name": [
+    {
+     "value": "The Prohibition of Child Marriage Act, 2006",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_number": [
+    {
+     "value": "6",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_repealed": [
+    {
+     "value": "false",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.collection": [
+    {
+     "value": "SECTION",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.id": [
+    {
+     "value": "25741",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.ministry_id": [
+    {
+     "value": "13",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.ministry_name": [
+    {
+     "value": "Ministry of Women and Child Development",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.next_section": [
+    {
+     "value": "13.Power of court to issue injunction prohibiting child marriages.",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.order_number": [
+    {
+     "value": "12",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_from": [
+    {
+     "value": "0",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_number": [
+    {
+     "value": "4",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_to": [
+    {
+     "value": "0",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.repealed": [
+    {
+     "value": "false",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_id": [
+    {
+     "value": "25741",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_number": [
+    {
+     "value": "12",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_page_note": [
+    {
+     "value": "<span style=\"margin-left: 15px;\"></span>Where a child, being a minor--<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span> (a) is taken or enticed out of the keeping of the lawful guardian; or<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span> (b) by force compelled, or by any deceitful means induced to go from any place; or<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span> (c) is sold for the purpose of marriage; and made to go through a form of marriage or if the minor is married after which the minor is sold or trafficked or used for immoral purposes,<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> such marriage shall be null and void. <br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/>",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.state_id": [
+    {
+     "value": "1",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.state_name": [
+    {
+     "value": "CENTRAL",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.uri": [
+    {
+     "value": "http://test1.indiacode.nic.in/handle/123456789/521470",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.title": [
+    {
+     "value": "Marriage of a minor child to be void in certain circumstances.",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ]
+  },
+  "inArchive": true,
+  "discoverable": true,
+  "withdrawn": false,
+  "lastModified": "2026-07-10T22:16:04.179203Z",
+  "entityType": null,
+  "type": "item",
+  "_links": {
+   "accessStatus": {
+    "href": "https://indiacode.gov.in/server/api/core/items/0af14e0d-97c1-41ef-9c9c-5a82ff22307b/accessStatus"
+   },
+   "bundles": {
+    "href": "https://indiacode.gov.in/server/api/core/items/0af14e0d-97c1-41ef-9c9c-5a82ff22307b/bundles"
+   },
+   "identifiers": {
+    "href": "https://indiacode.gov.in/server/api/core/items/0af14e0d-97c1-41ef-9c9c-5a82ff22307b/identifiers"
+   },
+   "mappedCollections": {
+    "href": "https://indiacode.gov.in/server/api/core/items/0af14e0d-97c1-41ef-9c9c-5a82ff22307b/mappedCollections"
+   },
+   "owningCollection": {
+    "href": "https://indiacode.gov.in/server/api/core/items/0af14e0d-97c1-41ef-9c9c-5a82ff22307b/owningCollection"
+   },
+   "relationships": {
+    "href": "https://indiacode.gov.in/server/api/core/items/0af14e0d-97c1-41ef-9c9c-5a82ff22307b/relationships"
+   },
+   "version": {
+    "href": "https://indiacode.gov.in/server/api/core/items/0af14e0d-97c1-41ef-9c9c-5a82ff22307b/version"
+   },
+   "templateItemOf": {
+    "href": "https://indiacode.gov.in/server/api/core/items/0af14e0d-97c1-41ef-9c9c-5a82ff22307b/templateItemOf"
+   },
+   "thumbnail": {
+    "href": "https://indiacode.gov.in/server/api/core/items/0af14e0d-97c1-41ef-9c9c-5a82ff22307b/thumbnail"
+   },
+   "submitter": {
+    "href": "https://indiacode.gov.in/server/api/core/items/0af14e0d-97c1-41ef-9c9c-5a82ff22307b/submitter"
+   },
+   "self": {
+    "href": "https://indiacode.gov.in/server/api/core/items/0af14e0d-97c1-41ef-9c9c-5a82ff22307b"
+   }
+  }
+ },
+ {
+  "id": "1c2c80a7-aa27-48ca-8b35-e9477914bb63",
+  "uuid": "1c2c80a7-aa27-48ca-8b35-e9477914bb63",
+  "name": "Child marriages to be voidable at the option of contracting party being a child.",
+  "handle": "123456789/521460",
+  "metadata": {
+   "dc.date.accessioned": [
+    {
+     "value": "2026-07-10T22:16:03Z",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.date.act_year": [
+    {
+     "value": "2007",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_id": [
+    {
+     "value": "AC_CEN_13_14_00001_200706_1517807317592",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_name": [
+    {
+     "value": "The Prohibition of Child Marriage Act, 2006",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_number": [
+    {
+     "value": "6",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_repealed": [
+    {
+     "value": "false",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.collection": [
+    {
+     "value": "SECTION",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.id": [
+    {
+     "value": "25732",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.ministry_id": [
+    {
+     "value": "13",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.ministry_name": [
+    {
+     "value": "Ministry of Women and Child Development",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.next_section": [
+    {
+     "value": "4.Provision for maintenance and residence to female contracting party to child marriage.",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.order_number": [
+    {
+     "value": "3",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_from": [
+    {
+     "value": "0",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_number": [
+    {
+     "value": "2",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_to": [
+    {
+     "value": "0",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.repealed": [
+    {
+     "value": "false",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_id": [
+    {
+     "value": "25732",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_number": [
+    {
+     "value": "3",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_page_note": [
+    {
+     "value": "<span style=\"margin-left: 15px;\"></span>(1) Every child marriage, whether solemnised before or after the commencement of this Act, shall be voidable at the option of the contracting party who was a child at the time of the marriage:<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span> Provided that a petition for annulling a child marriage by a decree of nullity may be filed in the district court only by a contracting party to the marriage who was a child at the time of the marriage.<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span> (2) If at the time of filing a petition, the petitioner is a minor, the petition may be filed through his or her guardian or next friend along with the Child Marriage Prohibition Officer.<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span> (3) The petition under this section may be filed at any time but before the child filing the petition completes two years of attaining majority.<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span> (4) While granting a decree of nullity under this section, the district court shall make an order directing both the parties to the marriage and their parents or their guardians to return to the other party, his or her parents or guardian, as the case may be, the money, valuables, ornaments and other gifts received on the occasion of the marriage by them from the other side, or an amount equal to the value of such valuables, ornaments, other gifts and money:<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span> Provided that no order under this section shall be passed unless the concerned parties have been given notices to appear before the district court and show cause why such order should not be passed. <br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><b>STATE AMENDMENT</b><br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span><b>Karnataka</b><br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span><b>Substitution of section 3.--</b>In the Prohibition of Child Marriage Act, 2006 (Central Act 6 of 2007) (hereinafter referred to as the principal Act), In section 3, after sub-section (1) the following shall be inserted, namely;--<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span>“(1A) Notwithstanding anything contained in sub-section (1) every child marriage solemnized on or after the date of coming into force of the Prohibition of Child Marriage (Karnataka Amendment) Act, 2016 shall be void abinitio”.<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span>[<i>Vide</i> Karnataka Act 26 of 2017, s. 2].<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/>",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.state_id": [
+    {
+     "value": "1",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.state_name": [
+    {
+     "value": "CENTRAL",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.uri": [
+    {
+     "value": "http://test1.indiacode.nic.in/handle/123456789/521460",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.title": [
+    {
+     "value": "Child marriages to be voidable at the option of contracting party being a child.",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ]
+  },
+  "inArchive": true,
+  "discoverable": true,
+  "withdrawn": false,
+  "lastModified": "2026-07-10T22:16:03.594656Z",
+  "entityType": null,
+  "type": "item",
+  "_links": {
+   "accessStatus": {
+    "href": "https://indiacode.gov.in/server/api/core/items/1c2c80a7-aa27-48ca-8b35-e9477914bb63/accessStatus"
+   },
+   "bundles": {
+    "href": "https://indiacode.gov.in/server/api/core/items/1c2c80a7-aa27-48ca-8b35-e9477914bb63/bundles"
+   },
+   "identifiers": {
+    "href": "https://indiacode.gov.in/server/api/core/items/1c2c80a7-aa27-48ca-8b35-e9477914bb63/identifiers"
+   },
+   "mappedCollections": {
+    "href": "https://indiacode.gov.in/server/api/core/items/1c2c80a7-aa27-48ca-8b35-e9477914bb63/mappedCollections"
+   },
+   "owningCollection": {
+    "href": "https://indiacode.gov.in/server/api/core/items/1c2c80a7-aa27-48ca-8b35-e9477914bb63/owningCollection"
+   },
+   "relationships": {
+    "href": "https://indiacode.gov.in/server/api/core/items/1c2c80a7-aa27-48ca-8b35-e9477914bb63/relationships"
+   },
+   "version": {
+    "href": "https://indiacode.gov.in/server/api/core/items/1c2c80a7-aa27-48ca-8b35-e9477914bb63/version"
+   },
+   "templateItemOf": {
+    "href": "https://indiacode.gov.in/server/api/core/items/1c2c80a7-aa27-48ca-8b35-e9477914bb63/templateItemOf"
+   },
+   "thumbnail": {
+    "href": "https://indiacode.gov.in/server/api/core/items/1c2c80a7-aa27-48ca-8b35-e9477914bb63/thumbnail"
+   },
+   "submitter": {
+    "href": "https://indiacode.gov.in/server/api/core/items/1c2c80a7-aa27-48ca-8b35-e9477914bb63/submitter"
+   },
+   "self": {
+    "href": "https://indiacode.gov.in/server/api/core/items/1c2c80a7-aa27-48ca-8b35-e9477914bb63"
+   }
+  }
+ },
+ {
+  "id": "1906ca9e-2e62-4e1c-a1d2-fd4b7e9d0707",
+  "uuid": "1906ca9e-2e62-4e1c-a1d2-fd4b7e9d0707",
+  "name": "Punishment for solemnising a child marriage.",
+  "handle": "123456789/521467",
+  "metadata": {
+   "dc.date.accessioned": [
+    {
+     "value": "2026-07-10T22:16:03Z",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.date.act_year": [
+    {
+     "value": "2007",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_id": [
+    {
+     "value": "AC_CEN_13_14_00001_200706_1517807317592",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_name": [
+    {
+     "value": "The Prohibition of Child Marriage Act, 2006",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_number": [
+    {
+     "value": "6",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_repealed": [
+    {
+     "value": "false",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.collection": [
+    {
+     "value": "SECTION",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.id": [
+    {
+     "value": "25739",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.ministry_id": [
+    {
+     "value": "13",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.ministry_name": [
+    {
+     "value": "Ministry of Women and Child Development",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.next_section": [
+    {
+     "value": "11.Punishment for promoting or permitting solemnisation of child marriages.",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.order_number": [
+    {
+     "value": "10",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_from": [
+    {
+     "value": "0",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_number": [
+    {
+     "value": "3",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_to": [
+    {
+     "value": "0",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.repealed": [
+    {
+     "value": "false",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_id": [
+    {
+     "value": "25739",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_number": [
+    {
+     "value": "10",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_page_note": [
+    {
+     "value": "<span style=\"margin-left: 15px;\"></span>Whoever performs, conducts, directs or abets any child marriage shall be punishable with rigorous imprisonment which may extend to two years and shall be liable to fine which may extend to one lakh rupees unless he proves that he had reasons to believe that the marriage was not a child marriage.<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><b>STATE AMENDMENT</b><br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span><b>Karnataka</b><br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span><b>Amendment of section 10.--</b>In section 10 of the principal Act, for the words \"be punishable with rigorous imprisonment which may extend to two years, the words \"be punishable with rigorous imprisonment of not less than one year which may extend up to two years\" shall be substituted.<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span>[<i>Vide</i> Karnataka Act 26 of 2017, s. 4].<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/>",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.state_id": [
+    {
+     "value": "1",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.state_name": [
+    {
+     "value": "CENTRAL",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.uri": [
+    {
+     "value": "http://test1.indiacode.nic.in/handle/123456789/521467",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.title": [
+    {
+     "value": "Punishment for solemnising a child marriage.",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ]
+  },
+  "inArchive": true,
+  "discoverable": true,
+  "withdrawn": false,
+  "lastModified": "2026-07-10T22:16:04.003744Z",
+  "entityType": null,
+  "type": "item",
+  "_links": {
+   "accessStatus": {
+    "href": "https://indiacode.gov.in/server/api/core/items/1906ca9e-2e62-4e1c-a1d2-fd4b7e9d0707/accessStatus"
+   },
+   "bundles": {
+    "href": "https://indiacode.gov.in/server/api/core/items/1906ca9e-2e62-4e1c-a1d2-fd4b7e9d0707/bundles"
+   },
+   "identifiers": {
+    "href": "https://indiacode.gov.in/server/api/core/items/1906ca9e-2e62-4e1c-a1d2-fd4b7e9d0707/identifiers"
+   },
+   "mappedCollections": {
+    "href": "https://indiacode.gov.in/server/api/core/items/1906ca9e-2e62-4e1c-a1d2-fd4b7e9d0707/mappedCollections"
+   },
+   "owningCollection": {
+    "href": "https://indiacode.gov.in/server/api/core/items/1906ca9e-2e62-4e1c-a1d2-fd4b7e9d0707/owningCollection"
+   },
+   "relationships": {
+    "href": "https://indiacode.gov.in/server/api/core/items/1906ca9e-2e62-4e1c-a1d2-fd4b7e9d0707/relationships"
+   },
+   "version": {
+    "href": "https://indiacode.gov.in/server/api/core/items/1906ca9e-2e62-4e1c-a1d2-fd4b7e9d0707/version"
+   },
+   "templateItemOf": {
+    "href": "https://indiacode.gov.in/server/api/core/items/1906ca9e-2e62-4e1c-a1d2-fd4b7e9d0707/templateItemOf"
+   },
+   "thumbnail": {
+    "href": "https://indiacode.gov.in/server/api/core/items/1906ca9e-2e62-4e1c-a1d2-fd4b7e9d0707/thumbnail"
+   },
+   "submitter": {
+    "href": "https://indiacode.gov.in/server/api/core/items/1906ca9e-2e62-4e1c-a1d2-fd4b7e9d0707/submitter"
+   },
+   "self": {
+    "href": "https://indiacode.gov.in/server/api/core/items/1906ca9e-2e62-4e1c-a1d2-fd4b7e9d0707"
+   }
+  }
+ },
+ {
+  "id": "0827f662-63b2-441c-9301-e4808d9f4e3b",
+  "uuid": "0827f662-63b2-441c-9301-e4808d9f4e3b",
+  "name": "Provision for maintenance and residence to female contracting party to child marriage.",
+  "handle": "123456789/521461",
+  "metadata": {
+   "dc.date.accessioned": [
+    {
+     "value": "2026-07-10T22:16:03Z",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.date.act_year": [
+    {
+     "value": "2007",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_id": [
+    {
+     "value": "AC_CEN_13_14_00001_200706_1517807317592",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_name": [
+    {
+     "value": "The Prohibition of Child Marriage Act, 2006",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_number": [
+    {
+     "value": "6",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_repealed": [
+    {
+     "value": "false",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.collection": [
+    {
+     "value": "SECTION",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.id": [
+    {
+     "value": "25733",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.ministry_id": [
+    {
+     "value": "13",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.ministry_name": [
+    {
+     "value": "Ministry of Women and Child Development",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.next_section": [
+    {
+     "value": "5.Custody and maintenance of children of child marriages.",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.order_number": [
+    {
+     "value": "4",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_from": [
+    {
+     "value": "0",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_number": [
+    {
+     "value": "3",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_to": [
+    {
+     "value": "0",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.repealed": [
+    {
+     "value": "false",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_id": [
+    {
+     "value": "25733",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_number": [
+    {
+     "value": "4",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_page_note": [
+    {
+     "value": "<span style=\"margin-left: 15px;\"></span>(1) While granting a decree under section 3, the district court may also make an interim or final order directing the male contracting party to the child marriage, and in case the male contracting party to such marriage is a minor, his parent or guardian to pay maintenance to the female contracting party to the marriage until her remarriage.<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span> (2) The quantum of maintenance payable shall be determined by the district court having regard to the needs of the child, the lifestyle enjoyed by such child during her marriage and the means of income of the paying party.<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span> (3) The amount of maintenance may be directed to be paid monthly or in lump sum.<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span> (4) In case the party making the petition under section 3 is the female contracting party, the district court may also make a suitable order as to her residence until her remarriage.<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/><br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/>",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.state_id": [
+    {
+     "value": "1",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.state_name": [
+    {
+     "value": "CENTRAL",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.uri": [
+    {
+     "value": "http://test1.indiacode.nic.in/handle/123456789/521461",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.title": [
+    {
+     "value": "Provision for maintenance and residence to female contracting party to child marriage.",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ]
+  },
+  "inArchive": true,
+  "discoverable": true,
+  "withdrawn": false,
+  "lastModified": "2026-07-10T22:16:03.647827Z",
+  "entityType": null,
+  "type": "item",
+  "_links": {
+   "accessStatus": {
+    "href": "https://indiacode.gov.in/server/api/core/items/0827f662-63b2-441c-9301-e4808d9f4e3b/accessStatus"
+   },
+   "bundles": {
+    "href": "https://indiacode.gov.in/server/api/core/items/0827f662-63b2-441c-9301-e4808d9f4e3b/bundles"
+   },
+   "identifiers": {
+    "href": "https://indiacode.gov.in/server/api/core/items/0827f662-63b2-441c-9301-e4808d9f4e3b/identifiers"
+   },
+   "mappedCollections": {
+    "href": "https://indiacode.gov.in/server/api/core/items/0827f662-63b2-441c-9301-e4808d9f4e3b/mappedCollections"
+   },
+   "owningCollection": {
+    "href": "https://indiacode.gov.in/server/api/core/items/0827f662-63b2-441c-9301-e4808d9f4e3b/owningCollection"
+   },
+   "relationships": {
+    "href": "https://indiacode.gov.in/server/api/core/items/0827f662-63b2-441c-9301-e4808d9f4e3b/relationships"
+   },
+   "version": {
+    "href": "https://indiacode.gov.in/server/api/core/items/0827f662-63b2-441c-9301-e4808d9f4e3b/version"
+   },
+   "templateItemOf": {
+    "href": "https://indiacode.gov.in/server/api/core/items/0827f662-63b2-441c-9301-e4808d9f4e3b/templateItemOf"
+   },
+   "thumbnail": {
+    "href": "https://indiacode.gov.in/server/api/core/items/0827f662-63b2-441c-9301-e4808d9f4e3b/thumbnail"
+   },
+   "submitter": {
+    "href": "https://indiacode.gov.in/server/api/core/items/0827f662-63b2-441c-9301-e4808d9f4e3b/submitter"
+   },
+   "self": {
+    "href": "https://indiacode.gov.in/server/api/core/items/0827f662-63b2-441c-9301-e4808d9f4e3b"
+   }
+  }
+ },
+ {
+  "id": "490f18a7-c874-4f89-a75c-ffc364ce0098",
+  "uuid": "490f18a7-c874-4f89-a75c-ffc364ce0098",
+  "name": "Custody and maintenance of children of child marriages.",
+  "handle": "123456789/521462",
+  "metadata": {
+   "dc.date.accessioned": [
+    {
+     "value": "2026-07-10T22:16:03Z",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.date.act_year": [
+    {
+     "value": "2007",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_id": [
+    {
+     "value": "AC_CEN_13_14_00001_200706_1517807317592",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_name": [
+    {
+     "value": "The Prohibition of Child Marriage Act, 2006",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_number": [
+    {
+     "value": "6",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_repealed": [
+    {
+     "value": "false",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.collection": [
+    {
+     "value": "SECTION",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.id": [
+    {
+     "value": "25734",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.ministry_id": [
+    {
+     "value": "13",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.ministry_name": [
+    {
+     "value": "Ministry of Women and Child Development",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.next_section": [
+    {
+     "value": "6.Legitimacy of children born of child marriages.",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.order_number": [
+    {
+     "value": "5",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_from": [
+    {
+     "value": "0",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_number": [
+    {
+     "value": "3",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_to": [
+    {
+     "value": "0",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.repealed": [
+    {
+     "value": "false",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_id": [
+    {
+     "value": "25734",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_number": [
+    {
+     "value": "5",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_page_note": [
+    {
+     "value": "<span style=\"margin-left: 15px;\"></span>(1) Where there are children born of the child marriage, the district court shall make an appropriate order for the custody of such children.<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span> (2) While making an order for the custody of a child under this section, the welfare and best interests of the child shall be the paramount consideration to be given by the district court.<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span> (3) An order for custody of a child may also include appropriate directions for giving to the other party access to the child in such a manner as may best serve the interests of the child, and such other orders as the district court may, in the interest of the child, deem proper.<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span> (4) The district court may also make an appropriate order for providing maintenance to the child by a party to the marriage or their parents or guardians. <br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/>",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.state_id": [
+    {
+     "value": "1",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.state_name": [
+    {
+     "value": "CENTRAL",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.uri": [
+    {
+     "value": "http://test1.indiacode.nic.in/handle/123456789/521462",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.title": [
+    {
+     "value": "Custody and maintenance of children of child marriages.",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ]
+  },
+  "inArchive": true,
+  "discoverable": true,
+  "withdrawn": false,
+  "lastModified": "2026-07-10T22:16:03.703351Z",
+  "entityType": null,
+  "type": "item",
+  "_links": {
+   "accessStatus": {
+    "href": "https://indiacode.gov.in/server/api/core/items/490f18a7-c874-4f89-a75c-ffc364ce0098/accessStatus"
+   },
+   "bundles": {
+    "href": "https://indiacode.gov.in/server/api/core/items/490f18a7-c874-4f89-a75c-ffc364ce0098/bundles"
+   },
+   "identifiers": {
+    "href": "https://indiacode.gov.in/server/api/core/items/490f18a7-c874-4f89-a75c-ffc364ce0098/identifiers"
+   },
+   "mappedCollections": {
+    "href": "https://indiacode.gov.in/server/api/core/items/490f18a7-c874-4f89-a75c-ffc364ce0098/mappedCollections"
+   },
+   "owningCollection": {
+    "href": "https://indiacode.gov.in/server/api/core/items/490f18a7-c874-4f89-a75c-ffc364ce0098/owningCollection"
+   },
+   "relationships": {
+    "href": "https://indiacode.gov.in/server/api/core/items/490f18a7-c874-4f89-a75c-ffc364ce0098/relationships"
+   },
+   "version": {
+    "href": "https://indiacode.gov.in/server/api/core/items/490f18a7-c874-4f89-a75c-ffc364ce0098/version"
+   },
+   "templateItemOf": {
+    "href": "https://indiacode.gov.in/server/api/core/items/490f18a7-c874-4f89-a75c-ffc364ce0098/templateItemOf"
+   },
+   "thumbnail": {
+    "href": "https://indiacode.gov.in/server/api/core/items/490f18a7-c874-4f89-a75c-ffc364ce0098/thumbnail"
+   },
+   "submitter": {
+    "href": "https://indiacode.gov.in/server/api/core/items/490f18a7-c874-4f89-a75c-ffc364ce0098/submitter"
+   },
+   "self": {
+    "href": "https://indiacode.gov.in/server/api/core/items/490f18a7-c874-4f89-a75c-ffc364ce0098"
+   }
+  }
+ },
+ {
+  "id": "6b8962d7-4c65-4542-9e6d-f3af689ee10c",
+  "uuid": "6b8962d7-4c65-4542-9e6d-f3af689ee10c",
+  "name": "Power of district court to modify orders issued under section 4 or section 5.",
+  "handle": "123456789/521464",
+  "metadata": {
+   "dc.date.accessioned": [
+    {
+     "value": "2026-07-10T22:16:03Z",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.date.act_year": [
+    {
+     "value": "2007",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_id": [
+    {
+     "value": "AC_CEN_13_14_00001_200706_1517807317592",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_name": [
+    {
+     "value": "The Prohibition of Child Marriage Act, 2006",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_number": [
+    {
+     "value": "6",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_repealed": [
+    {
+     "value": "false",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.collection": [
+    {
+     "value": "SECTION",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.id": [
+    {
+     "value": "25736",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.ministry_id": [
+    {
+     "value": "13",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.ministry_name": [
+    {
+     "value": "Ministry of Women and Child Development",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.next_section": [
+    {
+     "value": "8.Court to which petition should be made.",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.order_number": [
+    {
+     "value": "7",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_from": [
+    {
+     "value": "0",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_number": [
+    {
+     "value": "3",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_to": [
+    {
+     "value": "0",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.repealed": [
+    {
+     "value": "false",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_id": [
+    {
+     "value": "25736",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_number": [
+    {
+     "value": "7",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_page_note": [
+    {
+     "value": "<span style=\"margin-left: 15px;\"></span>The district court shall have the power to add to, modify or revoke any order made under section 4 or section 5 and if there is any change in the circumstances at any time during the pendency of the petition and even after the final disposal of the petition.<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/>",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.state_id": [
+    {
+     "value": "1",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.state_name": [
+    {
+     "value": "CENTRAL",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.uri": [
+    {
+     "value": "http://test1.indiacode.nic.in/handle/123456789/521464",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.title": [
+    {
+     "value": "Power of district court to modify orders issued under section 4 or section 5.",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ]
+  },
+  "inArchive": true,
+  "discoverable": true,
+  "withdrawn": false,
+  "lastModified": "2026-07-10T22:16:03.821054Z",
+  "entityType": null,
+  "type": "item",
+  "_links": {
+   "accessStatus": {
+    "href": "https://indiacode.gov.in/server/api/core/items/6b8962d7-4c65-4542-9e6d-f3af689ee10c/accessStatus"
+   },
+   "bundles": {
+    "href": "https://indiacode.gov.in/server/api/core/items/6b8962d7-4c65-4542-9e6d-f3af689ee10c/bundles"
+   },
+   "identifiers": {
+    "href": "https://indiacode.gov.in/server/api/core/items/6b8962d7-4c65-4542-9e6d-f3af689ee10c/identifiers"
+   },
+   "mappedCollections": {
+    "href": "https://indiacode.gov.in/server/api/core/items/6b8962d7-4c65-4542-9e6d-f3af689ee10c/mappedCollections"
+   },
+   "owningCollection": {
+    "href": "https://indiacode.gov.in/server/api/core/items/6b8962d7-4c65-4542-9e6d-f3af689ee10c/owningCollection"
+   },
+   "relationships": {
+    "href": "https://indiacode.gov.in/server/api/core/items/6b8962d7-4c65-4542-9e6d-f3af689ee10c/relationships"
+   },
+   "version": {
+    "href": "https://indiacode.gov.in/server/api/core/items/6b8962d7-4c65-4542-9e6d-f3af689ee10c/version"
+   },
+   "templateItemOf": {
+    "href": "https://indiacode.gov.in/server/api/core/items/6b8962d7-4c65-4542-9e6d-f3af689ee10c/templateItemOf"
+   },
+   "thumbnail": {
+    "href": "https://indiacode.gov.in/server/api/core/items/6b8962d7-4c65-4542-9e6d-f3af689ee10c/thumbnail"
+   },
+   "submitter": {
+    "href": "https://indiacode.gov.in/server/api/core/items/6b8962d7-4c65-4542-9e6d-f3af689ee10c/submitter"
+   },
+   "self": {
+    "href": "https://indiacode.gov.in/server/api/core/items/6b8962d7-4c65-4542-9e6d-f3af689ee10c"
+   }
+  }
+ },
+ {
+  "id": "515ed46e-3c86-4f91-91c5-6f29afd7f01c",
+  "uuid": "515ed46e-3c86-4f91-91c5-6f29afd7f01c",
+  "name": "Definitions.",
+  "handle": "123456789/521459",
+  "metadata": {
+   "dc.date.accessioned": [
+    {
+     "value": "2026-07-10T22:16:03Z",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.date.act_year": [
+    {
+     "value": "2007",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_id": [
+    {
+     "value": "AC_CEN_13_14_00001_200706_1517807317592",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_name": [
+    {
+     "value": "The Prohibition of Child Marriage Act, 2006",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_number": [
+    {
+     "value": "6",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_repealed": [
+    {
+     "value": "false",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.collection": [
+    {
+     "value": "SECTION",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.id": [
+    {
+     "value": "25731",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.ministry_id": [
+    {
+     "value": "13",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.ministry_name": [
+    {
+     "value": "Ministry of Women and Child Development",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.next_section": [
+    {
+     "value": "3.Child marriages to be voidable at the option of contracting party being a child.",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.order_number": [
+    {
+     "value": "2",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_from": [
+    {
+     "value": "0",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_number": [
+    {
+     "value": "2",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_to": [
+    {
+     "value": "0",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.repealed": [
+    {
+     "value": "false",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_id": [
+    {
+     "value": "25731",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_number": [
+    {
+     "value": "2",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_page_note": [
+    {
+     "value": "<span style=\"margin-left: 15px;\"></span>In this Act, unless the context otherwise requires,--<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span> (a) \"child\" means a person who, if a male, has not completed twenty-one years of age, and if a female, has not completed eighteen years of age;<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span> (b) \"child marriage\" means a marriage to which either of the contracting parties is a child;<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span> (c) \"contracting party\", in relation to a marriage, means either of the parties whose marriage is or is about to be thereby solemnised;<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span> (d) \"Child Marriage Prohibition Officer\" includes the Child Marriage Prohibition Officer appointed under sub-section <i>(1)</i> of section 16;<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span> (e) \"district court\" means, in any area for which a Family Court established under section 3 of the Family Courts Act, 1984 (66 of 1984) exists, such Family Court, and in any area for which there is no Family Court but a city civil court exists, that court and in any other area, the principal civil court of original jurisdiction and includes any other civil court which may be specified by the State Government, by notification in the Official Gazette, as having jurisdiction in respect of the matters dealt with in this Act;<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span> (f) \"minor\" means a person who, under the provisions of the Majority Act, 1875 (9 of 1875), is to be deemed not to have attained his majority. <br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/>",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.state_id": [
+    {
+     "value": "1",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.state_name": [
+    {
+     "value": "CENTRAL",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.uri": [
+    {
+     "value": "http://test1.indiacode.nic.in/handle/123456789/521459",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.title": [
+    {
+     "value": "Definitions.",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ]
+  },
+  "inArchive": true,
+  "discoverable": true,
+  "withdrawn": false,
+  "lastModified": "2026-07-10T22:16:03.542996Z",
+  "entityType": null,
+  "type": "item",
+  "_links": {
+   "accessStatus": {
+    "href": "https://indiacode.gov.in/server/api/core/items/515ed46e-3c86-4f91-91c5-6f29afd7f01c/accessStatus"
+   },
+   "bundles": {
+    "href": "https://indiacode.gov.in/server/api/core/items/515ed46e-3c86-4f91-91c5-6f29afd7f01c/bundles"
+   },
+   "identifiers": {
+    "href": "https://indiacode.gov.in/server/api/core/items/515ed46e-3c86-4f91-91c5-6f29afd7f01c/identifiers"
+   },
+   "mappedCollections": {
+    "href": "https://indiacode.gov.in/server/api/core/items/515ed46e-3c86-4f91-91c5-6f29afd7f01c/mappedCollections"
+   },
+   "owningCollection": {
+    "href": "https://indiacode.gov.in/server/api/core/items/515ed46e-3c86-4f91-91c5-6f29afd7f01c/owningCollection"
+   },
+   "relationships": {
+    "href": "https://indiacode.gov.in/server/api/core/items/515ed46e-3c86-4f91-91c5-6f29afd7f01c/relationships"
+   },
+   "version": {
+    "href": "https://indiacode.gov.in/server/api/core/items/515ed46e-3c86-4f91-91c5-6f29afd7f01c/version"
+   },
+   "templateItemOf": {
+    "href": "https://indiacode.gov.in/server/api/core/items/515ed46e-3c86-4f91-91c5-6f29afd7f01c/templateItemOf"
+   },
+   "thumbnail": {
+    "href": "https://indiacode.gov.in/server/api/core/items/515ed46e-3c86-4f91-91c5-6f29afd7f01c/thumbnail"
+   },
+   "submitter": {
+    "href": "https://indiacode.gov.in/server/api/core/items/515ed46e-3c86-4f91-91c5-6f29afd7f01c/submitter"
+   },
+   "self": {
+    "href": "https://indiacode.gov.in/server/api/core/items/515ed46e-3c86-4f91-91c5-6f29afd7f01c"
+   }
+  }
+ },
+ {
+  "id": "a290d437-f348-4c01-8120-977f256faa9a",
+  "uuid": "a290d437-f348-4c01-8120-977f256faa9a",
+  "name": "Power of court to issue injunction prohibiting child marriages.",
+  "handle": "123456789/521471",
+  "metadata": {
+   "dc.date.accessioned": [
+    {
+     "value": "2026-07-10T22:16:04Z",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.date.act_year": [
+    {
+     "value": "2007",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_id": [
+    {
+     "value": "AC_CEN_13_14_00001_200706_1517807317592",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_name": [
+    {
+     "value": "The Prohibition of Child Marriage Act, 2006",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_number": [
+    {
+     "value": "6",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_repealed": [
+    {
+     "value": "false",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.collection": [
+    {
+     "value": "SECTION",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.id": [
+    {
+     "value": "25742",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.ministry_id": [
+    {
+     "value": "13",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.ministry_name": [
+    {
+     "value": "Ministry of Women and Child Development",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.next_section": [
+    {
+     "value": "14.Child marriages in contravention of injunction orders to be void.",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.order_number": [
+    {
+     "value": "13",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_from": [
+    {
+     "value": "0",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_number": [
+    {
+     "value": "4",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_to": [
+    {
+     "value": "0",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.repealed": [
+    {
+     "value": "false",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_id": [
+    {
+     "value": "25742",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_number": [
+    {
+     "value": "13",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_page_note": [
+    {
+     "value": "<span style=\"margin-left: 15px;\"></span>(1) Notwithstanding anything to the contrary contained in this Act, if, on an application of the Child Marriage Prohibition Officer or on receipt of information through a complaint or otherwise from any person, a Judicial Magistrate of the first class or a Metropolitan Magistrate is satisfied that a child marriage in contravention of this Act has been arranged or is about to be solemnised, such Magistrate shall issue an injunction against any person including a member of an organisation or an association of persons prohibiting such marriage.<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span> (2) A complaint under sub-section <i>(1)</i> may be made by any person having personal knowledge or reason to believe, and a non-governmental organisation having reasonable information, relating to the likelihood of taking place of solemnisation of a child marriage or child marriages.<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span> (3) The Court of the Judicial Magistrate of the first class or the Metropolitan Magistrate may also take <i>suomotu</i> cognizance on the basis of any reliable report or information.<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span> (4) For the purposes of preventing solemnisation of mass child marriages on certain days such as <i>AkshayaTrutiya</i>, the District Magistrate shall be deemed to be the Child Marriage Prohibition Officer with all powers as are conferred on a Child Marriage Prohibition Officer by or under this Act.<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span> (5) The District Magistrate shall also have additional powers to stop or prevent solemnisation of child marriages and for this purpose, he may take all appropriate measures and use the minimum force required.<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span> (6) No injunction under sub-section <i>(1)</i> shall be issued against any person or member of any organisation or association of persons unless the Court has previously given notice to such person, members of the organisation or association of persons, as the case may be, and has offered him or them an opportunity to show cause against the issue of the injunction:<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span> Provided that in the case of any urgency, the Court shall have the power to issue an interim injunction without giving any notice under this section.<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span> (7) An injunction issued under sub-section <i>(1)</i> may be confirmed or vacated after giving notice and hearing the party against whom the injunction was issued.<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span> (8) The Court may either on its own motion or on the application of any person aggrieved, rescind or alter an injunction issued under sub-section <i>(1)</i>.<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span> (9) Where an application is received under sub-section <i>(1)</i>, the Court shall afford the applicant an early opportunity of appearing before it either in person or by an advocate and if the Court, after hearing the applicant rejects the application wholly or in part, it shall record in writing its reasons for so doing.<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span> (10) Whoever knowing that an injunction has been issued under sub-section <i>(1)</i> against him disobeys such injunction shall be punishable with imprisonment of either description for a term which may extend to two years or with fine which may extend to one lakh rupees or with both:<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span> Provided that no woman shall be punishable with imprisonment.<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><b>STATE AMENDMENT</b><br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span><b>Karnataka</b><br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span><b>Amendment of section 13.--</b>In section 13 of the principal Act, in sub-section (10), --<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span>(a) for the words \"of either description for a term which may extend to two years\", the words with a minimum term of one year, which may extent up to two years\" shall be substituted.<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span>(b) proviso shall be omitted.<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span>[<i>Vide</i> Karnataka Act 26 of 2017, s. 6].<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/>",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.state_id": [
+    {
+     "value": "1",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.state_name": [
+    {
+     "value": "CENTRAL",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.uri": [
+    {
+     "value": "http://test1.indiacode.nic.in/handle/123456789/521471",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.title": [
+    {
+     "value": "Power of court to issue injunction prohibiting child marriages.",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ]
+  },
+  "inArchive": true,
+  "discoverable": true,
+  "withdrawn": false,
+  "lastModified": "2026-07-10T22:16:04.239835Z",
+  "entityType": null,
+  "type": "item",
+  "_links": {
+   "accessStatus": {
+    "href": "https://indiacode.gov.in/server/api/core/items/a290d437-f348-4c01-8120-977f256faa9a/accessStatus"
+   },
+   "bundles": {
+    "href": "https://indiacode.gov.in/server/api/core/items/a290d437-f348-4c01-8120-977f256faa9a/bundles"
+   },
+   "identifiers": {
+    "href": "https://indiacode.gov.in/server/api/core/items/a290d437-f348-4c01-8120-977f256faa9a/identifiers"
+   },
+   "mappedCollections": {
+    "href": "https://indiacode.gov.in/server/api/core/items/a290d437-f348-4c01-8120-977f256faa9a/mappedCollections"
+   },
+   "owningCollection": {
+    "href": "https://indiacode.gov.in/server/api/core/items/a290d437-f348-4c01-8120-977f256faa9a/owningCollection"
+   },
+   "relationships": {
+    "href": "https://indiacode.gov.in/server/api/core/items/a290d437-f348-4c01-8120-977f256faa9a/relationships"
+   },
+   "version": {
+    "href": "https://indiacode.gov.in/server/api/core/items/a290d437-f348-4c01-8120-977f256faa9a/version"
+   },
+   "templateItemOf": {
+    "href": "https://indiacode.gov.in/server/api/core/items/a290d437-f348-4c01-8120-977f256faa9a/templateItemOf"
+   },
+   "thumbnail": {
+    "href": "https://indiacode.gov.in/server/api/core/items/a290d437-f348-4c01-8120-977f256faa9a/thumbnail"
+   },
+   "submitter": {
+    "href": "https://indiacode.gov.in/server/api/core/items/a290d437-f348-4c01-8120-977f256faa9a/submitter"
+   },
+   "self": {
+    "href": "https://indiacode.gov.in/server/api/core/items/a290d437-f348-4c01-8120-977f256faa9a"
+   }
+  }
+ },
+ {
+  "id": "9e7e4e5b-0cf1-489d-8383-a95b35ba5ad5",
+  "uuid": "9e7e4e5b-0cf1-489d-8383-a95b35ba5ad5",
+  "name": "Court to which petition should be made.",
+  "handle": "123456789/521465",
+  "metadata": {
+   "dc.date.accessioned": [
+    {
+     "value": "2026-07-10T22:16:03Z",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.date.act_year": [
+    {
+     "value": "2007",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_id": [
+    {
+     "value": "AC_CEN_13_14_00001_200706_1517807317592",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_name": [
+    {
+     "value": "The Prohibition of Child Marriage Act, 2006",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_number": [
+    {
+     "value": "6",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_repealed": [
+    {
+     "value": "false",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.collection": [
+    {
+     "value": "SECTION",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.id": [
+    {
+     "value": "25737",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.ministry_id": [
+    {
+     "value": "13",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.ministry_name": [
+    {
+     "value": "Ministry of Women and Child Development",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.next_section": [
+    {
+     "value": "9.Punishment for male adult marrying a child.",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.order_number": [
+    {
+     "value": "8",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_from": [
+    {
+     "value": "0",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_number": [
+    {
+     "value": "3",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_to": [
+    {
+     "value": "0",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.repealed": [
+    {
+     "value": "false",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_id": [
+    {
+     "value": "25737",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_number": [
+    {
+     "value": "8",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_page_note": [
+    {
+     "value": "<span style=\"margin-left: 15px;\"></span>For the purpose of grant of reliefs under sections 3, 4 and 5, the district court having jurisdiction shall include the district court having jurisdiction over the place where the defendant or the child resides, or where the marriage was solemnised or where the parties last resided together or the petitioner is residing on the date of presentation of the petition.<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/>",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.state_id": [
+    {
+     "value": "1",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.state_name": [
+    {
+     "value": "CENTRAL",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.uri": [
+    {
+     "value": "http://test1.indiacode.nic.in/handle/123456789/521465",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.title": [
+    {
+     "value": "Court to which petition should be made.",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ]
+  },
+  "inArchive": true,
+  "discoverable": true,
+  "withdrawn": false,
+  "lastModified": "2026-07-10T22:16:03.878806Z",
+  "entityType": null,
+  "type": "item",
+  "_links": {
+   "accessStatus": {
+    "href": "https://indiacode.gov.in/server/api/core/items/9e7e4e5b-0cf1-489d-8383-a95b35ba5ad5/accessStatus"
+   },
+   "bundles": {
+    "href": "https://indiacode.gov.in/server/api/core/items/9e7e4e5b-0cf1-489d-8383-a95b35ba5ad5/bundles"
+   },
+   "identifiers": {
+    "href": "https://indiacode.gov.in/server/api/core/items/9e7e4e5b-0cf1-489d-8383-a95b35ba5ad5/identifiers"
+   },
+   "mappedCollections": {
+    "href": "https://indiacode.gov.in/server/api/core/items/9e7e4e5b-0cf1-489d-8383-a95b35ba5ad5/mappedCollections"
+   },
+   "owningCollection": {
+    "href": "https://indiacode.gov.in/server/api/core/items/9e7e4e5b-0cf1-489d-8383-a95b35ba5ad5/owningCollection"
+   },
+   "relationships": {
+    "href": "https://indiacode.gov.in/server/api/core/items/9e7e4e5b-0cf1-489d-8383-a95b35ba5ad5/relationships"
+   },
+   "version": {
+    "href": "https://indiacode.gov.in/server/api/core/items/9e7e4e5b-0cf1-489d-8383-a95b35ba5ad5/version"
+   },
+   "templateItemOf": {
+    "href": "https://indiacode.gov.in/server/api/core/items/9e7e4e5b-0cf1-489d-8383-a95b35ba5ad5/templateItemOf"
+   },
+   "thumbnail": {
+    "href": "https://indiacode.gov.in/server/api/core/items/9e7e4e5b-0cf1-489d-8383-a95b35ba5ad5/thumbnail"
+   },
+   "submitter": {
+    "href": "https://indiacode.gov.in/server/api/core/items/9e7e4e5b-0cf1-489d-8383-a95b35ba5ad5/submitter"
+   },
+   "self": {
+    "href": "https://indiacode.gov.in/server/api/core/items/9e7e4e5b-0cf1-489d-8383-a95b35ba5ad5"
+   }
+  }
+ },
+ {
+  "id": "993d1e4d-bcdb-494a-bec0-bdbf06abf3c4",
+  "uuid": "993d1e4d-bcdb-494a-bec0-bdbf06abf3c4",
+  "name": "Child marriages in contravention of injunction orders to be void.",
+  "handle": "123456789/521472",
+  "metadata": {
+   "dc.date.accessioned": [
+    {
+     "value": "2026-07-10T22:16:04Z",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.date.act_year": [
+    {
+     "value": "2007",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_id": [
+    {
+     "value": "AC_CEN_13_14_00001_200706_1517807317592",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_name": [
+    {
+     "value": "The Prohibition of Child Marriage Act, 2006",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_number": [
+    {
+     "value": "6",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_repealed": [
+    {
+     "value": "false",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.collection": [
+    {
+     "value": "SECTION",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.id": [
+    {
+     "value": "25743",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.ministry_id": [
+    {
+     "value": "13",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.ministry_name": [
+    {
+     "value": "Ministry of Women and Child Development",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.next_section": [
+    {
+     "value": "15.Offences to be cognizable and non-bailable.",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.order_number": [
+    {
+     "value": "14",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_from": [
+    {
+     "value": "0",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_number": [
+    {
+     "value": "5",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_to": [
+    {
+     "value": "0",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.repealed": [
+    {
+     "value": "false",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_id": [
+    {
+     "value": "25743",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_number": [
+    {
+     "value": "14",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_page_note": [
+    {
+     "value": "<span style=\"margin-left: 15px;\"></span>Any child marriage solemnised in contravention of an injunction order issued under section 13, whether interim or final, shall be void <i>ab initio</i>.<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/>",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.state_id": [
+    {
+     "value": "1",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.state_name": [
+    {
+     "value": "CENTRAL",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.uri": [
+    {
+     "value": "http://test1.indiacode.nic.in/handle/123456789/521472",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.title": [
+    {
+     "value": "Child marriages in contravention of injunction orders to be void.",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ]
+  },
+  "inArchive": true,
+  "discoverable": true,
+  "withdrawn": false,
+  "lastModified": "2026-07-10T22:16:04.300396Z",
+  "entityType": null,
+  "type": "item",
+  "_links": {
+   "accessStatus": {
+    "href": "https://indiacode.gov.in/server/api/core/items/993d1e4d-bcdb-494a-bec0-bdbf06abf3c4/accessStatus"
+   },
+   "bundles": {
+    "href": "https://indiacode.gov.in/server/api/core/items/993d1e4d-bcdb-494a-bec0-bdbf06abf3c4/bundles"
+   },
+   "identifiers": {
+    "href": "https://indiacode.gov.in/server/api/core/items/993d1e4d-bcdb-494a-bec0-bdbf06abf3c4/identifiers"
+   },
+   "mappedCollections": {
+    "href": "https://indiacode.gov.in/server/api/core/items/993d1e4d-bcdb-494a-bec0-bdbf06abf3c4/mappedCollections"
+   },
+   "owningCollection": {
+    "href": "https://indiacode.gov.in/server/api/core/items/993d1e4d-bcdb-494a-bec0-bdbf06abf3c4/owningCollection"
+   },
+   "relationships": {
+    "href": "https://indiacode.gov.in/server/api/core/items/993d1e4d-bcdb-494a-bec0-bdbf06abf3c4/relationships"
+   },
+   "version": {
+    "href": "https://indiacode.gov.in/server/api/core/items/993d1e4d-bcdb-494a-bec0-bdbf06abf3c4/version"
+   },
+   "templateItemOf": {
+    "href": "https://indiacode.gov.in/server/api/core/items/993d1e4d-bcdb-494a-bec0-bdbf06abf3c4/templateItemOf"
+   },
+   "thumbnail": {
+    "href": "https://indiacode.gov.in/server/api/core/items/993d1e4d-bcdb-494a-bec0-bdbf06abf3c4/thumbnail"
+   },
+   "submitter": {
+    "href": "https://indiacode.gov.in/server/api/core/items/993d1e4d-bcdb-494a-bec0-bdbf06abf3c4/submitter"
+   },
+   "self": {
+    "href": "https://indiacode.gov.in/server/api/core/items/993d1e4d-bcdb-494a-bec0-bdbf06abf3c4"
+   }
+  }
+ },
+ {
+  "id": "9e9e774a-6c2d-46df-9dd6-66e3fda4357d",
+  "uuid": "9e9e774a-6c2d-46df-9dd6-66e3fda4357d",
+  "name": "Short title, extent and commencement.",
+  "handle": "123456789/521458",
+  "metadata": {
+   "dc.date.accessioned": [
+    {
+     "value": "2026-07-10T22:16:03Z",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.date.act_year": [
+    {
+     "value": "2007",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_id": [
+    {
+     "value": "AC_CEN_13_14_00001_200706_1517807317592",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_name": [
+    {
+     "value": "The Prohibition of Child Marriage Act, 2006",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_number": [
+    {
+     "value": "6",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_repealed": [
+    {
+     "value": "false",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.collection": [
+    {
+     "value": "SECTION",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.id": [
+    {
+     "value": "25730",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.linked_id": [
+    {
+     "value": "NO_CEN_13_0_00001_1522603941402",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.ministry_id": [
+    {
+     "value": "13",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.ministry_name": [
+    {
+     "value": "Ministry of Women and Child Development",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.next_section": [
+    {
+     "value": "2.Definitions.",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.order_number": [
+    {
+     "value": "1",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_from": [
+    {
+     "value": "0",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_number": [
+    {
+     "value": "2",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_to": [
+    {
+     "value": "0",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.repealed": [
+    {
+     "value": "false",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_footnote": [
+    {
+     "value": "<sup>1</sup>. The words \"except the State of Jammu and Kashmir\" omitted by Act 34 of 2019, s. 95 and the Fifth Schedule (w.e.f. 31-10-2019).<br/><hr style=\"border: none; margin-bottom: 3px; margin-top: 0;\"/> <sup>2</sup>. 1st November, 2007, <i>vide</i> notification No. S.O. 1850(E), dated 30th October, 2007, <i>see</i> Gazette of India, Extraordinary, Part II, sec. 3<i>(ii)</i>.<br/><hr style=\"border: none; margin-bottom: 3px; margin-top: 0;\"/>",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_id": [
+    {
+     "value": "25730",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_number": [
+    {
+     "value": "1",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_page_note": [
+    {
+     "value": "<span style=\"margin-left: 15px;\"></span>(1) This Act may be called the Prohibition of Child Marriage Act, 2006.<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span> (2) It extends to the whole of India <sup>1</sup>***; and it applies also to all citizens of India without and beyond India:<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span> Provided that nothing contained in this Act shall apply to the Renoncants of the Union territory of Pondicherry.<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span> (3) It shall come into force on such date<sup>2</sup> as the Central Government may, by notification in the Official Gazette, appoint; and different dates may be appointed for different States and any reference in any provision to the commencement of this Act shall be construed in relation to any State as a reference to the coming into force of that provision in that State.<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/>",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.state_id": [
+    {
+     "value": "1",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.state_name": [
+    {
+     "value": "CENTRAL",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.uri": [
+    {
+     "value": "http://test1.indiacode.nic.in/handle/123456789/521458",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.title": [
+    {
+     "value": "Short title, extent and commencement.",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ]
+  },
+  "inArchive": true,
+  "discoverable": true,
+  "withdrawn": false,
+  "lastModified": "2026-07-10T22:16:03.488506Z",
+  "entityType": null,
+  "type": "item",
+  "_links": {
+   "accessStatus": {
+    "href": "https://indiacode.gov.in/server/api/core/items/9e9e774a-6c2d-46df-9dd6-66e3fda4357d/accessStatus"
+   },
+   "bundles": {
+    "href": "https://indiacode.gov.in/server/api/core/items/9e9e774a-6c2d-46df-9dd6-66e3fda4357d/bundles"
+   },
+   "identifiers": {
+    "href": "https://indiacode.gov.in/server/api/core/items/9e9e774a-6c2d-46df-9dd6-66e3fda4357d/identifiers"
+   },
+   "mappedCollections": {
+    "href": "https://indiacode.gov.in/server/api/core/items/9e9e774a-6c2d-46df-9dd6-66e3fda4357d/mappedCollections"
+   },
+   "owningCollection": {
+    "href": "https://indiacode.gov.in/server/api/core/items/9e9e774a-6c2d-46df-9dd6-66e3fda4357d/owningCollection"
+   },
+   "relationships": {
+    "href": "https://indiacode.gov.in/server/api/core/items/9e9e774a-6c2d-46df-9dd6-66e3fda4357d/relationships"
+   },
+   "version": {
+    "href": "https://indiacode.gov.in/server/api/core/items/9e9e774a-6c2d-46df-9dd6-66e3fda4357d/version"
+   },
+   "templateItemOf": {
+    "href": "https://indiacode.gov.in/server/api/core/items/9e9e774a-6c2d-46df-9dd6-66e3fda4357d/templateItemOf"
+   },
+   "thumbnail": {
+    "href": "https://indiacode.gov.in/server/api/core/items/9e9e774a-6c2d-46df-9dd6-66e3fda4357d/thumbnail"
+   },
+   "submitter": {
+    "href": "https://indiacode.gov.in/server/api/core/items/9e9e774a-6c2d-46df-9dd6-66e3fda4357d/submitter"
+   },
+   "self": {
+    "href": "https://indiacode.gov.in/server/api/core/items/9e9e774a-6c2d-46df-9dd6-66e3fda4357d"
+   }
+  }
+ },
+ {
+  "id": "acd49890-60e3-4447-b162-a249e03ee90a",
+  "uuid": "acd49890-60e3-4447-b162-a249e03ee90a",
+  "name": "Punishment for promoting or permitting solemnisation of child marriages.",
+  "handle": "123456789/521469",
+  "metadata": {
+   "dc.date.accessioned": [
+    {
+     "value": "2026-07-10T22:16:04Z",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.date.act_year": [
+    {
+     "value": "2007",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_id": [
+    {
+     "value": "AC_CEN_13_14_00001_200706_1517807317592",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_name": [
+    {
+     "value": "The Prohibition of Child Marriage Act, 2006",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_number": [
+    {
+     "value": "6",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_repealed": [
+    {
+     "value": "false",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.collection": [
+    {
+     "value": "SECTION",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.id": [
+    {
+     "value": "25740",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.ministry_id": [
+    {
+     "value": "13",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.ministry_name": [
+    {
+     "value": "Ministry of Women and Child Development",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.next_section": [
+    {
+     "value": "12.Marriage of a minor child to be void in certain circumstances.",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.order_number": [
+    {
+     "value": "11",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_from": [
+    {
+     "value": "0",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_number": [
+    {
+     "value": "3",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_to": [
+    {
+     "value": "0",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.repealed": [
+    {
+     "value": "false",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_id": [
+    {
+     "value": "25740",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_number": [
+    {
+     "value": "11",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_page_note": [
+    {
+     "value": "<span style=\"margin-left: 15px;\"></span>(1) Where a child contracts a child marriage, any person having charge of the child, whether as parent or guardian or any other person or in any other capacity, lawful or unlawful, including any member of an organisation or association of persons who does any act to promote the marriage or permits it to be solemnised, or negligently fails to prevent it from being solemnised, including attending or participating in a child marriage, shall be punishable with rigorous imprisonment which may extend to two years and shall also be liable to fine which may extend up to one lakh rupees:<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span> Provided that no woman shall be punishable with imprisonment.<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span> (2) For the purposes of this section, it shall be presumed, unless and until the contrary is proved, that where a minor child has contracted a marriage, the person having charge of such minor child has negligently failed to prevent the marriage from being solemnised.<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><b>STATE AMENDMENT</b><br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span><b>Karnataka</b><br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span><b>Amendment of section 11.--</b>In section 11 of the principal Act, in sub-section (1),--<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span>(a) for the words \"be punishable with rigorous imprisonment which may extend to two years\", the words be punishable with a rigorous imprisonment of not less than one year which may extend up to two years\" shall be substituted.<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span>(b) proviso shall be omitted.<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span><i>[Vide</i> Karnataka Act 26 of 2017, s. 5].<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/>",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.state_id": [
+    {
+     "value": "1",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.state_name": [
+    {
+     "value": "CENTRAL",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.uri": [
+    {
+     "value": "http://test1.indiacode.nic.in/handle/123456789/521469",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.title": [
+    {
+     "value": "Punishment for promoting or permitting solemnisation of child marriages.",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ]
+  },
+  "inArchive": true,
+  "discoverable": true,
+  "withdrawn": false,
+  "lastModified": "2026-07-10T22:16:04.122572Z",
+  "entityType": null,
+  "type": "item",
+  "_links": {
+   "accessStatus": {
+    "href": "https://indiacode.gov.in/server/api/core/items/acd49890-60e3-4447-b162-a249e03ee90a/accessStatus"
+   },
+   "bundles": {
+    "href": "https://indiacode.gov.in/server/api/core/items/acd49890-60e3-4447-b162-a249e03ee90a/bundles"
+   },
+   "identifiers": {
+    "href": "https://indiacode.gov.in/server/api/core/items/acd49890-60e3-4447-b162-a249e03ee90a/identifiers"
+   },
+   "mappedCollections": {
+    "href": "https://indiacode.gov.in/server/api/core/items/acd49890-60e3-4447-b162-a249e03ee90a/mappedCollections"
+   },
+   "owningCollection": {
+    "href": "https://indiacode.gov.in/server/api/core/items/acd49890-60e3-4447-b162-a249e03ee90a/owningCollection"
+   },
+   "relationships": {
+    "href": "https://indiacode.gov.in/server/api/core/items/acd49890-60e3-4447-b162-a249e03ee90a/relationships"
+   },
+   "version": {
+    "href": "https://indiacode.gov.in/server/api/core/items/acd49890-60e3-4447-b162-a249e03ee90a/version"
+   },
+   "templateItemOf": {
+    "href": "https://indiacode.gov.in/server/api/core/items/acd49890-60e3-4447-b162-a249e03ee90a/templateItemOf"
+   },
+   "thumbnail": {
+    "href": "https://indiacode.gov.in/server/api/core/items/acd49890-60e3-4447-b162-a249e03ee90a/thumbnail"
+   },
+   "submitter": {
+    "href": "https://indiacode.gov.in/server/api/core/items/acd49890-60e3-4447-b162-a249e03ee90a/submitter"
+   },
+   "self": {
+    "href": "https://indiacode.gov.in/server/api/core/items/acd49890-60e3-4447-b162-a249e03ee90a"
+   }
+  }
+ },
+ {
+  "id": "90a4da52-8e7b-4c19-9e81-470698494b0a",
+  "uuid": "90a4da52-8e7b-4c19-9e81-470698494b0a",
+  "name": "Child Marriage Prohibition Officers.",
+  "handle": "123456789/521474",
+  "metadata": {
+   "dc.date.accessioned": [
+    {
+     "value": "2026-07-10T22:16:04Z",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.date.act_year": [
+    {
+     "value": "2007",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_id": [
+    {
+     "value": "AC_CEN_13_14_00001_200706_1517807317592",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_name": [
+    {
+     "value": "The Prohibition of Child Marriage Act, 2006",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_number": [
+    {
+     "value": "6",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_repealed": [
+    {
+     "value": "false",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.collection": [
+    {
+     "value": "SECTION",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.id": [
+    {
+     "value": "25745",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.ministry_id": [
+    {
+     "value": "13",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.ministry_name": [
+    {
+     "value": "Ministry of Women and Child Development",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.next_section": [
+    {
+     "value": "17.Child Marriage Prohibition Officers to be public servants.",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.order_number": [
+    {
+     "value": "16",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_from": [
+    {
+     "value": "0",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_number": [
+    {
+     "value": "5",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_to": [
+    {
+     "value": "0",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.repealed": [
+    {
+     "value": "false",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_id": [
+    {
+     "value": "25745",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_number": [
+    {
+     "value": "16",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_page_note": [
+    {
+     "value": "<span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span>(1) The State Government shall, by notification in the Official Gazette, appoint for the whole State, or such part thereof as may be specified in that notification, an officer or officers to be known as the Child Marriage Prohibition Officer having jurisdiction over the area or areas specified in the notification.<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span> (2) The State Government may also request a respectable member of the locality with a record of social service or an officer of the Gram Panchayat or Municipality or an officer of the Government or any public sector undertaking or an office bearer of any non-governmental organisation to assist the Child Marriage Prohibition Officer and such member, officer or office bearer, as the case may be, shall be bound to act accordingly.<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span> (3) It shall be the duty of the Child Marriage Prohibition Officer--<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span> (a) to prevent solemnisation of child marriages by taking such action as he may deem fit;<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span> (b) to collect evidence for the effective prosecution of persons contravening the provisions of this Act;<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span> (c) to advise either individual cases or counsel the residents of the locality generally not to indulge in promoting, helping, aiding or allowing the solemnisation of child marriages;<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span> (d) to create awareness of the evil which results from child marriages;<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span> (e) to sensitize the community on the issue of child marriages;<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span> (f) to furnish such periodical returns and statistics as the State Government may direct; and<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span> (g) to discharge such other functions and duties as may be assigned to him by the State Government.<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span> (4) The State Government may, by notification in the Official Gazette, subject to such conditions and limitations, invest the Child Marriage Prohibition Officer with such powers of a police officer as may be specified in the notification and the Child Marriage Prohibition Officer shall exercise such powers subject to such conditions and limitations, as may be specified in the notification.<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span> (5) The Child Marriage Prohibition Officer shall have the power to move the Court for an order under sections 4, 5 and 13 and along with the child under section 3.<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/><br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/>",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.state_id": [
+    {
+     "value": "1",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.state_name": [
+    {
+     "value": "CENTRAL",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.uri": [
+    {
+     "value": "http://test1.indiacode.nic.in/handle/123456789/521474",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.title": [
+    {
+     "value": "Child Marriage Prohibition Officers.",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ]
+  },
+  "inArchive": true,
+  "discoverable": true,
+  "withdrawn": false,
+  "lastModified": "2026-07-10T22:16:04.420116Z",
+  "entityType": null,
+  "type": "item",
+  "_links": {
+   "accessStatus": {
+    "href": "https://indiacode.gov.in/server/api/core/items/90a4da52-8e7b-4c19-9e81-470698494b0a/accessStatus"
+   },
+   "bundles": {
+    "href": "https://indiacode.gov.in/server/api/core/items/90a4da52-8e7b-4c19-9e81-470698494b0a/bundles"
+   },
+   "identifiers": {
+    "href": "https://indiacode.gov.in/server/api/core/items/90a4da52-8e7b-4c19-9e81-470698494b0a/identifiers"
+   },
+   "mappedCollections": {
+    "href": "https://indiacode.gov.in/server/api/core/items/90a4da52-8e7b-4c19-9e81-470698494b0a/mappedCollections"
+   },
+   "owningCollection": {
+    "href": "https://indiacode.gov.in/server/api/core/items/90a4da52-8e7b-4c19-9e81-470698494b0a/owningCollection"
+   },
+   "relationships": {
+    "href": "https://indiacode.gov.in/server/api/core/items/90a4da52-8e7b-4c19-9e81-470698494b0a/relationships"
+   },
+   "version": {
+    "href": "https://indiacode.gov.in/server/api/core/items/90a4da52-8e7b-4c19-9e81-470698494b0a/version"
+   },
+   "templateItemOf": {
+    "href": "https://indiacode.gov.in/server/api/core/items/90a4da52-8e7b-4c19-9e81-470698494b0a/templateItemOf"
+   },
+   "thumbnail": {
+    "href": "https://indiacode.gov.in/server/api/core/items/90a4da52-8e7b-4c19-9e81-470698494b0a/thumbnail"
+   },
+   "submitter": {
+    "href": "https://indiacode.gov.in/server/api/core/items/90a4da52-8e7b-4c19-9e81-470698494b0a/submitter"
+   },
+   "self": {
+    "href": "https://indiacode.gov.in/server/api/core/items/90a4da52-8e7b-4c19-9e81-470698494b0a"
+   }
+  }
+ },
+ {
+  "id": "8ecb3be1-d9ab-4ef6-b242-b880557f2a61",
+  "uuid": "8ecb3be1-d9ab-4ef6-b242-b880557f2a61",
+  "name": "Power of State Government to make rules.",
+  "handle": "123456789/521477",
+  "metadata": {
+   "dc.date.accessioned": [
+    {
+     "value": "2026-07-10T22:16:04Z",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.date.act_year": [
+    {
+     "value": "2007",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_id": [
+    {
+     "value": "AC_CEN_13_14_00001_200706_1517807317592",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_name": [
+    {
+     "value": "The Prohibition of Child Marriage Act, 2006",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_number": [
+    {
+     "value": "6",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_repealed": [
+    {
+     "value": "false",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.collection": [
+    {
+     "value": "SECTION",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.id": [
+    {
+     "value": "25748",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.ministry_id": [
+    {
+     "value": "13",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.ministry_name": [
+    {
+     "value": "Ministry of Women and Child Development",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.next_section": [
+    {
+     "value": "20.Amendment of Act No. 25 of 1955.",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.order_number": [
+    {
+     "value": "19",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_from": [
+    {
+     "value": "0",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_number": [
+    {
+     "value": "5",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_to": [
+    {
+     "value": "0",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.repealed": [
+    {
+     "value": "false",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_id": [
+    {
+     "value": "25748",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_number": [
+    {
+     "value": "19",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_page_note": [
+    {
+     "value": "<span style=\"margin-left: 15px;\"></span>(1) The State Government may, by notification in the Official Gazette, make rules for carrying out the provisions of this Act.<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span> (2) Every rule made under this Act shall, as soon as may be after it is made, be laid before the State Legislature.<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/>",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.state_id": [
+    {
+     "value": "1",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.state_name": [
+    {
+     "value": "CENTRAL",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.uri": [
+    {
+     "value": "http://test1.indiacode.nic.in/handle/123456789/521477",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.title": [
+    {
+     "value": "Power of State Government to make rules.",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ]
+  },
+  "inArchive": true,
+  "discoverable": true,
+  "withdrawn": false,
+  "lastModified": "2026-07-10T22:16:04.579864Z",
+  "entityType": null,
+  "type": "item",
+  "_links": {
+   "accessStatus": {
+    "href": "https://indiacode.gov.in/server/api/core/items/8ecb3be1-d9ab-4ef6-b242-b880557f2a61/accessStatus"
+   },
+   "bundles": {
+    "href": "https://indiacode.gov.in/server/api/core/items/8ecb3be1-d9ab-4ef6-b242-b880557f2a61/bundles"
+   },
+   "identifiers": {
+    "href": "https://indiacode.gov.in/server/api/core/items/8ecb3be1-d9ab-4ef6-b242-b880557f2a61/identifiers"
+   },
+   "mappedCollections": {
+    "href": "https://indiacode.gov.in/server/api/core/items/8ecb3be1-d9ab-4ef6-b242-b880557f2a61/mappedCollections"
+   },
+   "owningCollection": {
+    "href": "https://indiacode.gov.in/server/api/core/items/8ecb3be1-d9ab-4ef6-b242-b880557f2a61/owningCollection"
+   },
+   "relationships": {
+    "href": "https://indiacode.gov.in/server/api/core/items/8ecb3be1-d9ab-4ef6-b242-b880557f2a61/relationships"
+   },
+   "version": {
+    "href": "https://indiacode.gov.in/server/api/core/items/8ecb3be1-d9ab-4ef6-b242-b880557f2a61/version"
+   },
+   "templateItemOf": {
+    "href": "https://indiacode.gov.in/server/api/core/items/8ecb3be1-d9ab-4ef6-b242-b880557f2a61/templateItemOf"
+   },
+   "thumbnail": {
+    "href": "https://indiacode.gov.in/server/api/core/items/8ecb3be1-d9ab-4ef6-b242-b880557f2a61/thumbnail"
+   },
+   "submitter": {
+    "href": "https://indiacode.gov.in/server/api/core/items/8ecb3be1-d9ab-4ef6-b242-b880557f2a61/submitter"
+   },
+   "self": {
+    "href": "https://indiacode.gov.in/server/api/core/items/8ecb3be1-d9ab-4ef6-b242-b880557f2a61"
+   }
+  }
+ },
+ {
+  "id": "bc38a025-4ca7-49c1-97ae-0d2e4b7a5691",
+  "uuid": "bc38a025-4ca7-49c1-97ae-0d2e4b7a5691",
+  "name": "Child Marriage Prohibition Officers to be public servants.",
+  "handle": "123456789/521475",
+  "metadata": {
+   "dc.date.accessioned": [
+    {
+     "value": "2026-07-10T22:16:04Z",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.date.act_year": [
+    {
+     "value": "2007",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_id": [
+    {
+     "value": "AC_CEN_13_14_00001_200706_1517807317592",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_name": [
+    {
+     "value": "The Prohibition of Child Marriage Act, 2006",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_number": [
+    {
+     "value": "6",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_repealed": [
+    {
+     "value": "false",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.collection": [
+    {
+     "value": "SECTION",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.id": [
+    {
+     "value": "25746",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.ministry_id": [
+    {
+     "value": "13",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.ministry_name": [
+    {
+     "value": "Ministry of Women and Child Development",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.next_section": [
+    {
+     "value": "18.Protection of action taken in good faith.",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.order_number": [
+    {
+     "value": "17",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_from": [
+    {
+     "value": "0",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_number": [
+    {
+     "value": "5",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_to": [
+    {
+     "value": "0",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.repealed": [
+    {
+     "value": "false",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_id": [
+    {
+     "value": "25746",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_number": [
+    {
+     "value": "17",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_page_note": [
+    {
+     "value": "<span style=\"margin-left: 15px;\"></span>The Child Marriage Prohibition Officers shall be deemed to be public servants within the meaning of section 21 of the Indian Penal Code (45 of 1860).<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/>",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.state_id": [
+    {
+     "value": "1",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.state_name": [
+    {
+     "value": "CENTRAL",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.uri": [
+    {
+     "value": "http://test1.indiacode.nic.in/handle/123456789/521475",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.title": [
+    {
+     "value": "Child Marriage Prohibition Officers to be public servants.",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ]
+  },
+  "inArchive": true,
+  "discoverable": true,
+  "withdrawn": false,
+  "lastModified": "2026-07-10T22:16:04.472182Z",
+  "entityType": null,
+  "type": "item",
+  "_links": {
+   "accessStatus": {
+    "href": "https://indiacode.gov.in/server/api/core/items/bc38a025-4ca7-49c1-97ae-0d2e4b7a5691/accessStatus"
+   },
+   "bundles": {
+    "href": "https://indiacode.gov.in/server/api/core/items/bc38a025-4ca7-49c1-97ae-0d2e4b7a5691/bundles"
+   },
+   "identifiers": {
+    "href": "https://indiacode.gov.in/server/api/core/items/bc38a025-4ca7-49c1-97ae-0d2e4b7a5691/identifiers"
+   },
+   "mappedCollections": {
+    "href": "https://indiacode.gov.in/server/api/core/items/bc38a025-4ca7-49c1-97ae-0d2e4b7a5691/mappedCollections"
+   },
+   "owningCollection": {
+    "href": "https://indiacode.gov.in/server/api/core/items/bc38a025-4ca7-49c1-97ae-0d2e4b7a5691/owningCollection"
+   },
+   "relationships": {
+    "href": "https://indiacode.gov.in/server/api/core/items/bc38a025-4ca7-49c1-97ae-0d2e4b7a5691/relationships"
+   },
+   "version": {
+    "href": "https://indiacode.gov.in/server/api/core/items/bc38a025-4ca7-49c1-97ae-0d2e4b7a5691/version"
+   },
+   "templateItemOf": {
+    "href": "https://indiacode.gov.in/server/api/core/items/bc38a025-4ca7-49c1-97ae-0d2e4b7a5691/templateItemOf"
+   },
+   "thumbnail": {
+    "href": "https://indiacode.gov.in/server/api/core/items/bc38a025-4ca7-49c1-97ae-0d2e4b7a5691/thumbnail"
+   },
+   "submitter": {
+    "href": "https://indiacode.gov.in/server/api/core/items/bc38a025-4ca7-49c1-97ae-0d2e4b7a5691/submitter"
+   },
+   "self": {
+    "href": "https://indiacode.gov.in/server/api/core/items/bc38a025-4ca7-49c1-97ae-0d2e4b7a5691"
+   }
+  }
+ },
+ {
+  "id": "be387b13-5c8d-494e-9e02-b8ad856770b8",
+  "uuid": "be387b13-5c8d-494e-9e02-b8ad856770b8",
+  "name": "Punishment for male adult marrying a child.",
+  "handle": "123456789/521466",
+  "metadata": {
+   "dc.date.accessioned": [
+    {
+     "value": "2026-07-10T22:16:03Z",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.date.act_year": [
+    {
+     "value": "2007",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_id": [
+    {
+     "value": "AC_CEN_13_14_00001_200706_1517807317592",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_name": [
+    {
+     "value": "The Prohibition of Child Marriage Act, 2006",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_number": [
+    {
+     "value": "6",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_repealed": [
+    {
+     "value": "false",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.collection": [
+    {
+     "value": "SECTION",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.id": [
+    {
+     "value": "25738",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.ministry_id": [
+    {
+     "value": "13",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.ministry_name": [
+    {
+     "value": "Ministry of Women and Child Development",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.next_section": [
+    {
+     "value": "10.Punishment for solemnising a child marriage.",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.order_number": [
+    {
+     "value": "9",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_from": [
+    {
+     "value": "0",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_number": [
+    {
+     "value": "3",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_to": [
+    {
+     "value": "0",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.repealed": [
+    {
+     "value": "false",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_id": [
+    {
+     "value": "25738",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_number": [
+    {
+     "value": "9",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_page_note": [
+    {
+     "value": "<span style=\"margin-left: 15px;\"></span>Whoever, being a male adult above eighteen years of age, contracts a child marriage shall be punishable with rigorous imprisonment which may extend to two years or with fine which may extend to one lakh rupees or with both.<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><b>STATE AMENDMENT</b><br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span><b>Karnataka</b><br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span><b>Amendment of section 9.--</b>In section 9 of the principal Act, for the words “be punishable with rigorous imprisonment which may extend to two years”, the words “be punishable with rigorous imprisonment of not less one year which may extend up to two years” shall be substituted.<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span>[<i>Vide</i> Karnataka Act 26 of 2017, s. 3].<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/>",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.state_id": [
+    {
+     "value": "1",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.state_name": [
+    {
+     "value": "CENTRAL",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.uri": [
+    {
+     "value": "http://test1.indiacode.nic.in/handle/123456789/521466",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.title": [
+    {
+     "value": "Punishment for male adult marrying a child.",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ]
+  },
+  "inArchive": true,
+  "discoverable": true,
+  "withdrawn": false,
+  "lastModified": "2026-07-10T22:16:03.942173Z",
+  "entityType": null,
+  "type": "item",
+  "_links": {
+   "accessStatus": {
+    "href": "https://indiacode.gov.in/server/api/core/items/be387b13-5c8d-494e-9e02-b8ad856770b8/accessStatus"
+   },
+   "bundles": {
+    "href": "https://indiacode.gov.in/server/api/core/items/be387b13-5c8d-494e-9e02-b8ad856770b8/bundles"
+   },
+   "identifiers": {
+    "href": "https://indiacode.gov.in/server/api/core/items/be387b13-5c8d-494e-9e02-b8ad856770b8/identifiers"
+   },
+   "mappedCollections": {
+    "href": "https://indiacode.gov.in/server/api/core/items/be387b13-5c8d-494e-9e02-b8ad856770b8/mappedCollections"
+   },
+   "owningCollection": {
+    "href": "https://indiacode.gov.in/server/api/core/items/be387b13-5c8d-494e-9e02-b8ad856770b8/owningCollection"
+   },
+   "relationships": {
+    "href": "https://indiacode.gov.in/server/api/core/items/be387b13-5c8d-494e-9e02-b8ad856770b8/relationships"
+   },
+   "version": {
+    "href": "https://indiacode.gov.in/server/api/core/items/be387b13-5c8d-494e-9e02-b8ad856770b8/version"
+   },
+   "templateItemOf": {
+    "href": "https://indiacode.gov.in/server/api/core/items/be387b13-5c8d-494e-9e02-b8ad856770b8/templateItemOf"
+   },
+   "thumbnail": {
+    "href": "https://indiacode.gov.in/server/api/core/items/be387b13-5c8d-494e-9e02-b8ad856770b8/thumbnail"
+   },
+   "submitter": {
+    "href": "https://indiacode.gov.in/server/api/core/items/be387b13-5c8d-494e-9e02-b8ad856770b8/submitter"
+   },
+   "self": {
+    "href": "https://indiacode.gov.in/server/api/core/items/be387b13-5c8d-494e-9e02-b8ad856770b8"
+   }
+  }
+ },
+ {
+  "id": "8971bc03-5913-4907-aecf-f58fbb5633df",
+  "uuid": "8971bc03-5913-4907-aecf-f58fbb5633df",
+  "name": "Protection of action taken in good faith.",
+  "handle": "123456789/521476",
+  "metadata": {
+   "dc.date.accessioned": [
+    {
+     "value": "2026-07-10T22:16:04Z",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.date.act_year": [
+    {
+     "value": "2007",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_id": [
+    {
+     "value": "AC_CEN_13_14_00001_200706_1517807317592",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_name": [
+    {
+     "value": "The Prohibition of Child Marriage Act, 2006",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_number": [
+    {
+     "value": "6",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_repealed": [
+    {
+     "value": "false",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.collection": [
+    {
+     "value": "SECTION",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.id": [
+    {
+     "value": "25747",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.ministry_id": [
+    {
+     "value": "13",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.ministry_name": [
+    {
+     "value": "Ministry of Women and Child Development",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.next_section": [
+    {
+     "value": "19.Power of State Government to make rules.",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.order_number": [
+    {
+     "value": "18",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_from": [
+    {
+     "value": "0",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_number": [
+    {
+     "value": "5",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_to": [
+    {
+     "value": "0",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.repealed": [
+    {
+     "value": "false",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_id": [
+    {
+     "value": "25747",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_number": [
+    {
+     "value": "18",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_page_note": [
+    {
+     "value": "<span style=\"margin-left: 15px;\"></span>No suit, prosecution or other legal proceedings shall lie against the Child Marriage Prohibition Officer in respect of anything in good faith done or intended to be done in pursuance of this Act or any rule or order made thereunder.<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/>",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.state_id": [
+    {
+     "value": "1",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.state_name": [
+    {
+     "value": "CENTRAL",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.uri": [
+    {
+     "value": "http://test1.indiacode.nic.in/handle/123456789/521476",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.title": [
+    {
+     "value": "Protection of action taken in good faith.",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ]
+  },
+  "inArchive": true,
+  "discoverable": true,
+  "withdrawn": false,
+  "lastModified": "2026-07-10T22:16:04.528222Z",
+  "entityType": null,
+  "type": "item",
+  "_links": {
+   "accessStatus": {
+    "href": "https://indiacode.gov.in/server/api/core/items/8971bc03-5913-4907-aecf-f58fbb5633df/accessStatus"
+   },
+   "bundles": {
+    "href": "https://indiacode.gov.in/server/api/core/items/8971bc03-5913-4907-aecf-f58fbb5633df/bundles"
+   },
+   "identifiers": {
+    "href": "https://indiacode.gov.in/server/api/core/items/8971bc03-5913-4907-aecf-f58fbb5633df/identifiers"
+   },
+   "mappedCollections": {
+    "href": "https://indiacode.gov.in/server/api/core/items/8971bc03-5913-4907-aecf-f58fbb5633df/mappedCollections"
+   },
+   "owningCollection": {
+    "href": "https://indiacode.gov.in/server/api/core/items/8971bc03-5913-4907-aecf-f58fbb5633df/owningCollection"
+   },
+   "relationships": {
+    "href": "https://indiacode.gov.in/server/api/core/items/8971bc03-5913-4907-aecf-f58fbb5633df/relationships"
+   },
+   "version": {
+    "href": "https://indiacode.gov.in/server/api/core/items/8971bc03-5913-4907-aecf-f58fbb5633df/version"
+   },
+   "templateItemOf": {
+    "href": "https://indiacode.gov.in/server/api/core/items/8971bc03-5913-4907-aecf-f58fbb5633df/templateItemOf"
+   },
+   "thumbnail": {
+    "href": "https://indiacode.gov.in/server/api/core/items/8971bc03-5913-4907-aecf-f58fbb5633df/thumbnail"
+   },
+   "submitter": {
+    "href": "https://indiacode.gov.in/server/api/core/items/8971bc03-5913-4907-aecf-f58fbb5633df/submitter"
+   },
+   "self": {
+    "href": "https://indiacode.gov.in/server/api/core/items/8971bc03-5913-4907-aecf-f58fbb5633df"
+   }
+  }
+ },
+ {
+  "id": "bfab0bc0-e315-4214-a3b2-179f74ceddbb",
+  "uuid": "bfab0bc0-e315-4214-a3b2-179f74ceddbb",
+  "name": "Repeal and savings.",
+  "handle": "123456789/521480",
+  "metadata": {
+   "dc.date.accessioned": [
+    {
+     "value": "2026-07-10T22:16:04Z",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.date.act_year": [
+    {
+     "value": "2007",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_id": [
+    {
+     "value": "AC_CEN_13_14_00001_200706_1517807317592",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_name": [
+    {
+     "value": "The Prohibition of Child Marriage Act, 2006",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_number": [
+    {
+     "value": "6",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_repealed": [
+    {
+     "value": "false",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.collection": [
+    {
+     "value": "SECTION",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.id": [
+    {
+     "value": "25750",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.ministry_id": [
+    {
+     "value": "13",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.ministry_name": [
+    {
+     "value": "Ministry of Women and Child Development",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.order_number": [
+    {
+     "value": "21",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_from": [
+    {
+     "value": "0",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_number": [
+    {
+     "value": "6",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_to": [
+    {
+     "value": "0",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.repealed": [
+    {
+     "value": "false",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_id": [
+    {
+     "value": "25750",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_number": [
+    {
+     "value": "21",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_page_note": [
+    {
+     "value": "<span style=\"margin-left: 15px;\"></span>(1) The Child Marriage Restraint Act, 1929 (19 of 1929) is hereby repealed.<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span> (2) Notwithstanding such repeal, all cases and other proceedings pending or continued under the said Act at the commencement of this Act shall be continued and disposed of in accordance with the provisions of the repealed Act, as if this Act had not been passed.<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/>",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.state_id": [
+    {
+     "value": "1",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.state_name": [
+    {
+     "value": "CENTRAL",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.uri": [
+    {
+     "value": "http://test1.indiacode.nic.in/handle/123456789/521480",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.title": [
+    {
+     "value": "Repeal and savings.",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ]
+  },
+  "inArchive": true,
+  "discoverable": true,
+  "withdrawn": false,
+  "lastModified": "2026-07-10T22:16:04.738624Z",
+  "entityType": null,
+  "type": "item",
+  "_links": {
+   "accessStatus": {
+    "href": "https://indiacode.gov.in/server/api/core/items/bfab0bc0-e315-4214-a3b2-179f74ceddbb/accessStatus"
+   },
+   "bundles": {
+    "href": "https://indiacode.gov.in/server/api/core/items/bfab0bc0-e315-4214-a3b2-179f74ceddbb/bundles"
+   },
+   "identifiers": {
+    "href": "https://indiacode.gov.in/server/api/core/items/bfab0bc0-e315-4214-a3b2-179f74ceddbb/identifiers"
+   },
+   "mappedCollections": {
+    "href": "https://indiacode.gov.in/server/api/core/items/bfab0bc0-e315-4214-a3b2-179f74ceddbb/mappedCollections"
+   },
+   "owningCollection": {
+    "href": "https://indiacode.gov.in/server/api/core/items/bfab0bc0-e315-4214-a3b2-179f74ceddbb/owningCollection"
+   },
+   "relationships": {
+    "href": "https://indiacode.gov.in/server/api/core/items/bfab0bc0-e315-4214-a3b2-179f74ceddbb/relationships"
+   },
+   "version": {
+    "href": "https://indiacode.gov.in/server/api/core/items/bfab0bc0-e315-4214-a3b2-179f74ceddbb/version"
+   },
+   "templateItemOf": {
+    "href": "https://indiacode.gov.in/server/api/core/items/bfab0bc0-e315-4214-a3b2-179f74ceddbb/templateItemOf"
+   },
+   "thumbnail": {
+    "href": "https://indiacode.gov.in/server/api/core/items/bfab0bc0-e315-4214-a3b2-179f74ceddbb/thumbnail"
+   },
+   "submitter": {
+    "href": "https://indiacode.gov.in/server/api/core/items/bfab0bc0-e315-4214-a3b2-179f74ceddbb/submitter"
+   },
+   "self": {
+    "href": "https://indiacode.gov.in/server/api/core/items/bfab0bc0-e315-4214-a3b2-179f74ceddbb"
+   }
+  }
+ },
+ {
+  "id": "e5fe0557-add2-450d-b9de-21a7f25e315a",
+  "uuid": "e5fe0557-add2-450d-b9de-21a7f25e315a",
+  "name": "Legitimacy of children born of child marriages.",
+  "handle": "123456789/521463",
+  "metadata": {
+   "dc.date.accessioned": [
+    {
+     "value": "2026-07-10T22:16:03Z",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.date.act_year": [
+    {
+     "value": "2007",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_id": [
+    {
+     "value": "AC_CEN_13_14_00001_200706_1517807317592",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_name": [
+    {
+     "value": "The Prohibition of Child Marriage Act, 2006",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_number": [
+    {
+     "value": "6",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_repealed": [
+    {
+     "value": "false",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.collection": [
+    {
+     "value": "SECTION",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.id": [
+    {
+     "value": "25735",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.ministry_id": [
+    {
+     "value": "13",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.ministry_name": [
+    {
+     "value": "Ministry of Women and Child Development",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.next_section": [
+    {
+     "value": "7.Power of district court to modify orders issued under section 4 or section 5.",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.order_number": [
+    {
+     "value": "6",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_from": [
+    {
+     "value": "0",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_number": [
+    {
+     "value": "3",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_to": [
+    {
+     "value": "0",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.repealed": [
+    {
+     "value": "false",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_id": [
+    {
+     "value": "25735",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_number": [
+    {
+     "value": "6",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_page_note": [
+    {
+     "value": "<span style=\"margin-left: 15px;\"></span>Notwithstanding that a child marriage has been annulled by a decree of nullity under section 3, every child begotten or conceived of such marriage before the decree is made, whether born before or after the commencement of this Act, shall be deemed to be a legitimate child for all purposes. <br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/>",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.state_id": [
+    {
+     "value": "1",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.state_name": [
+    {
+     "value": "CENTRAL",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.uri": [
+    {
+     "value": "http://test1.indiacode.nic.in/handle/123456789/521463",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.title": [
+    {
+     "value": "Legitimacy of children born of child marriages.",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ]
+  },
+  "inArchive": true,
+  "discoverable": true,
+  "withdrawn": false,
+  "lastModified": "2026-07-10T22:16:03.766224Z",
+  "entityType": null,
+  "type": "item",
+  "_links": {
+   "accessStatus": {
+    "href": "https://indiacode.gov.in/server/api/core/items/e5fe0557-add2-450d-b9de-21a7f25e315a/accessStatus"
+   },
+   "bundles": {
+    "href": "https://indiacode.gov.in/server/api/core/items/e5fe0557-add2-450d-b9de-21a7f25e315a/bundles"
+   },
+   "identifiers": {
+    "href": "https://indiacode.gov.in/server/api/core/items/e5fe0557-add2-450d-b9de-21a7f25e315a/identifiers"
+   },
+   "mappedCollections": {
+    "href": "https://indiacode.gov.in/server/api/core/items/e5fe0557-add2-450d-b9de-21a7f25e315a/mappedCollections"
+   },
+   "owningCollection": {
+    "href": "https://indiacode.gov.in/server/api/core/items/e5fe0557-add2-450d-b9de-21a7f25e315a/owningCollection"
+   },
+   "relationships": {
+    "href": "https://indiacode.gov.in/server/api/core/items/e5fe0557-add2-450d-b9de-21a7f25e315a/relationships"
+   },
+   "version": {
+    "href": "https://indiacode.gov.in/server/api/core/items/e5fe0557-add2-450d-b9de-21a7f25e315a/version"
+   },
+   "templateItemOf": {
+    "href": "https://indiacode.gov.in/server/api/core/items/e5fe0557-add2-450d-b9de-21a7f25e315a/templateItemOf"
+   },
+   "thumbnail": {
+    "href": "https://indiacode.gov.in/server/api/core/items/e5fe0557-add2-450d-b9de-21a7f25e315a/thumbnail"
+   },
+   "submitter": {
+    "href": "https://indiacode.gov.in/server/api/core/items/e5fe0557-add2-450d-b9de-21a7f25e315a/submitter"
+   },
+   "self": {
+    "href": "https://indiacode.gov.in/server/api/core/items/e5fe0557-add2-450d-b9de-21a7f25e315a"
+   }
+  }
+ },
+ {
+  "id": "eb5352b5-34ba-4239-a52a-6fcb33a9fea3",
+  "uuid": "eb5352b5-34ba-4239-a52a-6fcb33a9fea3",
+  "name": "Offences to be cognizable and non-bailable.",
+  "handle": "123456789/521473",
+  "metadata": {
+   "dc.date.accessioned": [
+    {
+     "value": "2026-07-10T22:16:04Z",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.date.act_year": [
+    {
+     "value": "2007",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_id": [
+    {
+     "value": "AC_CEN_13_14_00001_200706_1517807317592",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_name": [
+    {
+     "value": "The Prohibition of Child Marriage Act, 2006",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_number": [
+    {
+     "value": "6",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_repealed": [
+    {
+     "value": "false",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.collection": [
+    {
+     "value": "SECTION",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.id": [
+    {
+     "value": "25744",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.ministry_id": [
+    {
+     "value": "13",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.ministry_name": [
+    {
+     "value": "Ministry of Women and Child Development",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.next_section": [
+    {
+     "value": "16.Child Marriage Prohibition Officers.",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.order_number": [
+    {
+     "value": "15",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_from": [
+    {
+     "value": "0",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_number": [
+    {
+     "value": "5",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_to": [
+    {
+     "value": "0",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.repealed": [
+    {
+     "value": "false",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_id": [
+    {
+     "value": "25744",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_number": [
+    {
+     "value": "15",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_page_note": [
+    {
+     "value": "<span style=\"margin-left: 15px;\"></span>Notwithstanding anything contained in the Code of Criminal Procedure, 1973 (2 of 1974), an offence punishable under this Act shall be cognizable and non-bailable.<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><b>STATE AMENDMENT</b><br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span><b>Karnataka</b><br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span><b>Insertion of new section 15A.--</b>In the principal Act, after section 15, the following shall be inserted, namely:--<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span><b>“15A. Police Officer to take cognizance of an offence suo-motto.--</b>Every Police Officer shall take cognizance of an offence committed in his jurisdiction under this Act, suo motto.”<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> [<i>Vide</i> Karnataka Act 26 of 2017, s. 7].<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/>",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.state_id": [
+    {
+     "value": "1",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.state_name": [
+    {
+     "value": "CENTRAL",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.uri": [
+    {
+     "value": "http://test1.indiacode.nic.in/handle/123456789/521473",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.title": [
+    {
+     "value": "Offences to be cognizable and non-bailable.",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ]
+  },
+  "inArchive": true,
+  "discoverable": true,
+  "withdrawn": false,
+  "lastModified": "2026-07-10T22:16:04.366058Z",
+  "entityType": null,
+  "type": "item",
+  "_links": {
+   "accessStatus": {
+    "href": "https://indiacode.gov.in/server/api/core/items/eb5352b5-34ba-4239-a52a-6fcb33a9fea3/accessStatus"
+   },
+   "bundles": {
+    "href": "https://indiacode.gov.in/server/api/core/items/eb5352b5-34ba-4239-a52a-6fcb33a9fea3/bundles"
+   },
+   "identifiers": {
+    "href": "https://indiacode.gov.in/server/api/core/items/eb5352b5-34ba-4239-a52a-6fcb33a9fea3/identifiers"
+   },
+   "mappedCollections": {
+    "href": "https://indiacode.gov.in/server/api/core/items/eb5352b5-34ba-4239-a52a-6fcb33a9fea3/mappedCollections"
+   },
+   "owningCollection": {
+    "href": "https://indiacode.gov.in/server/api/core/items/eb5352b5-34ba-4239-a52a-6fcb33a9fea3/owningCollection"
+   },
+   "relationships": {
+    "href": "https://indiacode.gov.in/server/api/core/items/eb5352b5-34ba-4239-a52a-6fcb33a9fea3/relationships"
+   },
+   "version": {
+    "href": "https://indiacode.gov.in/server/api/core/items/eb5352b5-34ba-4239-a52a-6fcb33a9fea3/version"
+   },
+   "templateItemOf": {
+    "href": "https://indiacode.gov.in/server/api/core/items/eb5352b5-34ba-4239-a52a-6fcb33a9fea3/templateItemOf"
+   },
+   "thumbnail": {
+    "href": "https://indiacode.gov.in/server/api/core/items/eb5352b5-34ba-4239-a52a-6fcb33a9fea3/thumbnail"
+   },
+   "submitter": {
+    "href": "https://indiacode.gov.in/server/api/core/items/eb5352b5-34ba-4239-a52a-6fcb33a9fea3/submitter"
+   },
+   "self": {
+    "href": "https://indiacode.gov.in/server/api/core/items/eb5352b5-34ba-4239-a52a-6fcb33a9fea3"
+   }
+  }
+ }
+]

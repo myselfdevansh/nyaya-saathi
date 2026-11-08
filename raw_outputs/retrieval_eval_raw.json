@@ -1,28 +1,28 @@
 {
  "stats": {
   "bm25": {
-   "hit1": 2,
+   "hit1": 1,
    "hit3": 2,
    "hitk": 2,
-   "mrr": 2.0
+   "mrr": 1.5
   },
   "dense": {
    "hit1": 5,
    "hit3": 8,
-   "hitk": 13,
-   "mrr": 7.342857142857143
+   "hitk": 12,
+   "mrr": 7.033333333333333
   },
   "hybrid": {
-   "hit1": 4,
-   "hit3": 6,
+   "hit1": 2,
+   "hit3": 7,
    "hitk": 9,
-   "mrr": 5.283333333333333
+   "mrr": 4.101190476190476
   },
   "pipeline": {
    "hit1": 5,
    "hit3": 8,
-   "hitk": 13,
-   "mrr": 7.342857142857143
+   "hitk": 12,
+   "mrr": 7.033333333333333
   }
  },
  "n": 22,
@@ -38,14 +38,14 @@
    "bm25": {
     "rank": null,
     "top": [
+     "indian_succession_act_1925__s80",
+     "indian_succession_act_1925__s142",
+     "indian_succession_act_1925__s76",
      "negotiable_instruments_act_1881__s4",
-     "specific_relief_act_1963__s12",
-     "bharatiya_sakshya_adhiniyam_2023__s119",
-     "indian_contract_act_1872__s156",
-     "digital_personal_data_protection_act_2023__s2",
-     "bharatiya_sakshya_adhiniyam_2023__s99",
-     "motor_vehicles_act_1988__s81",
-     "consumer_protection_act_2019__s2"
+     "indian_succession_act_1925__s222",
+     "indian_succession_act_1925__s81",
+     "indian_succession_act_1925__s160",
+     "indian_succession_act_1925__s78"
     ]
    },
    "dense": {
@@ -58,20 +58,20 @@
      "information_technology_act_2000__s44",
      "information_technology_act_2000__s25",
      "consumer_protection_act_2019__s38",
-     "sale_of_goods_act_1930__s54"
+     "credit_information_companies_regulation_act_2005__s25"
     ]
    },
    "hybrid": {
-    "rank": 5,
+    "rank": 3,
     "top": [
      "digital_personal_data_protection_act_2023__s6",
-     "digital_personal_data_protection_act_2023__s5",
-     "indian_contract_act_1872__s145",
-     "negotiable_instruments_act_1881__s4",
+     "indian_succession_act_1925__s80",
      "consumer_protection_act_2019__s35",
-     "specific_relief_act_1963__s12",
+     "indian_succession_act_1925__s142",
      "information_technology_act_2000__s12",
-     "bharatiya_sakshya_adhiniyam_2023__s119"
+     "consumer_protection_act_2019__s69",
+     "indian_succession_act_1925__s76",
+     "consumer_protection_act_2019__s17"
     ]
    },
    "pipeline": {
@@ -84,7 +84,7 @@
      "information_technology_act_2000__s44",
      "information_technology_act_2000__s25",
      "consumer_protection_act_2019__s38",
-     "sale_of_goods_act_1930__s54"
+     "credit_information_companies_regulation_act_2005__s25"
     ]
    }
   },
@@ -98,14 +98,14 @@
    "bm25": {
     "rank": null,
     "top": [
+     "indian_succession_act_1925__s89",
      "indian_contract_act_1872__s227",
      "consumer_protection_act_2019__s35",
      "consumer_protection_act_2019__s38",
-     "digital_personal_data_protection_act_2023__s6",
      "consumer_protection_act_2019__s39",
      "consumer_protection_act_2019__s34",
      "real_estate_regulation_and_development_act_2016__s71",
-     "consumer_protection_act_2019__s2"
+     "digital_personal_data_protection_act_2023__s6"
     ]
    },
    "dense": {
@@ -126,12 +126,12 @@
     "top": [
      "consumer_protection_act_2019__s35",
      "consumer_protection_act_2019__s38",
-     "consumer_protection_act_2019__s24",
      "consumer_protection_act_2019__s17",
+     "consumer_protection_act_2019__s24",
      "consumer_protection_act_2019__s34",
      "consumer_protection_act_2019__s36",
-     "real_estate_regulation_and_development_act_2016__s71",
-     "consumer_protection_act_2019__s18"
+     "consumer_protection_act_2019__s16",
+     "real_estate_regulation_and_development_act_2016__s71"
     ]
    },
    "pipeline": {
@@ -156,16 +156,16 @@
    ],
    "rewrite": null,
    "bm25": {
-    "rank": 1,
+    "rank": 2,
     "top": [
+     "indian_succession_act_1925__s142",
      "negotiable_instruments_act_1881__s138",
+     "indian_succession_act_1925__s152",
+     "indian_succession_act_1925__s154",
      "negotiable_instruments_act_1881__s4",
-     "indian_contract_act_1872__s16",
-     "indian_contract_act_1872__s197",
-     "negotiable_instruments_act_1881__s84",
-     "negotiable_instruments_act_1881__s142",
-     "indian_contract_act_1872__s159",
-     "bharatiya_nyaya_sanhita_2023__s308"
+     "indian_succession_act_1925__s161",
+     "indian_succession_act_1925__s150",
+     "insurance_act_1938__s64VB"
     ]
    },
    "dense": {
@@ -177,20 +177,20 @@
      "negotiable_instruments_act_1881__s84",
      "indian_contract_act_1872__s16",
      "negotiable_instruments_act_1881__s89",
-     "negotiable_instruments_act_1881__s92",
-     "negotiable_instruments_act_1881__s130"
+     "banning_of_unregulated_deposit_schemes_act_2019__s2",
+     "negotiable_instruments_act_1881__s92"
     ]
    },
    "hybrid": {
     "rank": 1,
     "top": [
      "negotiable_instruments_act_1881__s138",
-     "indian_contract_act_1872__s16",
-     "indian_contract_act_1872__s159",
      "negotiable_instruments_act_1881__s84",
      "negotiable_instruments_act_1881__s131",
+     "indian_contract_act_1872__s16",
+     "indian_contract_act_1872__s159",
+     "insurance_act_1938__s64VB",
      "negotiable_instruments_act_1881__s130",
-     "negotiable_instruments_act_1881__s142",
      "negotiable_instruments_act_1881__s44"
     ]
    },
@@ -203,8 +203,8 @@
      "negotiable_instruments_act_1881__s84",
      "indian_contract_act_1872__s16",
      "negotiable_instruments_act_1881__s89",
-     "negotiable_instruments_act_1881__s92",
-     "negotiable_instruments_act_1881__s130"
+     "banning_of_unregulated_deposit_schemes_act_2019__s2",
+     "negotiable_instruments_act_1881__s92"
     ]
    }
   },
@@ -218,27 +218,27 @@
    "bm25": {
     "rank": null,
     "top": [
+     "prohibition_of_child_marriage_act_2006__s14",
      "negotiable_instruments_act_1881__s129",
      "negotiable_instruments_act_1881__s31",
      "negotiable_instruments_act_1881__s126",
      "negotiable_instruments_act_1881__s131",
      "negotiable_instruments_act_1881__s124",
      "negotiable_instruments_act_1881__s130",
-     "negotiable_instruments_act_1881__s128",
-     "negotiable_instruments_act_1881__s84"
+     "negotiable_instruments_act_1881__s128"
     ]
    },
    "dense": {
     "rank": null,
     "top": [
      "indian_contract_act_1872__s65",
+     "indian_succession_act_1925__s152",
      "bharatiya_nyaya_sanhita_2023__s129",
      "indian_contract_act_1872__s29",
      "bharatiya_sakshya_adhiniyam_2023__s8",
      "bharatiya_nyaya_sanhita_2023__s118",
      "bharatiya_nyaya_sanhita_2023__s314",
-     "bharatiya_nyaya_sanhita_2023__s32",
-     "bharatiya_nyaya_sanhita_2023__s38"
+     "indian_succession_act_1925__s142"
     ]
    },
    "hybrid": {
@@ -247,24 +247,24 @@
      "negotiable_instruments_act_1881__s84",
      "bharatiya_nyaya_sanhita_2023__s314",
      "bharatiya_nyaya_sanhita_2023__s335",
-     "negotiable_instruments_act_1881__s142",
-     "negotiable_instruments_act_1881__s129",
+     "prohibition_of_child_marriage_act_2006__s14",
      "indian_contract_act_1872__s65",
-     "negotiable_instruments_act_1881__s31",
-     "bharatiya_nyaya_sanhita_2023__s129"
+     "negotiable_instruments_act_1881__s129",
+     "indian_succession_act_1925__s152",
+     "negotiable_instruments_act_1881__s31"
     ]
    },
    "pipeline": {
     "rank": null,
     "top": [
      "indian_contract_act_1872__s65",
+     "indian_succession_act_1925__s152",
      "bharatiya_nyaya_sanhita_2023__s129",
      "indian_contract_act_1872__s29",
      "bharatiya_sakshya_adhiniyam_2023__s8",
      "bharatiya_nyaya_sanhita_2023__s118",
      "bharatiya_nyaya_sanhita_2023__s314",
-     "bharatiya_nyaya_sanhita_2023__s32",
-     "bharatiya_nyaya_sanhita_2023__s38"
+     "indian_succession_act_1925__s142"
     ]
    }
   },
@@ -279,14 +279,14 @@
    "bm25": {
     "rank": null,
     "top": [
-     "indian_contract_act_1872__s29",
-     "negotiable_instruments_act_1881__s4",
-     "bharatiya_sakshya_adhiniyam_2023__s100",
-     "bharatiya_sakshya_adhiniyam_2023__s99",
-     "digital_personal_data_protection_act_2023__s20",
-     "bharatiya_nyaya_sanhita_2023__s8",
-     "bharatiya_sakshya_adhiniyam_2023__s101",
-     "negotiable_instruments_act_1881__s50"
+     "indian_succession_act_1925__s142",
+     "indian_succession_act_1925__s150",
+     "indian_succession_act_1925__s81",
+     "indian_succession_act_1925__s281",
+     "indian_succession_act_1925__s158",
+     "indian_succession_act_1925__s76",
+     "indian_succession_act_1925__s160",
+     "indian_succession_act_1925__s152"
     ]
    },
    "dense": {
@@ -299,20 +299,20 @@
      "code_on_wages_2019__s17",
      "code_on_social_security_2020__s140",
      "code_on_social_security_2020__s54",
-     "code_on_social_security_2020__s144"
+     "credit_information_companies_regulation_act_2005__s9"
     ]
    },
    "hybrid": {
-    "rank": 1,
+    "rank": 2,
     "top": [
+     "credit_information_companies_regulation_act_2005__s9",
      "code_on_wages_2019__s17",
-     "code_on_social_security_2020__s53",
      "digital_personal_data_protection_act_2023__s20",
      "real_estate_regulation_and_development_act_2016__s48",
      "real_estate_regulation_and_development_act_2016__s24",
-     "code_on_social_security_2020__s29",
-     "code_on_social_security_2020__s54",
-     "code_on_wages_2019__s39"
+     "code_on_wages_2019__s39",
+     "indian_succession_act_1925__s142",
+     "industrial_relations_code_2020__s2"
     ]
    },
    "pipeline": {
@@ -325,7 +325,7 @@
      "code_on_wages_2019__s17",
      "code_on_social_security_2020__s140",
      "code_on_social_security_2020__s54",
-     "code_on_social_security_2020__s144"
+     "credit_information_companies_regulation_act_2005__s9"
     ]
    }
   },
@@ -355,12 +355,12 @@
     "top": [
      "industrial_relations_code_2020__s58",
      "indian_contract_act_1872__s200",
+     "insurance_act_1938__s3",
+     "insurance_act_1938__s53",
      "code_on_social_security_2020__s36",
      "code_on_social_security_2020__s73",
-     "digital_personal_data_protection_act_2023__s17",
-     "code_on_social_security_2020__s88",
-     "indian_contract_act_1872__s136",
-     "bharatiya_nyaya_sanhita_2023__s314"
+     "insurance_act_1938__s34B",
+     "digital_personal_data_protection_act_2023__s17"
     ]
    },
    "hybrid": {
@@ -370,10 +370,10 @@
      "industrial_relations_code_2020__s58",
      "consumer_protection_act_2019__s2",
      "indian_contract_act_1872__s200",
+     "insurance_act_1938__s3",
+     "insurance_act_1938__s53",
      "code_on_social_security_2020__s36",
-     "code_on_social_security_2020__s73",
-     "digital_personal_data_protection_act_2023__s17",
-     "code_on_social_security_2020__s88"
+     "code_on_social_security_2020__s73"
     ]
    },
    "pipeline": {
@@ -381,12 +381,12 @@
     "top": [
      "industrial_relations_code_2020__s58",
      "indian_contract_act_1872__s200",
+     "insurance_act_1938__s3",
+     "insurance_act_1938__s53",
      "code_on_social_security_2020__s36",
      "code_on_social_security_2020__s73",
-     "digital_personal_data_protection_act_2023__s17",
-     "code_on_social_security_2020__s88",
-     "indian_contract_act_1872__s136",
-     "bharatiya_nyaya_sanhita_2023__s314"
+     "insurance_act_1938__s34B",
+     "digital_personal_data_protection_act_2023__s17"
     ]
    }
   },
@@ -402,14 +402,14 @@
    "bm25": {
     "rank": null,
     "top": [
+     "indian_succession_act_1925__s142",
+     "indian_succession_act_1925__s152",
+     "indian_succession_act_1925__s154",
      "negotiable_instruments_act_1881__s4",
+     "indian_succession_act_1925__s150",
+     "indian_succession_act_1925__s161",
      "motor_vehicles_act_1988__s212",
-     "motor_vehicles_act_1988__s161",
-     "protection_of_women_from_domestic_violence_act_2005__s9",
-     "digital_personal_data_protection_act_2023__s38",
-     "bharatiya_sakshya_adhiniyam_2023__s132",
-     "bharatiya_sakshya_adhiniyam_2023__s147",
-     "bharatiya_nyaya_sanhita_2023__s308"
+     "banking_regulation_act_1949__s45D"
     ]
    },
    "dense": {
@@ -426,16 +426,16 @@
     ]
    },
    "hybrid": {
-    "rank": 4,
+    "rank": null,
     "top": [
      "protection_of_women_from_domestic_violence_act_2005__s9",
-     "protection_of_women_from_domestic_violence_act_2005__s2",
-     "protection_of_women_from_domestic_violence_act_2005__s10",
-     "protection_of_women_from_domestic_violence_act_2005__s3",
-     "negotiable_instruments_act_1881__s4",
+     "divorce_act_1869__s28",
+     "indian_succession_act_1925__s142",
      "protection_of_women_from_domestic_violence_act_2005__s6",
-     "motor_vehicles_act_1988__s212",
-     "protection_of_women_from_domestic_violence_act_2005__s7"
+     "indian_succession_act_1925__s152",
+     "protection_of_women_from_domestic_violence_act_2005__s7",
+     "indian_succession_act_1925__s154",
+     "bharatiya_nyaya_sanhita_2023__s225"
     ]
    },
    "pipeline": {
@@ -463,14 +463,14 @@
    "bm25": {
     "rank": null,
     "top": [
+     "indian_succession_act_1925__s142",
      "negotiable_instruments_act_1881__s4",
+     "indian_succession_act_1925__s152",
      "bharatiya_nyaya_sanhita_2023__s308",
+     "indian_succession_act_1925__s154",
      "maintenance_and_welfare_of_parents_and_senior_citizens_act_2007__s2",
      "bharatiya_sakshya_adhiniyam_2023__s7",
-     "bharatiya_nyaya_sanhita_2023__s338",
-     "bharatiya_sakshya_adhiniyam_2023__s147",
-     "sale_of_goods_act_1930__s44",
-     "transfer_of_property_act_1882__s13"
+     "indian_succession_act_1925__s150"
     ]
    },
    "dense": {
@@ -491,12 +491,12 @@
     "top": [
      "maintenance_and_welfare_of_parents_and_senior_citizens_act_2007__s2",
      "bharatiya_nyaya_sanhita_2023__s93",
-     "negotiable_instruments_act_1881__s4",
+     "indian_succession_act_1925__s116",
+     "hindu_adoptions_and_maintenance_act_1956__s11",
+     "indian_succession_act_1925__s142",
      "maintenance_and_welfare_of_parents_and_senior_citizens_act_2007__s9",
-     "bharatiya_nyaya_sanhita_2023__s308",
-     "maintenance_and_welfare_of_parents_and_senior_citizens_act_2007__s16",
-     "code_on_social_security_2020__s41",
-     "bharatiya_sakshya_adhiniyam_2023__s7"
+     "negotiable_instruments_act_1881__s4",
+     "maintenance_and_welfare_of_parents_and_senior_citizens_act_2007__s16"
     ]
    },
    "pipeline": {
@@ -528,49 +528,49 @@
      "motor_vehicles_act_1988__s116",
      "bharatiya_nagarik_suraksha_sanhita_2023__s411",
      "bharatiya_nagarik_suraksha_sanhita_2023__s291",
+     "indian_succession_act_1925__s190",
+     "indian_stamp_act_1899__s59",
      "bharatiya_nagarik_suraksha_sanhita_2023__s249",
-     "negotiable_instruments_act_1881__s115",
-     "bharatiya_nagarik_suraksha_sanhita_2023__s476",
-     "bharatiya_nagarik_suraksha_sanhita_2023__s449"
+     "negotiable_instruments_act_1881__s115"
     ]
    },
    "dense": {
     "rank": null,
     "top": [
      "bharatiya_nyaya_sanhita_2023__s46",
+     "indian_succession_act_1925__s142",
      "bharatiya_sakshya_adhiniyam_2023__s12",
      "bharatiya_sakshya_adhiniyam_2023__s108",
      "bharatiya_sakshya_adhiniyam_2023__s37",
      "bharatiya_sakshya_adhiniyam_2023__s26",
      "bharatiya_sakshya_adhiniyam_2023__s6",
-     "bharatiya_sakshya_adhiniyam_2023__s8",
-     "bharatiya_sakshya_adhiniyam_2023__s156"
+     "bharatiya_sakshya_adhiniyam_2023__s8"
     ]
    },
    "hybrid": {
     "rank": null,
     "top": [
-     "bharatiya_sakshya_adhiniyam_2023__s108",
      "bharatiya_nagarik_suraksha_sanhita_2023__s291",
+     "bharatiya_sakshya_adhiniyam_2023__s108",
      "sale_of_goods_act_1930__s12",
      "bharatiya_nyaya_sanhita_2023__s46",
      "motor_vehicles_act_1988__s116",
-     "bharatiya_sakshya_adhiniyam_2023__s12",
+     "indian_succession_act_1925__s142",
      "bharatiya_nagarik_suraksha_sanhita_2023__s411",
-     "bharatiya_nagarik_suraksha_sanhita_2023__s249"
+     "bharatiya_sakshya_adhiniyam_2023__s12"
     ]
    },
    "pipeline": {
     "rank": null,
     "top": [
      "bharatiya_nyaya_sanhita_2023__s46",
+     "indian_succession_act_1925__s142",
      "bharatiya_sakshya_adhiniyam_2023__s12",
      "bharatiya_sakshya_adhiniyam_2023__s108",
      "bharatiya_sakshya_adhiniyam_2023__s37",
      "bharatiya_sakshya_adhiniyam_2023__s26",
      "bharatiya_sakshya_adhiniyam_2023__s6",
-     "bharatiya_sakshya_adhiniyam_2023__s8",
-     "bharatiya_sakshya_adhiniyam_2023__s156"
+     "bharatiya_sakshya_adhiniyam_2023__s8"
     ]
    }
   },
@@ -585,14 +585,14 @@
    "bm25": {
     "rank": null,
     "top": [
+     "indian_succession_act_1925__s142",
+     "insurance_act_1938__s106",
+     "occupational_safety_health_and_working_conditions_code_2020__s85",
+     "indian_succession_act_1925__s154",
+     "indian_succession_act_1925__s161",
      "negotiable_instruments_act_1881__s4",
-     "industrial_relations_code_2020__s59",
-     "bharatiya_nyaya_sanhita_2023__s308",
-     "code_on_social_security_2020__s92",
-     "protection_of_women_from_domestic_violence_act_2005__s10",
-     "negotiable_instruments_act_1881__s130",
-     "indian_contract_act_1872__s133",
-     "transfer_of_property_act_1882__s83"
+     "indian_easements_act_1882__s13",
+     "indian_stamp_act_1899__s2"
     ]
    },
    "dense": {
@@ -613,12 +613,12 @@
     "top": [
      "negotiable_instruments_act_1881__s4",
      "negotiable_instruments_act_1881__s44",
-     "negotiable_instruments_act_1881__s45",
      "industrial_relations_code_2020__s59",
-     "bharatiya_nagarik_suraksha_sanhita_2023__s499",
+     "negotiable_instruments_act_1881__s45",
+     "indian_succession_act_1925__s142",
+     "insurance_act_1938__s106",
      "code_on_social_security_2020__s34",
-     "bharatiya_nyaya_sanhita_2023__s308",
-     "sexual_harassment_of_women_at_workplace_prevention_prohibition_and_redressal_act__s13"
+     "occupational_safety_health_and_working_conditions_code_2020__s85"
     ]
    },
    "pipeline": {
@@ -646,14 +646,14 @@
    "bm25": {
     "rank": null,
     "top": [
+     "indian_succession_act_1925__s81",
+     "indian_succession_act_1925__s142",
+     "indian_succession_act_1925__s76",
+     "indian_succession_act_1925__s150",
+     "indian_succession_act_1925__s152",
+     "indian_succession_act_1925__s222",
      "negotiable_instruments_act_1881__s4",
-     "indian_contract_act_1872__s29",
-     "bharatiya_sakshya_adhiniyam_2023__s101",
-     "bharatiya_nyaya_sanhita_2023__s308",
-     "bharatiya_nagarik_suraksha_sanhita_2023__s183",
-     "bharatiya_nyaya_sanhita_2023__s335",
-     "sexual_harassment_of_women_at_workplace_prevention_prohibition_and_redressal_act__s8",
-     "bharatiya_sakshya_adhiniyam_2023__s97"
+     "indian_succession_act_1925__s80"
     ]
    },
    "dense": {
@@ -672,14 +672,14 @@
    "hybrid": {
     "rank": null,
     "top": [
+     "indian_succession_act_1925__s81",
      "indian_contract_act_1872__s29",
      "bharatiya_nyaya_sanhita_2023__s335",
-     "indian_contract_act_1872__s194",
-     "negotiable_instruments_act_1881__s4",
+     "indian_succession_act_1925__s142",
      "bharatiya_nyaya_sanhita_2023__s344",
-     "bharatiya_sakshya_adhiniyam_2023__s101",
      "information_technology_act_2000__s66E",
-     "bharatiya_nyaya_sanhita_2023__s308"
+     "indian_succession_act_1925__s76",
+     "digital_personal_data_protection_act_2023__s6"
     ]
    },
    "pipeline": {
@@ -707,14 +707,14 @@
    "bm25": {
     "rank": null,
     "top": [
+     "indian_succession_act_1925__s142",
      "bharatiya_sakshya_adhiniyam_2023__s18",
+     "indian_succession_act_1925__s160",
      "code_on_social_security_2020__s15",
-     "indian_contract_act_1872__s227",
-     "bharatiya_nagarik_suraksha_sanhita_2023__s472",
-     "motor_vehicles_act_1988__s41",
+     "indian_succession_act_1925__s222",
      "right_to_information_act_2005__s26",
-     "right_to_information_act_2005__s16",
-     "bharatiya_nagarik_suraksha_sanhita_2023__s430"
+     "motor_vehicles_act_1988__s41",
+     "indian_contract_act_1872__s227"
     ]
    },
    "dense": {
@@ -738,9 +738,9 @@
      "right_to_information_act_2005__s16",
      "code_on_social_security_2020__s88",
      "right_to_information_act_2005__s13",
-     "bharatiya_sakshya_adhiniyam_2023__s18",
+     "indian_succession_act_1925__s142",
      "code_on_social_security_2020__s121",
-     "indian_contract_act_1872__s227"
+     "bharatiya_sakshya_adhiniyam_2023__s18"
     ]
    },
    "pipeline": {
@@ -768,14 +768,14 @@
    "bm25": {
     "rank": null,
     "top": [
+     "divorce_act_1869__s49",
+     "registration_act_1908__s89",
      "bharatiya_sakshya_adhiniyam_2023__s131",
-     "limitation_act_1963__s30",
-     "specific_relief_act_1963__s20",
-     "bharatiya_nagarik_suraksha_sanhita_2023__s481",
-     "bharatiya_sakshya_adhiniyam_2023__s49",
-     "negotiable_instruments_act_1881__s4",
-     "negotiable_instruments_act_1881__s106",
-     "legal_services_authorities_act_1987__s22C"
+     "indian_succession_act_1925__s54",
+     "indian_succession_act_1925__s30",
+     "registration_act_1908__s55",
+     "indian_succession_act_1925__s321",
+     "limitation_act_1963__s30"
     ]
    },
    "dense": {
@@ -786,9 +786,9 @@
      "bharatiya_nagarik_suraksha_sanhita_2023__s272",
      "right_to_information_act_2005__s19",
      "bharatiya_nagarik_suraksha_sanhita_2023__s39",
-     "bharatiya_nagarik_suraksha_sanhita_2023__s330",
-     "bharatiya_nagarik_suraksha_sanhita_2023__s356",
-     "real_estate_regulation_and_development_act_2016__s5"
+     "registration_act_1908__s21",
+     "banking_regulation_act_1949__s26",
+     "bharatiya_nagarik_suraksha_sanhita_2023__s330"
     ]
    },
    "hybrid": {
@@ -796,12 +796,12 @@
     "top": [
      "information_technology_act_2000__s25",
      "bharatiya_nagarik_suraksha_sanhita_2023__s330",
-     "information_technology_act_2000__s62",
+     "registration_act_1908__s89",
      "information_technology_act_2000__s57",
-     "maintenance_and_welfare_of_parents_and_senior_citizens_act_2007__s16",
-     "bharatiya_nagarik_suraksha_sanhita_2023__s290",
-     "motor_vehicles_act_1988__s50",
-     "digital_personal_data_protection_act_2023__s29"
+     "insurance_act_1938__s110",
+     "divorce_act_1869__s49",
+     "information_technology_act_2000__s62",
+     "bharatiya_sakshya_adhiniyam_2023__s131"
     ]
    },
    "pipeline": {
@@ -812,9 +812,9 @@
      "bharatiya_nagarik_suraksha_sanhita_2023__s272",
      "right_to_information_act_2005__s19",
      "bharatiya_nagarik_suraksha_sanhita_2023__s39",
-     "bharatiya_nagarik_suraksha_sanhita_2023__s330",
-     "bharatiya_nagarik_suraksha_sanhita_2023__s356",
-     "real_estate_regulation_and_development_act_2016__s5"
+     "registration_act_1908__s21",
+     "banking_regulation_act_1949__s26",
+     "bharatiya_nagarik_suraksha_sanhita_2023__s330"
     ]
    }
   },
@@ -828,53 +828,53 @@
    "bm25": {
     "rank": null,
     "top": [
+     "indian_succession_act_1925__s369",
      "motor_vehicles_act_1988__s25",
+     "indian_easements_act_1882__s17",
      "indian_contract_act_1872__s19",
+     "indian_succession_act_1925__s65",
      "motor_vehicles_act_1988__s201",
      "motor_vehicles_act_1988__s194E",
-     "protection_of_women_from_domestic_violence_act_2005__s24",
-     "real_estate_regulation_and_development_act_2016__s4",
-     "protection_of_women_from_domestic_violence_act_2005__s13",
-     "code_on_social_security_2020__s2"
+     "protection_of_women_from_domestic_violence_act_2005__s13"
     ]
    },
    "dense": {
-    "rank": 2,
+    "rank": 3,
     "top": [
      "bharatiya_nagarik_suraksha_sanhita_2023__s396",
+     "family_courts_act_1984__s23",
      "legal_services_authorities_act_1987__s12",
      "protection_of_women_from_domestic_violence_act_2005__s24",
+     "recovery_of_debts_and_bankruptcy_act_1993__s15",
      "bharatiya_nagarik_suraksha_sanhita_2023__s18",
-     "legal_services_authorities_act_1987__s18",
-     "legal_services_authorities_act_1987__s15",
-     "real_estate_regulation_and_development_act_2016__s46",
-     "bharatiya_nagarik_suraksha_sanhita_2023__s19"
+     "recovery_of_debts_and_bankruptcy_act_1993__s13",
+     "legal_services_authorities_act_1987__s18"
     ]
    },
    "hybrid": {
-    "rank": 6,
+    "rank": 8,
     "top": [
      "protection_of_women_from_domestic_violence_act_2005__s24",
      "motor_vehicles_act_1988__s25",
      "bharatiya_nagarik_suraksha_sanhita_2023__s404",
+     "indian_succession_act_1925__s369",
      "bharatiya_nagarik_suraksha_sanhita_2023__s396",
-     "indian_contract_act_1872__s19",
-     "legal_services_authorities_act_1987__s12",
-     "motor_vehicles_act_1988__s201",
-     "motor_vehicles_act_1988__s194E"
+     "family_courts_act_1984__s23",
+     "indian_easements_act_1882__s17",
+     "legal_services_authorities_act_1987__s12"
     ]
    },
    "pipeline": {
-    "rank": 2,
+    "rank": 3,
     "top": [
      "bharatiya_nagarik_suraksha_sanhita_2023__s396",
+     "family_courts_act_1984__s23",
      "legal_services_authorities_act_1987__s12",
      "protection_of_women_from_domestic_violence_act_2005__s24",
+     "recovery_of_debts_and_bankruptcy_act_1993__s15",
      "bharatiya_nagarik_suraksha_sanhita_2023__s18",
-     "legal_services_authorities_act_1987__s18",
-     "legal_services_authorities_act_1987__s15",
-     "real_estate_regulation_and_development_act_2016__s46",
-     "bharatiya_nagarik_suraksha_sanhita_2023__s19"
+     "recovery_of_debts_and_bankruptcy_act_1993__s13",
+     "legal_services_authorities_act_1987__s18"
     ]
    }
   },
@@ -890,13 +890,13 @@
     "rank": null,
     "top": [
      "sexual_harassment_of_women_at_workplace_prevention_prohibition_and_redressal_act__s3",
-     "transfer_of_property_act_1882__s123",
      "sexual_harassment_of_women_at_workplace_prevention_prohibition_and_redressal_act__s2",
+     "indian_succession_act_1925__s142",
+     "transfer_of_property_act_1882__s123",
+     "occupational_safety_health_and_working_conditions_code_2020__s38",
+     "indian_succession_act_1925__s222",
      "bharatiya_nagarik_suraksha_sanhita_2023__s43",
-     "bharatiya_nyaya_sanhita_2023__s75",
-     "sexual_harassment_of_women_at_workplace_prevention_prohibition_and_redressal_act__s25",
-     "industrial_relations_code_2020__s2",
-     "specific_relief_act_1963__s36"
+     "sexual_harassment_of_women_at_workplace_prevention_prohibition_and_redressal_act__s25"
     ]
    },
    "dense": {
@@ -913,13 +913,13 @@
     ]
    },
    "hybrid": {
-    "rank": 1,
+    "rank": 3,
     "top": [
+     "sexual_harassment_of_women_at_workplace_prevention_prohibition_and_redressal_act__s25",
+     "sexual_harassment_of_women_at_workplace_prevention_prohibition_and_redressal_act__s3",
      "sexual_harassment_of_women_at_workplace_prevention_prohibition_and_redressal_act__s4",
      "sexual_harassment_of_women_at_workplace_prevention_prohibition_and_redressal_act__s9",
-     "sexual_harassment_of_women_at_workplace_prevention_prohibition_and_redressal_act__s25",
      "sexual_harassment_of_women_at_workplace_prevention_prohibition_and_redressal_act__s19",
-     "sexual_harassment_of_women_at_workplace_prevention_prohibition_and_redressal_act__s3",
      "sexual_harassment_of_women_at_workplace_prevention_prohibition_and_redressal_act__s16",
      "sexual_harassment_of_women_at_workplace_prevention_prohibition_and_redressal_act__s17",
      "sexual_harassment_of_women_at_workplace_prevention_prohibition_and_redressal_act__s2"
@@ -955,8 +955,8 @@
      "dowry_prohibition_act_1961__s8A",
      "dowry_prohibition_act_1961__s3",
      "code_on_social_security_2020__s161",
-     "industrial_relations_code_2020__s76",
      "dowry_prohibition_act_1961__s2",
+     "indian_succession_act_1925__s142",
      "dowry_prohibition_act_1961__s6"
     ]
    },
@@ -965,12 +965,12 @@
     "top": [
      "dowry_prohibition_act_1961__s4",
      "dowry_prohibition_act_1961__s3",
+     "divorce_act_1869__s10",
+     "special_marriage_act_1954__s36",
      "bharatiya_nyaya_sanhita_2023__s80",
-     "dowry_prohibition_act_1961__s2",
-     "dowry_prohibition_act_1961__s5",
-     "dowry_prohibition_act_1961__s6",
-     "bharatiya_nyaya_sanhita_2023__s83",
-     "bharatiya_nagarik_suraksha_sanhita_2023__s146"
+     "divorce_act_1869__s36",
+     "special_marriage_act_1954__s29",
+     "dowry_prohibition_act_1961__s2"
     ]
    },
    "hybrid": {
@@ -979,11 +979,11 @@
      "dowry_prohibition_act_1961__s4",
      "dowry_prohibition_act_1961__s3",
      "dowry_prohibition_act_1961__s2",
-     "dowry_prohibition_act_1961__s6",
      "bharatiya_nyaya_sanhita_2023__s80",
-     "dowry_prohibition_act_1961__s8A",
+     "dowry_prohibition_act_1961__s6",
      "bharatiya_sakshya_adhiniyam_2023__s118",
-     "dowry_prohibition_act_1961__s8B"
+     "dowry_prohibition_act_1961__s5",
+     "hindu_marriage_act_1955__s13B"
     ]
    },
    "pipeline": {
@@ -991,12 +991,12 @@
     "top": [
      "dowry_prohibition_act_1961__s4",
      "dowry_prohibition_act_1961__s3",
+     "divorce_act_1869__s10",
+     "special_marriage_act_1954__s36",
      "bharatiya_nyaya_sanhita_2023__s80",
-     "dowry_prohibition_act_1961__s2",
-     "dowry_prohibition_act_1961__s5",
-     "dowry_prohibition_act_1961__s6",
-     "bharatiya_nyaya_sanhita_2023__s83",
-     "bharatiya_nagarik_suraksha_sanhita_2023__s146"
+     "divorce_act_1869__s36",
+     "special_marriage_act_1954__s29",
+     "dowry_prohibition_act_1961__s2"
     ]
    }
   },
@@ -1011,14 +1011,14 @@
    "bm25": {
     "rank": null,
     "top": [
-     "negotiable_instruments_act_1881__s4",
-     "bharatiya_nyaya_sanhita_2023__s308",
-     "bharatiya_sakshya_adhiniyam_2023__s99",
-     "sexual_harassment_of_women_at_workplace_prevention_prohibition_and_redressal_act__s8",
-     "bharatiya_sakshya_adhiniyam_2023__s98",
-     "bharatiya_nyaya_sanhita_2023__s315",
-     "indian_contract_act_1872__s29",
-     "bharatiya_sakshya_adhiniyam_2023__s97"
+     "indian_succession_act_1925__s142",
+     "indian_succession_act_1925__s160",
+     "indian_succession_act_1925__s80",
+     "indian_succession_act_1925__s81",
+     "indian_succession_act_1925__s152",
+     "indian_succession_act_1925__s150",
+     "indian_succession_act_1925__s222",
+     "indian_succession_act_1925__s78"
     ]
    },
    "dense": {
@@ -1035,16 +1035,16 @@
     ]
    },
    "hybrid": {
-    "rank": null,
+    "rank": 7,
     "top": [
      "specific_relief_act_1963__s28",
      "specific_relief_act_1963__s22",
      "transfer_of_property_act_1882__s60",
      "specific_relief_act_1963__s8",
      "transfer_of_property_act_1882__s127",
-     "bharatiya_nagarik_suraksha_sanhita_2023__s499",
-     "bharatiya_nyaya_sanhita_2023__s317",
-     "negotiable_instruments_act_1881__s4"
+     "indian_succession_act_1925__s142",
+     "real_estate_regulation_and_development_act_2016__s18",
+     "indian_succession_act_1925__s160"
     ]
    },
    "pipeline": {
@@ -1075,10 +1075,10 @@
      "bharatiya_sakshya_adhiniyam_2023__s12",
      "code_on_social_security_2020__s82",
      "motor_vehicles_act_1988__s161",
-     "negotiable_instruments_act_1881__s4",
-     "limitation_act_1963__s3",
-     "motor_vehicles_act_1988__s160",
-     "motor_vehicles_act_1988__s134"
+     "indian_succession_act_1925__s222",
+     "indian_succession_act_1925__s101",
+     "indian_succession_act_1925__s142",
+     "indian_succession_act_1925__s102"
     ]
    },
    "dense": {
@@ -1100,11 +1100,11 @@
      "motor_vehicles_act_1988__s164B",
      "motor_vehicles_act_1988__s161",
      "motor_vehicles_act_1988__s166",
-     "motor_vehicles_act_1988__s160",
      "code_on_social_security_2020__s82",
+     "motor_vehicles_act_1988__s160",
      "motor_vehicles_act_1988__s172",
-     "motor_vehicles_act_1988__s167",
-     "motor_vehicles_act_1988__s164"
+     "motor_vehicles_act_1988__s164",
+     "motor_vehicles_act_1988__s167"
     ]
    },
    "pipeline": {
@@ -1131,53 +1131,53 @@
    "bm25": {
     "rank": null,
     "top": [
+     "registration_act_1908__s71",
+     "indian_succession_act_1925__s150",
      "bharatiya_nagarik_suraksha_sanhita_2023__s172",
-     "sale_of_goods_act_1930__s44",
-     "indian_contract_act_1872__s29",
-     "code_on_social_security_2020__s99",
-     "bharatiya_nyaya_sanhita_2023__s113",
-     "bharatiya_nyaya_sanhita_2023__s106",
-     "code_on_social_security_2020__s42",
-     "bharatiya_nyaya_sanhita_2023__s215"
+     "indian_succession_act_1925__s142",
+     "indian_succession_act_1925__s81",
+     "indian_succession_act_1925__s222",
+     "indian_succession_act_1925__s152",
+     "registration_act_1908__s72"
     ]
    },
    "dense": {
-    "rank": 7,
+    "rank": null,
     "top": [
      "motor_vehicles_act_1988__s48",
      "motor_vehicles_act_1988__s45",
-     "bharatiya_nagarik_suraksha_sanhita_2023__s39",
-     "bharatiya_nagarik_suraksha_sanhita_2023__s35",
-     "bharatiya_nagarik_suraksha_sanhita_2023__s225",
-     "bharatiya_nagarik_suraksha_sanhita_2023__s86",
-     "bharatiya_nagarik_suraksha_sanhita_2023__s173",
-     "bharatiya_nagarik_suraksha_sanhita_2023__s58"
+     "registration_act_1908__s71",
+     "occupational_safety_health_and_working_conditions_code_2020__s3",
+     "registration_act_1908__s73",
+     "insurance_act_1938__s42D",
+     "registration_act_1908__s76",
+     "registration_act_1908__s86"
     ]
    },
    "hybrid": {
     "rank": null,
     "top": [
+     "registration_act_1908__s71",
+     "registration_act_1908__s76",
+     "registration_act_1908__s72",
      "motor_vehicles_act_1988__s48",
-     "bharatiya_nyaya_sanhita_2023__s215",
+     "registration_act_1908__s73",
      "bharatiya_nagarik_suraksha_sanhita_2023__s35",
-     "bharatiya_nyaya_sanhita_2023__s106",
-     "protection_of_women_from_domestic_violence_act_2005__s10",
-     "bharatiya_nyaya_sanhita_2023__s337",
-     "motor_vehicles_act_1988__s206",
-     "bharatiya_nagarik_suraksha_sanhita_2023__s172"
+     "insurance_act_1938__s3",
+     "bharatiya_nyaya_sanhita_2023__s215"
     ]
    },
    "pipeline": {
-    "rank": 7,
+    "rank": null,
     "top": [
      "motor_vehicles_act_1988__s48",
      "motor_vehicles_act_1988__s45",
-     "bharatiya_nagarik_suraksha_sanhita_2023__s39",
-     "bharatiya_nagarik_suraksha_sanhita_2023__s35",
-     "bharatiya_nagarik_suraksha_sanhita_2023__s225",
-     "bharatiya_nagarik_suraksha_sanhita_2023__s86",
-     "bharatiya_nagarik_suraksha_sanhita_2023__s173",
-     "bharatiya_nagarik_suraksha_sanhita_2023__s58"
+     "registration_act_1908__s71",
+     "occupational_safety_health_and_working_conditions_code_2020__s3",
+     "registration_act_1908__s73",
+     "insurance_act_1938__s42D",
+     "registration_act_1908__s76",
+     "registration_act_1908__s86"
     ]
    }
   },
@@ -1191,14 +1191,14 @@
    "bm25": {
     "rank": null,
     "top": [
+     "indian_succession_act_1925__s142",
+     "indian_succession_act_1925__s152",
+     "indian_succession_act_1925__s150",
+     "indian_succession_act_1925__s160",
+     "indian_succession_act_1925__s100",
      "negotiable_instruments_act_1881__s4",
-     "bharatiya_nyaya_sanhita_2023__s232",
-     "indian_contract_act_1872__s29",
-     "bharatiya_sakshya_adhiniyam_2023__s98",
-     "bharatiya_nyaya_sanhita_2023__s336",
-     "bharatiya_sakshya_adhiniyam_2023__s147",
-     "bharatiya_sakshya_adhiniyam_2023__s97",
-     "bharatiya_nyaya_sanhita_2023__s308"
+     "indian_succession_act_1925__s81",
+     "indian_succession_act_1925__s154"
     ]
    },
    "dense": {
@@ -1221,10 +1221,10 @@
      "bharatiya_nyaya_sanhita_2023__s318",
      "bharatiya_nyaya_sanhita_2023__s356",
      "bharatiya_sakshya_adhiniyam_2023__s147",
-     "bharatiya_nyaya_sanhita_2023__s228",
      "bharatiya_nagarik_suraksha_sanhita_2023__s359",
-     "bharatiya_nyaya_sanhita_2023__s175",
-     "bharatiya_nyaya_sanhita_2023__s227"
+     "bharatiya_nyaya_sanhita_2023__s351",
+     "indian_succession_act_1925__s142",
+     "bharatiya_nyaya_sanhita_2023__s217"
     ]
    },
    "pipeline": {
@@ -1252,13 +1252,13 @@
     "rank": null,
     "top": [
      "bharatiya_sakshya_adhiniyam_2023__s12",
+     "occupational_safety_health_and_working_conditions_code_2020__s47",
      "code_on_wages_2019__s2",
+     "occupational_safety_health_and_working_conditions_code_2020__s2",
      "code_on_social_security_2020__s2",
      "code_on_social_security_2020__s51",
-     "code_on_social_security_2020__s85",
-     "code_on_social_security_2020__s62",
-     "specific_relief_act_1963__s40",
-     "code_on_social_security_2020__s49"
+     "occupational_safety_health_and_working_conditions_code_2020__s24",
+     "specific_relief_act_1963__s40"
     ]
    },
    "dense": {
@@ -1266,25 +1266,25 @@
     "top": [
      "industrial_relations_code_2020__s75",
      "indian_contract_act_1872__s222",
+     "indian_easements_act_1882__s50",
      "code_on_social_security_2020__s75",
      "code_on_social_security_2020__s82",
      "specific_relief_act_1963__s40",
      "code_on_social_security_2020__s74",
-     "indian_contract_act_1872__s125",
-     "industrial_relations_code_2020__s91"
+     "indian_contract_act_1872__s125"
     ]
    },
    "hybrid": {
     "rank": null,
     "top": [
      "specific_relief_act_1963__s40",
-     "code_on_social_security_2020__s85",
-     "code_on_social_security_2020__s82",
+     "occupational_safety_health_and_working_conditions_code_2020__s50",
      "code_on_social_security_2020__s74",
+     "code_on_social_security_2020__s85",
      "code_on_social_security_2020__s77",
-     "indian_contract_act_1872__s222",
-     "code_on_social_security_2020__s49",
-     "indian_contract_act_1872__s125"
+     "code_on_social_security_2020__s82",
+     "occupational_safety_health_and_working_conditions_code_2020__s55",
+     "bharatiya_sakshya_adhiniyam_2023__s12"
     ]
    },
    "pipeline": {
@@ -1292,12 +1292,12 @@
     "top": [
      "industrial_relations_code_2020__s75",
      "indian_contract_act_1872__s222",
+     "indian_easements_act_1882__s50",
      "code_on_social_security_2020__s75",
      "code_on_social_security_2020__s82",
      "specific_relief_act_1963__s40",
      "code_on_social_security_2020__s74",
-     "indian_contract_act_1872__s125",
-     "industrial_relations_code_2020__s91"
+     "indian_contract_act_1872__s125"
     ]
    }
   },
@@ -1311,14 +1311,14 @@
    "bm25": {
     "rank": null,
     "top": [
+     "hindu_minority_and_guardianship_act_1956__s11",
      "bharatiya_nyaya_sanhita_2023__s101",
      "motor_vehicles_act_1988__s65",
      "industrial_relations_code_2020__s92",
-     "bharatiya_nagarik_suraksha_sanhita_2023__s99",
      "real_estate_regulation_and_development_act_2016__s7",
+     "bharatiya_nagarik_suraksha_sanhita_2023__s99",
      "bharatiya_nagarik_suraksha_sanhita_2023__s244",
-     "industrial_relations_code_2020__s51",
-     "limitation_act_1963__s6"
+     "industrial_relations_code_2020__s51"
     ]
    },
    "dense": {
@@ -1327,24 +1327,24 @@
      "bharatiya_nyaya_sanhita_2023__s252",
      "bharatiya_nyaya_sanhita_2023__s212",
      "bharatiya_nyaya_sanhita_2023__s303",
+     "indian_succession_act_1925__s186",
      "bharatiya_nyaya_sanhita_2023__s30",
      "bharatiya_nyaya_sanhita_2023__s139",
      "bharatiya_nyaya_sanhita_2023__s356",
-     "bharatiya_sakshya_adhiniyam_2023__s152",
-     "bharatiya_nyaya_sanhita_2023__s27"
+     "indian_succession_act_1925__s139"
     ]
    },
    "hybrid": {
     "rank": null,
     "top": [
-     "bharatiya_nyaya_sanhita_2023__s101",
+     "hindu_minority_and_guardianship_act_1956__s11",
      "bharatiya_nyaya_sanhita_2023__s252",
-     "motor_vehicles_act_1988__s65",
+     "bharatiya_nyaya_sanhita_2023__s101",
      "bharatiya_nyaya_sanhita_2023__s212",
-     "industrial_relations_code_2020__s92",
+     "motor_vehicles_act_1988__s65",
      "bharatiya_nyaya_sanhita_2023__s303",
-     "bharatiya_nagarik_suraksha_sanhita_2023__s99",
-     "bharatiya_nyaya_sanhita_2023__s30"
+     "industrial_relations_code_2020__s92",
+     "indian_succession_act_1925__s186"
     ]
    },
    "pipeline": {
@@ -1353,15 +1353,15 @@
      "bharatiya_nyaya_sanhita_2023__s252",
      "bharatiya_nyaya_sanhita_2023__s212",
      "bharatiya_nyaya_sanhita_2023__s303",
+     "indian_succession_act_1925__s186",
      "bharatiya_nyaya_sanhita_2023__s30",
      "bharatiya_nyaya_sanhita_2023__s139",
      "bharatiya_nyaya_sanhita_2023__s356",
-     "bharatiya_sakshya_adhiniyam_2023__s152",
-     "bharatiya_nyaya_sanhita_2023__s27"
+     "indian_succession_act_1925__s139"
     ]
    }
   }
  ],
  "model": null,
- "time": "2026-11-08 03:58"
+ "time": "2026-11-08 18:56"
 }

@@ -5,7 +5,7 @@ The whole RAG loop for one turn of conversation:
   -> check citations (code) -> answer + sources + warnings
 """
 
-from . import guardrails, llm
+from . import agents, guardrails, llm
 from .retrieve import retrieve
 
 SYSTEM_PROMPT = """You are "Nyaya Saathi", a legal-help assistant for ordinary people in India.
@@ -31,7 +31,7 @@ RULES ABOUT LAW (STRICT)
   does not clearly meet those conditions, do not use that section; say the sources may not cover it.
 - Never cite a section, Act, rule, or court case that is not in SOURCES. Never use IPC/CrPC/Indian Evidence Act numbers (they were replaced in 2024 by BNS/BNSS/BSA).
 - If SOURCES do not cover the question, say plainly: "I could not find the law on this in my sources" and suggest a lawyer or free legal aid (NALSA helpline 15100).
-- Practical, non-legal facts (helplines, portals) are fine if you are sure: National Consumer Helpline 1915 / e-Daakhil portal for consumer complaints, cybercrime 1930 / cybercrime.gov.in, police 112, women's helpline 181, NALSA legal aid 15100.
+- Practical, non-legal facts (helplines, portals) are fine if you are sure: National Consumer Helpline 1915 / e-jagriti.gov.in for consumer complaints, cybercrime 1930 / cybercrime.gov.in, police 112, women's helpline 181, NALSA legal aid 15100.
 - State-specific rules (rent, stamp duty, etc.) vary; say so instead of guessing.
 - Never promise an outcome."""
 
@@ -54,12 +54,17 @@ def detect_language(text):
     return "English"
 
 
-# ------------------------------------------------------- clarifying questions
-CLARIFY_PROMPT = """You decide whether a person's description of a legal problem in India has the facts needed for
-accurate guidance. Ask ONLY about facts that would change the legal answer, such as:
-what exactly happened; when (dates); how much money; who the other party is (company, person, employer,
-builder, government office); whether there is a written agreement, bill or receipt; what they already tried;
-and the state, ONLY for state-specific matters such as rent or tenancy.
+HINGLISH = "Hinglish (Hindi written in English/Latin letters, NOT Devanagari)"
+
+
+# --------------------------------------------- intake: pick the agent, ask its questions
+INTAKE_PROMPT = """You are the front desk of an Indian legal-help service with specialist agents.
+
+1. Choose the one agent that fits the person's latest problem:
+AGENT_MENU
+
+2. As that specialist, decide whether the description has the facts needed for accurate guidance.
+Ask ONLY about facts that would change the legal answer, starting from that agent's "Facts that matter".
 
 Rules:
 - Never ask about something already stated in the conversation.
@@ -69,32 +74,37 @@ Rules:
 - At most 3 questions, most important first. One fact per question, under 12 words.
 - Give 2-4 short answer options when the answer is a choice (e.g. Yes / No); otherwise options = [].
 - Write the questions and options in LANGUAGE.
-Return ONLY JSON: {"questions": [{"q": "...", "options": ["...", "..."]}]}"""
+Return ONLY JSON: {"agent": "<agent key>", "questions": [{"q": "...", "options": ["...", "..."]}]}"""
 
 
-def clarifying_questions(history, max_q=3):
+def intake(history, pinned=None, language=None, max_q=3):
     """
-    Returns [] when the description is complete enough, or up to `max_q` questions
-    ({"q": str, "options": [str]}) for the UI to ask one at a time.
-    Never delays urgent situations, and fails open (no questions) if the model errors.
+    Returns {"agent": key, "questions": [{"q": str, "options": [str]}]}.
+    pinned: the agent the person chose themselves; it isn't overruled.
+    Urgent situations skip the LLM and the questions. Fails open: keywords pick the agent, no questions.
     """
     latest = [m["content"] for m in history if m["role"] == "user"][-1]
+    fallback = pinned or agents.route_keywords(latest)
     if any(f["type"] in ("danger", "arrest_court") for f in guardrails.triage(latest)):
-        return []
+        return {"agent": fallback, "questions": []}
+    menu = agents.router_menu()
+    if pinned:
+        a = agents.get(pinned)
+        menu = f"- {pinned}: {a['route']}. Facts that matter: {a['asks']}."
+    system = INTAKE_PROMPT.replace("AGENT_MENU", menu).replace("LANGUAGE", language or detect_language(latest))
     convo = "\n".join(f"{m['role'].upper()}: {m['content']}" for m in history[-6:])
     try:
-        out = llm.chat_json([
-            {"role": "system", "content": CLARIFY_PROMPT.replace("LANGUAGE", detect_language(latest))},
-            {"role": "user", "content": convo},
-        ], max_tokens=1500)
+        out = llm.chat_json([{"role": "system", "content": system}, {"role": "user", "content": convo}],
+                            max_tokens=1500)
     except Exception:
-        return []
+        return {"agent": fallback, "questions": []}
     questions = []
     for item in out.get("questions", [])[:max_q]:
         if isinstance(item, dict) and isinstance(item.get("q"), str) and item["q"].strip():
             opts = [o for o in item.get("options", []) if isinstance(o, str) and o.strip()][:4]
             questions.append({"q": item["q"].strip(), "options": opts})
-    return questions
+    agent = pinned or (out.get("agent") if out.get("agent") in agents.AGENTS else fallback)
+    return {"agent": agent, "questions": questions}
 
 
 def with_details(text, qa_pairs):
@@ -111,9 +121,11 @@ def format_sources(sources):
     )
 
 
-def answer(history, k=8):
+def answer(history, k=8, agent=None, language=None):
     """
     history: list of {"role": "user"|"assistant", "content": str}, last item = latest user message.
+    agent: the specialist to use; chosen by intake() if not given.
+    language: the reply language, e.g. HINGLISH for Hindi speech; otherwise detected from the text.
     Returns a dict with the answer and everything needed to audit it.
     """
     user_turns = [m["content"] for m in history if m["role"] == "user"]
@@ -121,12 +133,15 @@ def answer(history, k=8):
     # Search on the recent conversation so follow-ups ("what if he still refuses?") keep context.
     search_text = " ".join(user_turns[-3:])
 
-    flags = guardrails.triage(latest)
-    sources, rewrite = retrieve(search_text, k=k)
+    language = language or detect_language(latest)
+    flags = guardrails.triage(latest, language)
+    agent = agent or intake(history, language=language)["agent"]
+    specialist = agents.get(agent)
+    sources, rewrite = retrieve(search_text, k=k, agent=agent)
 
-    language = detect_language(latest)
     messages = [
         {"role": "system", "content": SYSTEM_PROMPT
+         + f"\n\nYOUR SPECIALITY: {specialist['name']} law. {specialist['guidance']}"
          + "\n\nCITATION FORMAT: use the tag exactly, e.g. [consumer_protection_act_2019__s35]. "
            "Do not translate or rewrite tags."
          + "\n\nSOURCES\n" + format_sources(sources)
@@ -138,6 +153,7 @@ def answer(history, k=8):
 
     return {
         "answer": checked,
+        "agent": agent,
         "cited_sources": cited,
         "retrieved": sources,
         "flags": flags,
@@ -183,10 +199,10 @@ SOURCES
 {sources}"""
 
 
-def draft_document(history, doc_type, language="English", k=8):
+def draft_document(history, doc_type, language="English", k=8, agent=None):
     convo = "\n".join(f"{m['role'].upper()}: {m['content']}" for m in history)
     user_text = " ".join(m["content"] for m in history if m["role"] == "user")
-    sources, _ = retrieve(f"{doc_type}. {user_text[-1500:]}", k=k)
+    sources, _ = retrieve(f"{doc_type}. {user_text[-1500:]}", k=k, agent=agent)
     prompt = DRAFT_PROMPT.format(doc=DOC_TYPES[doc_type], language=language, sources=format_sources(sources))
     raw = llm.chat([{"role": "system", "content": prompt},
                     {"role": "user", "content": "CONVERSATION:\n" + convo}], temperature=0.2)

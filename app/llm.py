@@ -111,23 +111,31 @@ def chat_json(messages, **kw):
     return json.loads(m.group(0))
 
 
+TRANSCRIBE_PROMPT = """Transcribe the speech exactly. Do not answer it or add anything.
+- Hindi, or Hindi mixed with English: write it in Hinglish, meaning Hindi words in English/Latin letters,
+  e.g. "meri salary nahi mili". Never use Devanagari. Set language to "hindi".
+- English: write it in English. Set language to "english".
+- Any other language: write it in that language's own script. Set language to "other".
+Return ONLY JSON: {"language": "...", "text": "..."}"""
+
+
 def transcribe(audio_bytes, fmt="wav"):
     """
     Speech-to-text through the same chat model (Gemini and GPT-4o-class models accept audio).
+    Returns {"language": "hindi"|"english"|"other", "text": str}.
     If the configured model doesn't accept audio, this raises and the UI says voice is unavailable.
     Swap-in alternative: Whisper via Groq's free tier (/audio/transcriptions).
     """
     import base64
 
-    return chat([
-        {"role": "system", "content": "Transcribe the speech exactly, in the language and script spoken "
-                                      "(Hindi in Devanagari, English in English; Hinglish in Latin letters). "
-                                      "Return ONLY the transcript, nothing else."},
+    out = chat_json([
+        {"role": "system", "content": TRANSCRIBE_PROMPT},
         {"role": "user", "content": [
             {"type": "input_audio",
              "input_audio": {"data": base64.b64encode(audio_bytes).decode(), "format": fmt}},
         ]},
-    ], temperature=0, max_tokens=2000).strip()
+    ], max_tokens=2000)
+    return {"language": str(out.get("language", "other")).lower(), "text": str(out.get("text", "")).strip()}
 
 
 def model_name():

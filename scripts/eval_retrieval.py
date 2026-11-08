@@ -68,6 +68,7 @@ def main():
         if not r["pipeline"]["rank"]:
             lines.append(f"       got: {', '.join(r['pipeline']['top'][:3])}")
     report = "\n".join(lines)
+    sys.stdout.reconfigure(encoding="utf-8")  # Hindi on a Windows console
     print(report)
 
     out = ROOT / "raw_outputs"

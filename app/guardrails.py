@@ -13,20 +13,19 @@ import re
 # ---------------------------------------------------------------- 1. triage
 URGENT = {
     "danger": (r"\b(kill|murder|suicide|beat(ing|s)? me|hit(s|ting)? me|threat(en)?|attack|weapon|"
-               r"maar|maarta|maarti|jaan se|khudkushi|aatmahatya|dhamki)\b",
+               r"maar|maarta|maarti|maarte|marta|marti|marte|peet(ta|ti|te)|pitai|jaan se|khudkushi|aatmahatya|dhamki)\b",
                "If you are in immediate danger, call 112 (police). For women in distress: 181. "
                "If you are having thoughts of self-harm, please call Tele-MANAS 14416."),
     "arrest_court": (r"\b(arrest(ed)?|police (took|custody|station)|summons|warrant|bail|court date|hearing|"
-                     r"FIR (against|on) me|giraftar|zamanat|peshi)\b",
+                     r"FIR (against|on) me|giraftar|girftar|zamanat|peshi)\b",
                      "This involves police or court proceedings with deadlines. Please speak to a lawyer "
                      "today. Free legal aid: call NALSA 15100 or visit your District Legal Services Authority."),
-    "cyber_fraud": (r"\b(otp|upi fraud|money (was )?debited|scam(med)?|fraud call|hack(ed)?)\b",
+    "cyber_fraud": (r"\b(otp|upi fraud|money (was )?debited|scam(med)?|fraud call|hack(ed)?|thagi|paise kat(e|gaye))\b",
                     "For online financial fraud, report immediately at 1930 or cybercrime.gov.in; "
                     "speed matters for freezing the money."),
 }
 
-OUT_OF_SCOPE = (r"\b(divorce|custody of (my )?child|talaq|will|inheritance|property partition|"
-                r"immigration|visa|patent|trademark|tax notice|income tax|gst)\b")
+OUT_OF_SCOPE = r"\b(immigration|visa|patent|trademark|tax notice|income tax|gst)\b"
 
 
 # Devanagari patterns: no \b, because Python's \b breaks on Hindi vowel signs.
@@ -48,17 +47,33 @@ MESSAGES_HI = {
 }
 
 
-def triage(text):
+# Same warnings in Hinglish, shown for Hinglish messages and for Hindi speech.
+MESSAGES_HINGLISH = {
+    "danger": "Agar aap abhi khatre mein hain, turant 112 (police) par call karein. Mahilaon ke liye helpline: 181. "
+              "Agar mann mein khud ko nuksan pahunchane ke khayal aa rahe hain, Tele-MANAS 14416 par call karein.",
+    "arrest_court": "Yeh mamla police ya court se juda hai aur isme deadlines hoti hain. Aaj hi vakeel se baat karein. "
+                    "Free legal aid: NALSA 15100 ya apna District Legal Services Authority.",
+    "cyber_fraud": "Online fraud ki shikayat turant 1930 ya cybercrime.gov.in par karein; jaldi karne se paisa roka "
+                   "ja sakta hai.",
+    "out_of_scope": "Yeh vishay is assistant ke daayre se bahar hai. Kripya vakeel se salah lein; free legal aid: "
+                    "NALSA 15100.",
+}
+
+
+def triage(text, language=None):
+    """language: the reply language, when the caller knows it. Otherwise follow the script of the text."""
     flags = []
-    hindi = bool(re.search(r"[ऀ-ॿ]", text))
+    hinglish = bool(language and language.startswith("Hinglish"))
+    hindi = not hinglish and bool(re.search(r"[ऀ-ॿ]", text))
+    translated = MESSAGES_HINGLISH if hinglish else MESSAGES_HI if hindi else None
     for name, (pattern, message) in URGENT.items():
         if re.search(pattern, text, re.I) or re.search(URGENT_HI[name], text):
-            flags.append({"type": name, "message": MESSAGES_HI[name] if hindi else message})
+            flags.append({"type": name, "message": translated[name] if translated else message})
     if re.search(OUT_OF_SCOPE, text, re.I):
         flags.append({"type": "out_of_scope",
-                      "message": MESSAGES_HI["out_of_scope"] if hindi else
+                      "message": translated["out_of_scope"] if translated else
                       "This topic is outside what this assistant covers reliably "
-                      "(family/succession/tax/IP law are not in its knowledge base). "
+                      "(tax and intellectual property law are not in its knowledge base). "
                       "Please consult a lawyer; free legal aid: NALSA 15100."})
     return flags
 

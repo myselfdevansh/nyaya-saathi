@@ -76,6 +76,37 @@ ACTS = [
     "The Legal Services Authorities Act, 1987",
     # Accidents
     "The Motor Vehicles Act, 1988",
+    # Family law agent
+    "The Hindu Marriage Act, 1955",
+    "The Special Marriage Act, 1954",
+    "The Divorce Act, 1869",
+    "The Dissolution of Muslim Marriages Act, 1939",
+    "The Muslim Women (Protection of Rights on Marriage) Act, 2019",
+    "The Hindu Adoptions and Maintenance Act, 1956",
+    "The Hindu Minority and Guardianship Act, 1956",
+    "The Guardians and Wards Act, 1890",
+    "The Family Courts Act, 1984",
+    "The Hindu Succession Act, 1956",
+    "The Indian Succession Act, 1925",
+    "The Prohibition of Child Marriage Act, 2006",
+    # Banking & financial consumer agent
+    "The Banking Regulation Act, 1949",
+    "The Reserve Bank of India Act, 1934",
+    "The Payment and Settlement Systems Act, 2007",
+    "The Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest Act, 2002",
+    "The Recovery of Debts and Bankruptcy Act, 1993",
+    "The Credit Information Companies (Regulation) Act, 2005",
+    "The Banning of Unregulated Deposit Schemes Act, 2019",
+    # Consumer agent: insurance
+    "The Insurance Act, 1938",
+    # Property agent
+    "The Registration Act, 1908",
+    "The Indian Stamp Act, 1899",
+    "The Indian Easements Act, 1882",
+    "The Partition Act, 1893",
+    "The Code of Civil Procedure, 1908",
+    # Employment agent
+    "The Occupational Safety, Health and Working Conditions Code, 2020",
 ]
 
 PAGE_SIZE = 100
@@ -225,6 +256,11 @@ def main(titles):
         for recs in all_records.values():
             for r in recs:
                 f.write(json.dumps(r, ensure_ascii=False) + "\n")
+    # When fetching a subset, keep the manifest rows of the other Acts.
+    if manifest_path.exists() and titles != ACTS:
+        fetched = {m["act"] for m in manifest}
+        with manifest_path.open(newline="", encoding="utf-8") as f:
+            manifest = [r for r in csv.DictReader(f) if r["act"] not in fetched] + manifest
     with manifest_path.open("w", newline="", encoding="utf-8") as f:
         w = csv.DictWriter(f, fieldnames=["act", "status", "sections", "empty_text", "act_id"])
         w.writeheader()

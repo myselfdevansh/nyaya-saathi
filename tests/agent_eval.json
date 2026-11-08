@@ -1,0 +1,34 @@
+[
+  {"q": "Amazon has not refunded me for a defective phone I returned last month.", "agent": "consumer", "lang": "en"},
+  {"q": "The insurance company rejected my health claim without giving a reason.", "agent": "consumer", "lang": "en"},
+  {"q": "Online seller ne galat saman bheja aur ab refund nahi de raha hai", "agent": "consumer", "lang": "hinglish"},
+  {"q": "दुकानदार ने खराब फ्रिज बेचा और अब बदल नहीं रहा है", "agent": "consumer", "lang": "hi"},
+
+  {"q": "My landlord is not returning my security deposit after I moved out.", "agent": "property", "lang": "en"},
+  {"q": "My neighbour has built a wall on part of my plot.", "agent": "property", "lang": "en"},
+  {"q": "Makan malik bina notice ke ghar khali karne ko bol raha hai", "agent": "property", "lang": "hinglish"},
+  {"q": "बिल्डर ने तीन साल से फ्लैट का कब्जा नहीं दिया", "agent": "property", "lang": "hi"},
+
+  {"q": "My employer has not paid my salary for three months.", "agent": "employment", "lang": "en"},
+  {"q": "I was fired without notice after complaining to my manager.", "agent": "employment", "lang": "en"},
+  {"q": "Company ne mera bonus aur full and final abhi tak nahi diya", "agent": "employment", "lang": "hinglish"},
+  {"q": "मेरे मैनेजर ऑफिस में मुझे गलत तरीके से छूते हैं", "agent": "employment", "lang": "hi"},
+
+  {"q": "Someone made a fake Instagram profile with my photos and is asking my friends for money.", "agent": "cyber_criminal", "lang": "en"},
+  {"q": "A man is threatening to leak my private photos unless I pay him.", "agent": "cyber_criminal", "lang": "en"},
+  {"q": "Mere UPI se kisi ne link bhej kar 20000 rupaye nikal liye", "agent": "cyber_criminal", "lang": "hinglish"},
+  {"q": "पुलिस मेरी एफआईआर दर्ज नहीं कर रही है, मेरे साथ ठगी हुई है", "agent": "cyber_criminal", "lang": "hi"},
+
+  {"q": "My husband left me and is not giving money for our two children.", "agent": "family", "lang": "en"},
+  {"q": "I want a divorce, and I want custody of my daughter.", "agent": "family", "lang": "en"},
+  {"q": "Sasural wale dahej ke liye pareshan kar rahe hain", "agent": "family", "lang": "hinglish"},
+  {"q": "पिता की मृत्यु के बाद भाई मुझे जायदाद में हिस्सा नहीं दे रहा", "agent": "family", "lang": "hi"},
+
+  {"q": "My bank froze my account without telling me why.", "agent": "banking", "lang": "en"},
+  {"q": "Loan recovery agents keep calling my family and abusing them.", "agent": "banking", "lang": "en"},
+  {"q": "Credit card par aisa charge laga hai jo maine kiya hi nahi, bank sun nahi raha", "agent": "banking", "lang": "hinglish"},
+  {"q": "मेरा चेक बाउंस हो गया और बैंक ने पेनल्टी काट ली", "agent": "banking", "lang": "hi"},
+
+  {"q": "A truck hit my car and the driver ran away. How do I claim compensation?", "agent": "general", "lang": "en"},
+  {"q": "How do I file an RTI for my pension file?", "agent": "general", "lang": "en"}
+]
