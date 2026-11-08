@@ -55,7 +55,7 @@ With no API key it falls back to "law search only".
 
 **Free-tier resilience:** set `LLM_FALLBACK_MODELS=gemini-2.5-flash,gemini-3.1-flash-lite`. When the main model hits its quota, the next one answers, and the app shows which model answered.
 
-**Deploy (free):** see [DEPLOY.md](DEPLOY.md). It deploys to a Hugging Face Space (Docker, 16 GB RAM) with the search index built inside the image, plus GitHub for the code and raw outputs. Never commit `.env`.
+**Deploy:** see [DEPLOY.md](DEPLOY.md). It deploys to a Hugging Face Space (Docker, 16 GB RAM; creating one needs a PRO account) with the search index built inside the image, plus GitHub for the code and raw outputs. Never commit `.env`.
 
 To swap models, change `LLM_PROVIDER` / `LLM_MODEL` in `.env`. No code changes are needed: every provider is called through the same OpenAI-compatible client ([app/llm.py](app/llm.py)).
 

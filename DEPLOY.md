@@ -2,7 +2,7 @@
 
 The plan: **one git repo, pushed to two places.**
 - **GitHub**: the code, test cases and `raw_outputs/` that the submission form asks for.
-- **Hugging Face Space**: the live app, which is the "prototype link". It's free and has 16 GB RAM, which fits the embedding model easily.
+- **Hugging Face Space**: the live app, which is the "prototype link". Creating a Docker Space needs a paid PRO account ($9/month at the time of writing). The CPU Basic hardware itself is free and has 16 GB RAM, which fits the embedding model easily.
 
 The Space builds from the `Dockerfile`:
 1. Installs CPU-only torch and the pinned packages.
@@ -29,7 +29,7 @@ git add .
 git status
 ```
 
-**Check before committing:** `.env` must not appear in the list. `.gitignore` excludes it, along with `logs/` and `data/index/`.
+**Check before committing:** `.env` must not appear in the list. `.gitignore` excludes it, along with `logs/`.
 
 ```bash
 git commit -m "Nyaya Saathi: AI legal-help assistant (Kuku assignment, Problem 2)"
@@ -52,11 +52,11 @@ GitHub will show the settings block at the top of `README.md` as a small table. 
 
 ## 3. Hugging Face Space (the live app)
 
-1. Sign up at https://huggingface.co (free).
+1. Sign up at https://huggingface.co and subscribe to PRO at https://huggingface.co/pricing. Docker Spaces can't be created on a free account.
 2. Go to https://huggingface.co/new-space and set:
    - **Space name:** `nyaya-saathi`
    - **SDK:** Docker → **Blank**
-   - **Hardware:** CPU basic (free)
+   - **Hardware:** CPU Basic (the free hardware tier)
    - **Visibility:** Public, so the reviewers can open it.
 3. In the new Space, open **Settings → Variables and secrets** and add:
 
@@ -90,7 +90,7 @@ To update the app later: commit, then `git push space main`. To update GitHub: `
 - **Use a new Gemini key.** The current one was pasted into a chat. Create a fresh key at https://aistudio.google.com, put it in the Space secret, and delete the old key.
 - Open the Space link in a private browser window, to check it opens for anyone.
 - Ask one example question. If every model is rate-limited, the app says so; the free quota resets daily.
-- A free Space **sleeps after about 48 hours without visitors**. The first visit after that takes a minute to wake it. Open it shortly before your interview.
+- A Space on free hardware **goes to sleep when unused**. The first visit after that takes a while to wake it. Open it shortly before your interview.
 
 ## If something goes wrong
 
@@ -99,7 +99,7 @@ To update the app later: commit, then `git push space main`. To update GitHub: `
 | Build fails at `pip install` | Look at the Logs tab. If a pinned version is unavailable on Linux, relax that line in `requirements.txt` (e.g. `streamlit>=1.48`). |
 | "No AI model configured" banner | A secret/variable is missing or misnamed (names are case-sensitive). Restart the Space after adding it. |
 | "Free AI quota is used up" | Wait (quota resets daily), or add another fallback model or provider key. |
-| Push rejected for binary files | Make sure `data/index/` is not committed (`git rm -r --cached data/index`). |
+| Search results look out of date | The index is committed for hosts that don't build it. After changing the Acts, run `python scripts/build_index.py` and commit `data/index/`. |
 | App works locally but not on the Space | Check that `data/processed/sections.jsonl` was pushed: the index is built from it. |
 
 ## Run the same image locally (optional, needs Docker)
