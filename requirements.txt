@@ -1,0 +1,10 @@
+# Pinned to the versions this project was built and tested with (Nov 2026).
+# torch is pulled in by sentence-transformers; the Dockerfile installs the small CPU-only build first.
+numpy==2.5.3
+rank-bm25==0.2.2
+sentence-transformers==6.2.0
+transformers==5.17.0
+huggingface_hub==1.31.0
+openai==3.46.0
+python-dotenv==1.2.4
+streamlit==1.48.0

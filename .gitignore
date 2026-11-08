@@ -1,0 +1,6 @@
+.env
+__pycache__/
+*.pyc
+logs/
+# Built by scripts/build_index.py (and inside the Docker image); binary, so not committed.
+data/index/

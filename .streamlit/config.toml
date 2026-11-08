@@ -1,0 +1,7 @@
+[server]
+# Streamlit's file watcher scans every imported module; with transformers/torch loaded it
+# hits optional imports (torchvision) and slows every rerun. Not needed outside development.
+fileWatcherType = "none"
+
+[theme]
+primaryColor = "#C2410C"

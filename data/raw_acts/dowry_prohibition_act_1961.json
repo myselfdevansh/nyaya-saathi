@@ -1,0 +1,3420 @@
+[
+ {
+  "id": "15f9fcd2-13bd-4179-b43d-635e2819bd68",
+  "uuid": "15f9fcd2-13bd-4179-b43d-635e2819bd68",
+  "name": "Short title, extent and commencement.",
+  "handle": "123456789/523525",
+  "metadata": {
+   "dc.date.accessioned": [
+    {
+     "value": "2026-07-10T22:21:09Z",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.date.act_year": [
+    {
+     "value": "1961",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_id": [
+    {
+     "value": "AC_CEN_13_14_00003_196128_1517807322681",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_name": [
+    {
+     "value": "The Dowry Prohibition Act, 1961",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_number": [
+    {
+     "value": "28",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_repealed": [
+    {
+     "value": "false",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.collection": [
+    {
+     "value": "SECTION",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.id": [
+    {
+     "value": "28675",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.linked_id": [
+    {
+     "value": "NO_CEN_13_0_00001_1522748291166",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.ministry_id": [
+    {
+     "value": "13",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.ministry_name": [
+    {
+     "value": "Ministry of Women and Child Development",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.next_section": [
+    {
+     "value": "2.Definition of “dowry”.",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.order_number": [
+    {
+     "value": "1",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_from": [
+    {
+     "value": "0",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_number": [
+    {
+     "value": "2",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_to": [
+    {
+     "value": "0",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.repealed": [
+    {
+     "value": "false",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_footnote": [
+    {
+     "value": "<sup>1</sup>. The words \"except the State of Jammu and Kashmir\" omitted by Act 34 of 2019, s. 95 and the Fifth Schedule (w.e.f. 31-10- 2019).<br/><hr style=\"border: none; margin-bottom: 3px; margin-top: 0;\"/> <sup>2</sup>. 1st July, 1961, <i>vide</i> notification No. S.O. 1410, dated 20th June, 1961, <i>see</i> Gazette of India, Extraordinary, Part II, sec. 3<i>(ii)</i>.<br/><hr style=\"border: none; margin-bottom: 3px; margin-top: 0;\"/>",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_id": [
+    {
+     "value": "28675",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_number": [
+    {
+     "value": "1",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_page_note": [
+    {
+     "value": "<span style=\"margin-left: 15px;\"></span>(1) This Act may be called the Dowry Prohibition Act, 1961.<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span> (2) It extends to the whole of India <sup>1</sup>***<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span> (3) It shall come into force on such date<sup>2</sup> as the Central Government may, by notification in the Official Gazette, appoint.<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/>",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.state_id": [
+    {
+     "value": "1",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.state_name": [
+    {
+     "value": "CENTRAL",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.uri": [
+    {
+     "value": "http://test1.indiacode.nic.in/handle/123456789/523525",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.title": [
+    {
+     "value": "Short title, extent and commencement.",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ]
+  },
+  "inArchive": true,
+  "discoverable": true,
+  "withdrawn": false,
+  "lastModified": "2026-07-10T22:21:09.295747Z",
+  "entityType": null,
+  "type": "item",
+  "_links": {
+   "accessStatus": {
+    "href": "https://indiacode.gov.in/server/api/core/items/15f9fcd2-13bd-4179-b43d-635e2819bd68/accessStatus"
+   },
+   "bundles": {
+    "href": "https://indiacode.gov.in/server/api/core/items/15f9fcd2-13bd-4179-b43d-635e2819bd68/bundles"
+   },
+   "identifiers": {
+    "href": "https://indiacode.gov.in/server/api/core/items/15f9fcd2-13bd-4179-b43d-635e2819bd68/identifiers"
+   },
+   "mappedCollections": {
+    "href": "https://indiacode.gov.in/server/api/core/items/15f9fcd2-13bd-4179-b43d-635e2819bd68/mappedCollections"
+   },
+   "owningCollection": {
+    "href": "https://indiacode.gov.in/server/api/core/items/15f9fcd2-13bd-4179-b43d-635e2819bd68/owningCollection"
+   },
+   "relationships": {
+    "href": "https://indiacode.gov.in/server/api/core/items/15f9fcd2-13bd-4179-b43d-635e2819bd68/relationships"
+   },
+   "version": {
+    "href": "https://indiacode.gov.in/server/api/core/items/15f9fcd2-13bd-4179-b43d-635e2819bd68/version"
+   },
+   "templateItemOf": {
+    "href": "https://indiacode.gov.in/server/api/core/items/15f9fcd2-13bd-4179-b43d-635e2819bd68/templateItemOf"
+   },
+   "thumbnail": {
+    "href": "https://indiacode.gov.in/server/api/core/items/15f9fcd2-13bd-4179-b43d-635e2819bd68/thumbnail"
+   },
+   "submitter": {
+    "href": "https://indiacode.gov.in/server/api/core/items/15f9fcd2-13bd-4179-b43d-635e2819bd68/submitter"
+   },
+   "self": {
+    "href": "https://indiacode.gov.in/server/api/core/items/15f9fcd2-13bd-4179-b43d-635e2819bd68"
+   }
+  }
+ },
+ {
+  "id": "240dbf9a-83c3-4aae-a6fd-ea303e4d839d",
+  "uuid": "240dbf9a-83c3-4aae-a6fd-ea303e4d839d",
+  "name": "Burden of proof in certain cases",
+  "handle": "123456789/525259",
+  "metadata": {
+   "dc.date.accessioned": [
+    {
+     "value": "2026-07-10T22:26:02Z",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.date.act_year": [
+    {
+     "value": "1961",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_id": [
+    {
+     "value": "AC_CEN_13_14_00003_196128_1517807322681",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_name": [
+    {
+     "value": "The Dowry Prohibition Act, 1961",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_number": [
+    {
+     "value": "28",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_repealed": [
+    {
+     "value": "false",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.collection": [
+    {
+     "value": "SECTION",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.id": [
+    {
+     "value": "30952",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.ministry_id": [
+    {
+     "value": "13",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.ministry_name": [
+    {
+     "value": "Ministry of Women and Child Development",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.order_number": [
+    {
+     "value": "10",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_from": [
+    {
+     "value": "0",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_number": [
+    {
+     "value": "4",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_to": [
+    {
+     "value": "0",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.repealed": [
+    {
+     "value": "false",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_footnote": [
+    {
+     "value": "<sup>1</sup>. Ins. by s. 8, <i>ibid</i>. (w.e.f. 19-11-1986).<br/><hr style=\"border: none; margin-bottom: 3px; margin-top: 0;\"/>",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_id": [
+    {
+     "value": "30952",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_number": [
+    {
+     "value": "8A",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_page_note": [
+    {
+     "value": "<span style=\"margin-left: 15px;\"></span><sup>1</sup>[<b>8A. Burden of proof in certain cases.</b>--Where any person is prosecuted for taking or abetting the taking of any dowry under section 3, or the demanding of dowry under section 4, the burden of proving that he had not committed an offence under those sections shall be on him.] <br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/>",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.state_id": [
+    {
+     "value": "1",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.state_name": [
+    {
+     "value": "CENTRAL",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.uri": [
+    {
+     "value": "http://test1.indiacode.nic.in/handle/123456789/525259",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.title": [
+    {
+     "value": "Burden of proof in certain cases",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ]
+  },
+  "inArchive": true,
+  "discoverable": true,
+  "withdrawn": false,
+  "lastModified": "2026-07-10T22:26:02.512363Z",
+  "entityType": null,
+  "type": "item",
+  "_links": {
+   "accessStatus": {
+    "href": "https://indiacode.gov.in/server/api/core/items/240dbf9a-83c3-4aae-a6fd-ea303e4d839d/accessStatus"
+   },
+   "bundles": {
+    "href": "https://indiacode.gov.in/server/api/core/items/240dbf9a-83c3-4aae-a6fd-ea303e4d839d/bundles"
+   },
+   "identifiers": {
+    "href": "https://indiacode.gov.in/server/api/core/items/240dbf9a-83c3-4aae-a6fd-ea303e4d839d/identifiers"
+   },
+   "mappedCollections": {
+    "href": "https://indiacode.gov.in/server/api/core/items/240dbf9a-83c3-4aae-a6fd-ea303e4d839d/mappedCollections"
+   },
+   "owningCollection": {
+    "href": "https://indiacode.gov.in/server/api/core/items/240dbf9a-83c3-4aae-a6fd-ea303e4d839d/owningCollection"
+   },
+   "relationships": {
+    "href": "https://indiacode.gov.in/server/api/core/items/240dbf9a-83c3-4aae-a6fd-ea303e4d839d/relationships"
+   },
+   "version": {
+    "href": "https://indiacode.gov.in/server/api/core/items/240dbf9a-83c3-4aae-a6fd-ea303e4d839d/version"
+   },
+   "templateItemOf": {
+    "href": "https://indiacode.gov.in/server/api/core/items/240dbf9a-83c3-4aae-a6fd-ea303e4d839d/templateItemOf"
+   },
+   "thumbnail": {
+    "href": "https://indiacode.gov.in/server/api/core/items/240dbf9a-83c3-4aae-a6fd-ea303e4d839d/thumbnail"
+   },
+   "submitter": {
+    "href": "https://indiacode.gov.in/server/api/core/items/240dbf9a-83c3-4aae-a6fd-ea303e4d839d/submitter"
+   },
+   "self": {
+    "href": "https://indiacode.gov.in/server/api/core/items/240dbf9a-83c3-4aae-a6fd-ea303e4d839d"
+   }
+  }
+ },
+ {
+  "id": "1dd6c0d1-9d13-4350-b418-7a6b5ad08768",
+  "uuid": "1dd6c0d1-9d13-4350-b418-7a6b5ad08768",
+  "name": "Power to make rules",
+  "handle": "123456789/525261",
+  "metadata": {
+   "dc.date.accessioned": [
+    {
+     "value": "2026-07-10T22:26:02Z",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.date.act_year": [
+    {
+     "value": "1961",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_id": [
+    {
+     "value": "AC_CEN_13_14_00003_196128_1517807322681",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_name": [
+    {
+     "value": "The Dowry Prohibition Act, 1961",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_number": [
+    {
+     "value": "28",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_repealed": [
+    {
+     "value": "false",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.collection": [
+    {
+     "value": "SECTION",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.id": [
+    {
+     "value": "30954",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.linked_id": [
+    {
+     "value": "RU_CEN_13_0_00001_1522835018486",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.ministry_id": [
+    {
+     "value": "13",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.ministry_name": [
+    {
+     "value": "Ministry of Women and Child Development",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.order_number": [
+    {
+     "value": "12",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_from": [
+    {
+     "value": "0",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_number": [
+    {
+     "value": "5",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_to": [
+    {
+     "value": "0",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.repealed": [
+    {
+     "value": "false",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_footnote": [
+    {
+     "value": "<sup>1</sup>. Ins. by Act 63 of 1984, s. 8 (w.e.f. 2-10-1985).<br/><hr style=\"border: none; margin-bottom: 3px; margin-top: 0;\"/> <sup>2</sup>. Sub-section <i>(2)</i> renumbered as sub-section <i>(3)</i> thereof by s. 8, <i>ibid</i>. (w.e.f. 2-10-1985).<br/><hr style=\"border: none; margin-bottom: 3px; margin-top: 0;\"/> <sup>3</sup>. Subs. by Act 20 of 1983, s. 2 and the Schedule, for certain words (w.e.f. 15-3-1984).<br/><hr style=\"border: none; margin-bottom: 3px; margin-top: 0;\"/>",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_id": [
+    {
+     "value": "30954",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_number": [
+    {
+     "value": "9",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_page_note": [
+    {
+     "value": "<span style=\"margin-left: 15px;\"></span>(1) The Central Government may, by notification in the Official Gazette, make rules for carrying out the purposes of this Act.<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span> <sup>1</sup>[(2) In particular, and without prejudice to the generality of the foregoing power, such rules may provide for--<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span> (a) the form and manner in which, and the persons by whom, any list of presents referred to in sub-section <i>(2)</i> of section 3 shall be maintained and all other matters connected therewith; and<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span> (b) the better co-ordination of policy and action with respect to the administration of this Act.]<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span> <sup>2</sup>[(3)] Every rule made under this section shall be laid as soon as may be after it is made before each House of Parliament while it is in session for a total period of thirty days which may be comprised in one session or <sup>3</sup>[in two or more successive sessions, and if, before the expiry of the session immediately following the session or the successive sessions aforesaid], both Houses agree in making any modification in the rule or both Houses agree that the rule should not be made, the rule shall thereafter have effect only in such modified form or be of no effect, as the case may be, so however that any such modification or annulment shall be without prejudice to the validity of anything previously done under that rule.<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/>",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.state_id": [
+    {
+     "value": "1",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.state_name": [
+    {
+     "value": "CENTRAL",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.uri": [
+    {
+     "value": "http://test1.indiacode.nic.in/handle/123456789/525261",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.title": [
+    {
+     "value": "Power to make rules",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ]
+  },
+  "inArchive": true,
+  "discoverable": true,
+  "withdrawn": false,
+  "lastModified": "2026-07-10T22:26:02.618042Z",
+  "entityType": null,
+  "type": "item",
+  "_links": {
+   "accessStatus": {
+    "href": "https://indiacode.gov.in/server/api/core/items/1dd6c0d1-9d13-4350-b418-7a6b5ad08768/accessStatus"
+   },
+   "bundles": {
+    "href": "https://indiacode.gov.in/server/api/core/items/1dd6c0d1-9d13-4350-b418-7a6b5ad08768/bundles"
+   },
+   "identifiers": {
+    "href": "https://indiacode.gov.in/server/api/core/items/1dd6c0d1-9d13-4350-b418-7a6b5ad08768/identifiers"
+   },
+   "mappedCollections": {
+    "href": "https://indiacode.gov.in/server/api/core/items/1dd6c0d1-9d13-4350-b418-7a6b5ad08768/mappedCollections"
+   },
+   "owningCollection": {
+    "href": "https://indiacode.gov.in/server/api/core/items/1dd6c0d1-9d13-4350-b418-7a6b5ad08768/owningCollection"
+   },
+   "relationships": {
+    "href": "https://indiacode.gov.in/server/api/core/items/1dd6c0d1-9d13-4350-b418-7a6b5ad08768/relationships"
+   },
+   "version": {
+    "href": "https://indiacode.gov.in/server/api/core/items/1dd6c0d1-9d13-4350-b418-7a6b5ad08768/version"
+   },
+   "templateItemOf": {
+    "href": "https://indiacode.gov.in/server/api/core/items/1dd6c0d1-9d13-4350-b418-7a6b5ad08768/templateItemOf"
+   },
+   "thumbnail": {
+    "href": "https://indiacode.gov.in/server/api/core/items/1dd6c0d1-9d13-4350-b418-7a6b5ad08768/thumbnail"
+   },
+   "submitter": {
+    "href": "https://indiacode.gov.in/server/api/core/items/1dd6c0d1-9d13-4350-b418-7a6b5ad08768/submitter"
+   },
+   "self": {
+    "href": "https://indiacode.gov.in/server/api/core/items/1dd6c0d1-9d13-4350-b418-7a6b5ad08768"
+   }
+  }
+ },
+ {
+  "id": "21d12900-e00d-4057-941f-6ab2476b5d0f",
+  "uuid": "21d12900-e00d-4057-941f-6ab2476b5d0f",
+  "name": "Cognizance of offences.",
+  "handle": "123456789/523533",
+  "metadata": {
+   "dc.date.accessioned": [
+    {
+     "value": "2026-07-10T22:21:09Z",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.date.act_year": [
+    {
+     "value": "1961",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_id": [
+    {
+     "value": "AC_CEN_13_14_00003_196128_1517807322681",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_name": [
+    {
+     "value": "The Dowry Prohibition Act, 1961",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_number": [
+    {
+     "value": "28",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_repealed": [
+    {
+     "value": "false",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.collection": [
+    {
+     "value": "SECTION",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.id": [
+    {
+     "value": "28682",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.ministry_id": [
+    {
+     "value": "13",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.ministry_name": [
+    {
+     "value": "Ministry of Women and Child Development",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.next_section": [
+    {
+     "value": "8.Offences to be cognizable for certain purposes and to be bailable and non-compoundable.",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.order_number": [
+    {
+     "value": "8",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_from": [
+    {
+     "value": "0",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_number": [
+    {
+     "value": "4",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_to": [
+    {
+     "value": "0",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.repealed": [
+    {
+     "value": "false",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_footnote": [
+    {
+     "value": "<sup>1</sup>. Subs. by Act 63 of 1984, s. 6, for section 7 (w.e.f. 2-10-1985).<br/><hr style=\"border: none; margin-bottom: 3px; margin-top: 0;\"/> <sup>2</sup>. Ins. by Act 43 of 1986, s. 6 (w.e.f. 19-11-1986).<br/><hr style=\"border: none; margin-bottom: 3px; margin-top: 0;\"/>",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_id": [
+    {
+     "value": "28682",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_number": [
+    {
+     "value": "7",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_page_note": [
+    {
+     "value": "<span style=\"margin-left: 15px;\"></span><sup>1</sup>[<b>7. Cognizance of offences.</b>--(1) Notwithstanding anything contained in the Code of Criminal Procedure, 1973 (2 of 1974),--<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span> (a) no Court inferior to that of a Metropolitan Magistrate or a Judicial Magistrate of the first class shall try any offence under this Act;<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span> (b) no court shall take cognizance of an offence under this Act except upon--<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span> (i) its own knowledge or a police report of the facts which constitute such offence, or<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span> (ii) a complaint by the person aggrieved by the offence or a parent or other relative of such person, or by any recognised welfare institution or organisation;<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span> (c) it shall be lawful for a Metropolitan Magistrate or a Judicial Magistrate of the first class to pass any sentence authorised by this Act on any person convicted of an offence under this Act.<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span> <i>Explanation</i>.--For the purposes of this sub-section, \"recognised welfare institution or organisation\" means a social welfare institution or organisation recognised in this behalf by the Central or State Government.<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span> (2) Nothing in Chapter XXXVI of the Code of Criminal Procedure, 1973 (2 of 1974), shall apply to any offence punishable under this Act.]<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span> <sup>2</sup>[(3) Notwithstanding anything contained in any law for the time being in force a statement made by the person aggrieved by the offence shall not subject such person to a prosecution under this Act.]<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/>",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.state_id": [
+    {
+     "value": "1",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.state_name": [
+    {
+     "value": "CENTRAL",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.uri": [
+    {
+     "value": "http://test1.indiacode.nic.in/handle/123456789/523533",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.title": [
+    {
+     "value": "Cognizance of offences.",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ]
+  },
+  "inArchive": true,
+  "discoverable": true,
+  "withdrawn": false,
+  "lastModified": "2026-07-10T22:21:09.883180Z",
+  "entityType": null,
+  "type": "item",
+  "_links": {
+   "accessStatus": {
+    "href": "https://indiacode.gov.in/server/api/core/items/21d12900-e00d-4057-941f-6ab2476b5d0f/accessStatus"
+   },
+   "bundles": {
+    "href": "https://indiacode.gov.in/server/api/core/items/21d12900-e00d-4057-941f-6ab2476b5d0f/bundles"
+   },
+   "identifiers": {
+    "href": "https://indiacode.gov.in/server/api/core/items/21d12900-e00d-4057-941f-6ab2476b5d0f/identifiers"
+   },
+   "mappedCollections": {
+    "href": "https://indiacode.gov.in/server/api/core/items/21d12900-e00d-4057-941f-6ab2476b5d0f/mappedCollections"
+   },
+   "owningCollection": {
+    "href": "https://indiacode.gov.in/server/api/core/items/21d12900-e00d-4057-941f-6ab2476b5d0f/owningCollection"
+   },
+   "relationships": {
+    "href": "https://indiacode.gov.in/server/api/core/items/21d12900-e00d-4057-941f-6ab2476b5d0f/relationships"
+   },
+   "version": {
+    "href": "https://indiacode.gov.in/server/api/core/items/21d12900-e00d-4057-941f-6ab2476b5d0f/version"
+   },
+   "templateItemOf": {
+    "href": "https://indiacode.gov.in/server/api/core/items/21d12900-e00d-4057-941f-6ab2476b5d0f/templateItemOf"
+   },
+   "thumbnail": {
+    "href": "https://indiacode.gov.in/server/api/core/items/21d12900-e00d-4057-941f-6ab2476b5d0f/thumbnail"
+   },
+   "submitter": {
+    "href": "https://indiacode.gov.in/server/api/core/items/21d12900-e00d-4057-941f-6ab2476b5d0f/submitter"
+   },
+   "self": {
+    "href": "https://indiacode.gov.in/server/api/core/items/21d12900-e00d-4057-941f-6ab2476b5d0f"
+   }
+  }
+ },
+ {
+  "id": "4db618a3-63c0-4e2c-8718-6e0109dcd5be",
+  "uuid": "4db618a3-63c0-4e2c-8718-6e0109dcd5be",
+  "name": "Agreement for giving or taking dowry to be void.",
+  "handle": "123456789/523531",
+  "metadata": {
+   "dc.date.accessioned": [
+    {
+     "value": "2026-07-10T22:21:09Z",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.date.act_year": [
+    {
+     "value": "1961",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_id": [
+    {
+     "value": "AC_CEN_13_14_00003_196128_1517807322681",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_name": [
+    {
+     "value": "The Dowry Prohibition Act, 1961",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_number": [
+    {
+     "value": "28",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_repealed": [
+    {
+     "value": "false",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.collection": [
+    {
+     "value": "SECTION",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.id": [
+    {
+     "value": "28680",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.ministry_id": [
+    {
+     "value": "13",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.ministry_name": [
+    {
+     "value": "Ministry of Women and Child Development",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.next_section": [
+    {
+     "value": "6.Dowry to be for the benefit of the wife or her heirs.",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.order_number": [
+    {
+     "value": "6",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_from": [
+    {
+     "value": "0",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_number": [
+    {
+     "value": "3",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_to": [
+    {
+     "value": "0",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.repealed": [
+    {
+     "value": "false",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_id": [
+    {
+     "value": "28680",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_number": [
+    {
+     "value": "5",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_page_note": [
+    {
+     "value": "<span style=\"margin-left: 15px;\"></span>Any agreement for the giving or taking of dowry shall be void.<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/>",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.state_id": [
+    {
+     "value": "1",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.state_name": [
+    {
+     "value": "CENTRAL",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.uri": [
+    {
+     "value": "http://test1.indiacode.nic.in/handle/123456789/523531",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.title": [
+    {
+     "value": "Agreement for giving or taking dowry to be void.",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ]
+  },
+  "inArchive": true,
+  "discoverable": true,
+  "withdrawn": false,
+  "lastModified": "2026-07-10T22:21:09.747993Z",
+  "entityType": null,
+  "type": "item",
+  "_links": {
+   "accessStatus": {
+    "href": "https://indiacode.gov.in/server/api/core/items/4db618a3-63c0-4e2c-8718-6e0109dcd5be/accessStatus"
+   },
+   "bundles": {
+    "href": "https://indiacode.gov.in/server/api/core/items/4db618a3-63c0-4e2c-8718-6e0109dcd5be/bundles"
+   },
+   "identifiers": {
+    "href": "https://indiacode.gov.in/server/api/core/items/4db618a3-63c0-4e2c-8718-6e0109dcd5be/identifiers"
+   },
+   "mappedCollections": {
+    "href": "https://indiacode.gov.in/server/api/core/items/4db618a3-63c0-4e2c-8718-6e0109dcd5be/mappedCollections"
+   },
+   "owningCollection": {
+    "href": "https://indiacode.gov.in/server/api/core/items/4db618a3-63c0-4e2c-8718-6e0109dcd5be/owningCollection"
+   },
+   "relationships": {
+    "href": "https://indiacode.gov.in/server/api/core/items/4db618a3-63c0-4e2c-8718-6e0109dcd5be/relationships"
+   },
+   "version": {
+    "href": "https://indiacode.gov.in/server/api/core/items/4db618a3-63c0-4e2c-8718-6e0109dcd5be/version"
+   },
+   "templateItemOf": {
+    "href": "https://indiacode.gov.in/server/api/core/items/4db618a3-63c0-4e2c-8718-6e0109dcd5be/templateItemOf"
+   },
+   "thumbnail": {
+    "href": "https://indiacode.gov.in/server/api/core/items/4db618a3-63c0-4e2c-8718-6e0109dcd5be/thumbnail"
+   },
+   "submitter": {
+    "href": "https://indiacode.gov.in/server/api/core/items/4db618a3-63c0-4e2c-8718-6e0109dcd5be/submitter"
+   },
+   "self": {
+    "href": "https://indiacode.gov.in/server/api/core/items/4db618a3-63c0-4e2c-8718-6e0109dcd5be"
+   }
+  }
+ },
+ {
+  "id": "a6291134-ee96-4997-992d-719dad9da8ea",
+  "uuid": "a6291134-ee96-4997-992d-719dad9da8ea",
+  "name": "Offences to be cognizable for certain purposes and to be bailable and non-compoundable.",
+  "handle": "123456789/523534",
+  "metadata": {
+   "dc.date.accessioned": [
+    {
+     "value": "2026-07-10T22:21:09Z",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.date.act_year": [
+    {
+     "value": "1961",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_id": [
+    {
+     "value": "AC_CEN_13_14_00003_196128_1517807322681",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_name": [
+    {
+     "value": "The Dowry Prohibition Act, 1961",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_number": [
+    {
+     "value": "28",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_repealed": [
+    {
+     "value": "false",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.collection": [
+    {
+     "value": "SECTION",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.id": [
+    {
+     "value": "28683",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.ministry_id": [
+    {
+     "value": "13",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.ministry_name": [
+    {
+     "value": "Ministry of Women and Child Development",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.next_section": [
+    {
+     "value": "8B.Dowry Prohibition Officers.",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.order_number": [
+    {
+     "value": "9",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_from": [
+    {
+     "value": "0",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_number": [
+    {
+     "value": "4",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_to": [
+    {
+     "value": "0",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.repealed": [
+    {
+     "value": "false",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_footnote": [
+    {
+     "value": "<sup>2</sup>. Subs. by Act 63 of 1984, s. 7, for section 8 (w.e.f. 2-10-1985).<br/><hr style=\"border: none; margin-bottom: 3px; margin-top: 0;\"/> <sup>2</sup>. Subs. by Act 43 of 1986, s. 7, for \"bailable\" (w.e.f. 19-11-1986).<br/><hr style=\"border: none; margin-bottom: 3px; margin-top: 0;\"/>",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_id": [
+    {
+     "value": "28683",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_number": [
+    {
+     "value": "8",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_page_note": [
+    {
+     "value": "<span style=\"margin-left: 15px;\"></span><sup>1</sup>[<b>[8. Offences to be cognizable for certain purposes and to be bailable and non-compoundable.</b>--(1) The Code of Criminal Procedure, 1973 (2 of 1974) shall apply to offences under this Act as if they were cognizable offences--<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span> (a) for the purposes of investigation of such offences; and<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span> (b) for the purposes of matters other than--<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span> (i) matters referred to in section 42 of that Code; and<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span> (ii) the arrest of a person without a warrant or without an order of a Magistrate.<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span> (2) Every offence under this Act shall be <sup>2</sup>[non-bailable] and non-compoundable.] <br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/>",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.state_id": [
+    {
+     "value": "1",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.state_name": [
+    {
+     "value": "CENTRAL",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.uri": [
+    {
+     "value": "http://test1.indiacode.nic.in/handle/123456789/523534",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.title": [
+    {
+     "value": "Offences to be cognizable for certain purposes and to be bailable and non-compoundable.",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ]
+  },
+  "inArchive": true,
+  "discoverable": true,
+  "withdrawn": false,
+  "lastModified": "2026-07-10T22:21:09.953502Z",
+  "entityType": null,
+  "type": "item",
+  "_links": {
+   "accessStatus": {
+    "href": "https://indiacode.gov.in/server/api/core/items/a6291134-ee96-4997-992d-719dad9da8ea/accessStatus"
+   },
+   "bundles": {
+    "href": "https://indiacode.gov.in/server/api/core/items/a6291134-ee96-4997-992d-719dad9da8ea/bundles"
+   },
+   "identifiers": {
+    "href": "https://indiacode.gov.in/server/api/core/items/a6291134-ee96-4997-992d-719dad9da8ea/identifiers"
+   },
+   "mappedCollections": {
+    "href": "https://indiacode.gov.in/server/api/core/items/a6291134-ee96-4997-992d-719dad9da8ea/mappedCollections"
+   },
+   "owningCollection": {
+    "href": "https://indiacode.gov.in/server/api/core/items/a6291134-ee96-4997-992d-719dad9da8ea/owningCollection"
+   },
+   "relationships": {
+    "href": "https://indiacode.gov.in/server/api/core/items/a6291134-ee96-4997-992d-719dad9da8ea/relationships"
+   },
+   "version": {
+    "href": "https://indiacode.gov.in/server/api/core/items/a6291134-ee96-4997-992d-719dad9da8ea/version"
+   },
+   "templateItemOf": {
+    "href": "https://indiacode.gov.in/server/api/core/items/a6291134-ee96-4997-992d-719dad9da8ea/templateItemOf"
+   },
+   "thumbnail": {
+    "href": "https://indiacode.gov.in/server/api/core/items/a6291134-ee96-4997-992d-719dad9da8ea/thumbnail"
+   },
+   "submitter": {
+    "href": "https://indiacode.gov.in/server/api/core/items/a6291134-ee96-4997-992d-719dad9da8ea/submitter"
+   },
+   "self": {
+    "href": "https://indiacode.gov.in/server/api/core/items/a6291134-ee96-4997-992d-719dad9da8ea"
+   }
+  }
+ },
+ {
+  "id": "aca04754-14aa-4d2e-8761-82f49d70e897",
+  "uuid": "aca04754-14aa-4d2e-8761-82f49d70e897",
+  "name": "Dowry Prohibition Officers",
+  "handle": "123456789/525260",
+  "metadata": {
+   "dc.date.accessioned": [
+    {
+     "value": "2026-07-10T22:26:02Z",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.date.act_year": [
+    {
+     "value": "1961",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_id": [
+    {
+     "value": "AC_CEN_13_14_00003_196128_1517807322681",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_name": [
+    {
+     "value": "The Dowry Prohibition Act, 1961",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_number": [
+    {
+     "value": "28",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_repealed": [
+    {
+     "value": "false",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.collection": [
+    {
+     "value": "SECTION",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.id": [
+    {
+     "value": "30953",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.ministry_id": [
+    {
+     "value": "13",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.ministry_name": [
+    {
+     "value": "Ministry of Women and Child Development",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.order_number": [
+    {
+     "value": "11",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_from": [
+    {
+     "value": "0",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_number": [
+    {
+     "value": "5",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_to": [
+    {
+     "value": "0",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.repealed": [
+    {
+     "value": "false",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_id": [
+    {
+     "value": "30953",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_number": [
+    {
+     "value": "8B",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_page_note": [
+    {
+     "value": "<span style=\"margin-left: 15px;\"></span>(1) The State Government may appoint as many Dowry Prohibition Officers as it thinks fit and specify the areas in respect of which they shall exercise their jurisdiction and powers under this Act.<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span> (2) Every Dowry Prohibition Officer shall exercise and perform the following powers and functions, namely:--<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span> (a) to see that the provisions of this Act are complied with;<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span> (b) to prevent, as far as possible, the taking or abetting the taking of, or the demanding of, dowry;<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span> (c) to collect such evidence as may be necessary for the prosecution of persons committing offences under the Act; and<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span> (d) to perform such additional functions as may be assigned to him by the State Government, or as may be specified in the rules made under this Act.<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span> (3) The State Government may, by notification in the Official Gazette, confer such powers of a police officer as may be specified in the notification on the Dowry Prohibition Officer who shall exercise such powers subject to such limitations and conditions as may be specified by rules made under this Act.<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span> (4) The State Government may, for the purpose of advising and assisting Dowry Prohibition Officers in the efficient performance of their functions under this Act, appoint an advisory board consisting of not more than five social welfare workers (out of whom at least two shall be women) from the area in respect of which such Dowry Prohibition Officer exercises jurisdiction under sub-section <i>(1)</i>.]<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/>",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.state_id": [
+    {
+     "value": "1",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.state_name": [
+    {
+     "value": "CENTRAL",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.uri": [
+    {
+     "value": "http://test1.indiacode.nic.in/handle/123456789/525260",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.title": [
+    {
+     "value": "Dowry Prohibition Officers",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ]
+  },
+  "inArchive": true,
+  "discoverable": true,
+  "withdrawn": false,
+  "lastModified": "2026-07-10T22:26:02.565702Z",
+  "entityType": null,
+  "type": "item",
+  "_links": {
+   "accessStatus": {
+    "href": "https://indiacode.gov.in/server/api/core/items/aca04754-14aa-4d2e-8761-82f49d70e897/accessStatus"
+   },
+   "bundles": {
+    "href": "https://indiacode.gov.in/server/api/core/items/aca04754-14aa-4d2e-8761-82f49d70e897/bundles"
+   },
+   "identifiers": {
+    "href": "https://indiacode.gov.in/server/api/core/items/aca04754-14aa-4d2e-8761-82f49d70e897/identifiers"
+   },
+   "mappedCollections": {
+    "href": "https://indiacode.gov.in/server/api/core/items/aca04754-14aa-4d2e-8761-82f49d70e897/mappedCollections"
+   },
+   "owningCollection": {
+    "href": "https://indiacode.gov.in/server/api/core/items/aca04754-14aa-4d2e-8761-82f49d70e897/owningCollection"
+   },
+   "relationships": {
+    "href": "https://indiacode.gov.in/server/api/core/items/aca04754-14aa-4d2e-8761-82f49d70e897/relationships"
+   },
+   "version": {
+    "href": "https://indiacode.gov.in/server/api/core/items/aca04754-14aa-4d2e-8761-82f49d70e897/version"
+   },
+   "templateItemOf": {
+    "href": "https://indiacode.gov.in/server/api/core/items/aca04754-14aa-4d2e-8761-82f49d70e897/templateItemOf"
+   },
+   "thumbnail": {
+    "href": "https://indiacode.gov.in/server/api/core/items/aca04754-14aa-4d2e-8761-82f49d70e897/thumbnail"
+   },
+   "submitter": {
+    "href": "https://indiacode.gov.in/server/api/core/items/aca04754-14aa-4d2e-8761-82f49d70e897/submitter"
+   },
+   "self": {
+    "href": "https://indiacode.gov.in/server/api/core/items/aca04754-14aa-4d2e-8761-82f49d70e897"
+   }
+  }
+ },
+ {
+  "id": "ad1d111a-4837-407c-800e-80e3b3356307",
+  "uuid": "ad1d111a-4837-407c-800e-80e3b3356307",
+  "name": "Power of the State Government to make rules",
+  "handle": "123456789/525262",
+  "metadata": {
+   "dc.date.accessioned": [
+    {
+     "value": "2026-07-10T22:26:02Z",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.date.act_year": [
+    {
+     "value": "1961",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_id": [
+    {
+     "value": "AC_CEN_13_14_00003_196128_1517807322681",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_name": [
+    {
+     "value": "The Dowry Prohibition Act, 1961",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_number": [
+    {
+     "value": "28",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_repealed": [
+    {
+     "value": "false",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.collection": [
+    {
+     "value": "SECTION",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.id": [
+    {
+     "value": "30955",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.ministry_id": [
+    {
+     "value": "13",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.ministry_name": [
+    {
+     "value": "Ministry of Women and Child Development",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.order_number": [
+    {
+     "value": "13",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_from": [
+    {
+     "value": "0",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_number": [
+    {
+     "value": "5",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_to": [
+    {
+     "value": "0",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.repealed": [
+    {
+     "value": "false",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_footnote": [
+    {
+     "value": "<sup>1</sup>. Subs. by Act 43 of 1986, s. 9, for section 10 (w.e.f. 19-11-1986).<br/><hr style=\"border: none; margin-bottom: 3px; margin-top: 0;\"/>",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_id": [
+    {
+     "value": "30955",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_number": [
+    {
+     "value": "10",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_page_note": [
+    {
+     "value": "<span style=\"margin-left: 15px;\"></span><sup>1</sup>[<b>10. Power of the State Government to make rules.</b>--(1) The State Government may, by notification in the Official Gazette, make rules for carrying out the purposes of this Act.<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span> (2) In particular, and without prejudice to the generality of the foregoing power, such rules may provide for all or any of the following matters, namely:--<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span> (a) the additional functions to be performed by the Dowry Prohibition Officers under sub-section <i>(2)</i> of section 8B;<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span> (b) limitations and conditions subject to which a Dowry Prohibition Officer may exercise his functions under sub-section <i>(3)</i> of section 8B.<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span> (3) Every rule made by the State Government under this section shall be laid as soon as may be after it is made before the State Legislature.]<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/>",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.state_id": [
+    {
+     "value": "1",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.state_name": [
+    {
+     "value": "CENTRAL",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.uri": [
+    {
+     "value": "http://test1.indiacode.nic.in/handle/123456789/525262",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.title": [
+    {
+     "value": "Power of the State Government to make rules",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ]
+  },
+  "inArchive": true,
+  "discoverable": true,
+  "withdrawn": false,
+  "lastModified": "2026-07-10T22:26:02.669024Z",
+  "entityType": null,
+  "type": "item",
+  "_links": {
+   "accessStatus": {
+    "href": "https://indiacode.gov.in/server/api/core/items/ad1d111a-4837-407c-800e-80e3b3356307/accessStatus"
+   },
+   "bundles": {
+    "href": "https://indiacode.gov.in/server/api/core/items/ad1d111a-4837-407c-800e-80e3b3356307/bundles"
+   },
+   "identifiers": {
+    "href": "https://indiacode.gov.in/server/api/core/items/ad1d111a-4837-407c-800e-80e3b3356307/identifiers"
+   },
+   "mappedCollections": {
+    "href": "https://indiacode.gov.in/server/api/core/items/ad1d111a-4837-407c-800e-80e3b3356307/mappedCollections"
+   },
+   "owningCollection": {
+    "href": "https://indiacode.gov.in/server/api/core/items/ad1d111a-4837-407c-800e-80e3b3356307/owningCollection"
+   },
+   "relationships": {
+    "href": "https://indiacode.gov.in/server/api/core/items/ad1d111a-4837-407c-800e-80e3b3356307/relationships"
+   },
+   "version": {
+    "href": "https://indiacode.gov.in/server/api/core/items/ad1d111a-4837-407c-800e-80e3b3356307/version"
+   },
+   "templateItemOf": {
+    "href": "https://indiacode.gov.in/server/api/core/items/ad1d111a-4837-407c-800e-80e3b3356307/templateItemOf"
+   },
+   "thumbnail": {
+    "href": "https://indiacode.gov.in/server/api/core/items/ad1d111a-4837-407c-800e-80e3b3356307/thumbnail"
+   },
+   "submitter": {
+    "href": "https://indiacode.gov.in/server/api/core/items/ad1d111a-4837-407c-800e-80e3b3356307/submitter"
+   },
+   "self": {
+    "href": "https://indiacode.gov.in/server/api/core/items/ad1d111a-4837-407c-800e-80e3b3356307"
+   }
+  }
+ },
+ {
+  "id": "9b1d40d7-93db-4d79-9811-6cb1bff19ef8",
+  "uuid": "9b1d40d7-93db-4d79-9811-6cb1bff19ef8",
+  "name": "Penalty for demanding dowry.",
+  "handle": "123456789/523528",
+  "metadata": {
+   "dc.date.accessioned": [
+    {
+     "value": "2026-07-10T22:21:09Z",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.date.act_year": [
+    {
+     "value": "1961",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_id": [
+    {
+     "value": "AC_CEN_13_14_00003_196128_1517807322681",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_name": [
+    {
+     "value": "The Dowry Prohibition Act, 1961",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_number": [
+    {
+     "value": "28",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_repealed": [
+    {
+     "value": "false",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.collection": [
+    {
+     "value": "SECTION",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.id": [
+    {
+     "value": "28678",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.ministry_id": [
+    {
+     "value": "13",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.ministry_name": [
+    {
+     "value": "Ministry of Women and Child Development",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.next_section": [
+    {
+     "value": "4A.Ban on advertisement.",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.order_number": [
+    {
+     "value": "4",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_from": [
+    {
+     "value": "0",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_number": [
+    {
+     "value": "3",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_to": [
+    {
+     "value": "0",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.repealed": [
+    {
+     "value": "false",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_footnote": [
+    {
+     "value": "<sup>1</sup>. Subs. by Act 63 of 1984, s. 4, for section 4 (w.e.f. 2-10-1985). <br/><hr style=\"border: none; margin-bottom: 3px; margin-top: 0;\"/>",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_id": [
+    {
+     "value": "28678",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_number": [
+    {
+     "value": "4",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_page_note": [
+    {
+     "value": "<span style=\"margin-left: 15px;\"></span><sup>1</sup>[<b>4. Penalty for demanding dowry.</b>--If any person demands, directly or indirectly, from the parents or other relatives or guardian of a bride or bridegroom, as the case may be, any dowry, he shall be punishable with imprisonment for a term which shall not be less than six months, but which may extend to two years and with fine which may extend to ten thousand rupees:<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span> Provided that the Court may, for adequate and special reasons to be mentioned in the judgment, impose a sentence of imprisonment for a term of less than six months.]<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/>",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.state_id": [
+    {
+     "value": "1",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.state_name": [
+    {
+     "value": "CENTRAL",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.uri": [
+    {
+     "value": "http://test1.indiacode.nic.in/handle/123456789/523528",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.title": [
+    {
+     "value": "Penalty for demanding dowry.",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ]
+  },
+  "inArchive": true,
+  "discoverable": true,
+  "withdrawn": false,
+  "lastModified": "2026-07-10T22:21:09.523307Z",
+  "entityType": null,
+  "type": "item",
+  "_links": {
+   "accessStatus": {
+    "href": "https://indiacode.gov.in/server/api/core/items/9b1d40d7-93db-4d79-9811-6cb1bff19ef8/accessStatus"
+   },
+   "bundles": {
+    "href": "https://indiacode.gov.in/server/api/core/items/9b1d40d7-93db-4d79-9811-6cb1bff19ef8/bundles"
+   },
+   "identifiers": {
+    "href": "https://indiacode.gov.in/server/api/core/items/9b1d40d7-93db-4d79-9811-6cb1bff19ef8/identifiers"
+   },
+   "mappedCollections": {
+    "href": "https://indiacode.gov.in/server/api/core/items/9b1d40d7-93db-4d79-9811-6cb1bff19ef8/mappedCollections"
+   },
+   "owningCollection": {
+    "href": "https://indiacode.gov.in/server/api/core/items/9b1d40d7-93db-4d79-9811-6cb1bff19ef8/owningCollection"
+   },
+   "relationships": {
+    "href": "https://indiacode.gov.in/server/api/core/items/9b1d40d7-93db-4d79-9811-6cb1bff19ef8/relationships"
+   },
+   "version": {
+    "href": "https://indiacode.gov.in/server/api/core/items/9b1d40d7-93db-4d79-9811-6cb1bff19ef8/version"
+   },
+   "templateItemOf": {
+    "href": "https://indiacode.gov.in/server/api/core/items/9b1d40d7-93db-4d79-9811-6cb1bff19ef8/templateItemOf"
+   },
+   "thumbnail": {
+    "href": "https://indiacode.gov.in/server/api/core/items/9b1d40d7-93db-4d79-9811-6cb1bff19ef8/thumbnail"
+   },
+   "submitter": {
+    "href": "https://indiacode.gov.in/server/api/core/items/9b1d40d7-93db-4d79-9811-6cb1bff19ef8/submitter"
+   },
+   "self": {
+    "href": "https://indiacode.gov.in/server/api/core/items/9b1d40d7-93db-4d79-9811-6cb1bff19ef8"
+   }
+  }
+ },
+ {
+  "id": "9641306d-7f0b-4824-a7b7-77a6175c406c",
+  "uuid": "9641306d-7f0b-4824-a7b7-77a6175c406c",
+  "name": "Definition of “dowry”.",
+  "handle": "123456789/523526",
+  "metadata": {
+   "dc.date.accessioned": [
+    {
+     "value": "2026-07-10T22:21:09Z",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.date.act_year": [
+    {
+     "value": "1961",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_id": [
+    {
+     "value": "AC_CEN_13_14_00003_196128_1517807322681",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_name": [
+    {
+     "value": "The Dowry Prohibition Act, 1961",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_number": [
+    {
+     "value": "28",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_repealed": [
+    {
+     "value": "false",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.collection": [
+    {
+     "value": "SECTION",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.id": [
+    {
+     "value": "28676",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.ministry_id": [
+    {
+     "value": "13",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.ministry_name": [
+    {
+     "value": "Ministry of Women and Child Development",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.next_section": [
+    {
+     "value": "3.Penalty for giving or taking dowry.",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.order_number": [
+    {
+     "value": "2",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_from": [
+    {
+     "value": "0",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_number": [
+    {
+     "value": "2",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_to": [
+    {
+     "value": "0",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.repealed": [
+    {
+     "value": "false",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_footnote": [
+    {
+     "value": "<sup>1</sup>. Subs. by Act 43 of 1986, s. 2, for \"or after the marriage\" (w.e.f. 19-11-1986).<br/><hr style=\"border: none; margin-bottom: 3px; margin-top: 0;\"/> <sup>2</sup>. Subs. by Act 63 of 1984, s. 2, for certain words (w.e.f. 2-10-1985).<br/><hr style=\"border: none; margin-bottom: 3px; margin-top: 0;\"/> <sup>3</sup>. The <i>Explanation</i> I omitted by s. 2, <i>ibid</i>. (w.e.f. 2-10-1985).<br/><hr style=\"border: none; margin-bottom: 3px; margin-top: 0;\"/>",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_id": [
+    {
+     "value": "28676",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_number": [
+    {
+     "value": "2",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_page_note": [
+    {
+     "value": "<span style=\"margin-left: 15px;\"></span>In this Act, \"dowry\" means any property or valuable security given or agreed to be given either directly or indirectly--<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span> (a) by one party to a marriage to the other party to the marriage; or<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span> (b) by the parents of either party to a marriage or by any other person, to either party to the marriage or to any other person;<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> at or before <sup>1</sup>[or any time after the marriage] <sup>2</sup>[in connection with the marriage of the said parties, but does not include] dower or mahr in the case of persons to whom the Muslim Personal Law <i>(Shariat)</i> applies.<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span> <sup>3</sup>*<span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span> *<span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span> *<span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span> *<span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span> *<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span> <i>Explanation</i> II.--The expression \"valuable security\" has the same meaning as in section 30 of the Indian Penal Code (45 of 1860).<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/>",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.state_id": [
+    {
+     "value": "1",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.state_name": [
+    {
+     "value": "CENTRAL",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.uri": [
+    {
+     "value": "http://test1.indiacode.nic.in/handle/123456789/523526",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.title": [
+    {
+     "value": "Definition of “dowry”.",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ]
+  },
+  "inArchive": true,
+  "discoverable": true,
+  "withdrawn": false,
+  "lastModified": "2026-07-10T22:21:09.369676Z",
+  "entityType": null,
+  "type": "item",
+  "_links": {
+   "accessStatus": {
+    "href": "https://indiacode.gov.in/server/api/core/items/9641306d-7f0b-4824-a7b7-77a6175c406c/accessStatus"
+   },
+   "bundles": {
+    "href": "https://indiacode.gov.in/server/api/core/items/9641306d-7f0b-4824-a7b7-77a6175c406c/bundles"
+   },
+   "identifiers": {
+    "href": "https://indiacode.gov.in/server/api/core/items/9641306d-7f0b-4824-a7b7-77a6175c406c/identifiers"
+   },
+   "mappedCollections": {
+    "href": "https://indiacode.gov.in/server/api/core/items/9641306d-7f0b-4824-a7b7-77a6175c406c/mappedCollections"
+   },
+   "owningCollection": {
+    "href": "https://indiacode.gov.in/server/api/core/items/9641306d-7f0b-4824-a7b7-77a6175c406c/owningCollection"
+   },
+   "relationships": {
+    "href": "https://indiacode.gov.in/server/api/core/items/9641306d-7f0b-4824-a7b7-77a6175c406c/relationships"
+   },
+   "version": {
+    "href": "https://indiacode.gov.in/server/api/core/items/9641306d-7f0b-4824-a7b7-77a6175c406c/version"
+   },
+   "templateItemOf": {
+    "href": "https://indiacode.gov.in/server/api/core/items/9641306d-7f0b-4824-a7b7-77a6175c406c/templateItemOf"
+   },
+   "thumbnail": {
+    "href": "https://indiacode.gov.in/server/api/core/items/9641306d-7f0b-4824-a7b7-77a6175c406c/thumbnail"
+   },
+   "submitter": {
+    "href": "https://indiacode.gov.in/server/api/core/items/9641306d-7f0b-4824-a7b7-77a6175c406c/submitter"
+   },
+   "self": {
+    "href": "https://indiacode.gov.in/server/api/core/items/9641306d-7f0b-4824-a7b7-77a6175c406c"
+   }
+  }
+ },
+ {
+  "id": "cfd4da23-6d2a-4740-8353-12247899884b",
+  "uuid": "cfd4da23-6d2a-4740-8353-12247899884b",
+  "name": "Dowry to be for the benefit of the wife or her heirs.",
+  "handle": "123456789/523532",
+  "metadata": {
+   "dc.date.accessioned": [
+    {
+     "value": "2026-07-10T22:21:09Z",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.date.act_year": [
+    {
+     "value": "1961",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_id": [
+    {
+     "value": "AC_CEN_13_14_00003_196128_1517807322681",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_name": [
+    {
+     "value": "The Dowry Prohibition Act, 1961",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_number": [
+    {
+     "value": "28",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_repealed": [
+    {
+     "value": "false",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.collection": [
+    {
+     "value": "SECTION",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.id": [
+    {
+     "value": "28681",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.ministry_id": [
+    {
+     "value": "13",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.ministry_name": [
+    {
+     "value": "Ministry of Women and Child Development",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.next_section": [
+    {
+     "value": "7.Cognizance of offences.",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.order_number": [
+    {
+     "value": "7",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_from": [
+    {
+     "value": "0",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_number": [
+    {
+     "value": "3",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_to": [
+    {
+     "value": "0",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.repealed": [
+    {
+     "value": "false",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_footnote": [
+    {
+     "value": "<sup>1</sup>. Subs. by Act 63 of 1984, s. 5, for \"one year\" (w.e.f. 2-10-1985).<br/><hr style=\"border: none; margin-bottom: 3px; margin-top: 0;\"/> <sup>2</sup>. Subs. by s. 5, <i>ibid</i>., for sub-section <i>(2)</i> (w.e.f. 2-10-1985).<br/><hr style=\"border: none; margin-bottom: 3px; margin-top: 0;\"/> <sup>3</sup>. Ins. by Act 43 of 1986, s. 5 (w.e.f. 19-11-1986).<br/><hr style=\"border: none; margin-bottom: 3px; margin-top: 0;\"/> <sup>4</sup>. Subs. by s. 5, <i>ibid</i>., for \"which may extend to ten thousand rupees\" (w.e.f. 19-11-1986).<br/><hr style=\"border: none; margin-bottom: 3px; margin-top: 0;\"/> <sup>5</sup>. The proviso inserted by s. 5, <i>ibid</i>. (w.e.f. 19-11-1986).<br/><hr style=\"border: none; margin-bottom: 3px; margin-top: 0;\"/> <sup>6</sup>. Ins. by Act 63 of 1984, s. 5 (w.e.f. 2-10-1985).<br/><hr style=\"border: none; margin-bottom: 3px; margin-top: 0;\"/> <sup>7</sup>. Ins. by Act 43 of 1986, s. 5 (w.e.f. 19-11-1986).<br/><hr style=\"border: none; margin-bottom: 3px; margin-top: 0;\"/> <sup>8</sup>. Subs. by s. 5, <i>ibid</i>., for \"her heirs\" (w.e.f. 19-11-1986).<br/><hr style=\"border: none; margin-bottom: 3px; margin-top: 0;\"/>",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_id": [
+    {
+     "value": "28681",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_number": [
+    {
+     "value": "6",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_page_note": [
+    {
+     "value": "<span style=\"margin-left: 15px;\"></span>(1) Where any dowry is received by any person other than the woman in connection with whose marriage it is given, that person shall transfer it to the woman--<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span> (a) if the dowry was received before marriage, within<sup>1</sup>[three months] after the date of marriage; or<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span> (b) if the dowry was received at the time of or after the marriage, within <sup>1</sup>[three months] after the date of its receipt; or<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span> (c) if the dowry was received when the woman was a minor, within <sup>1</sup>[three months] after she has attained the age of eighteen years;<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> and pending such transfer, shall hold it in trust for the benefit of the woman.<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span> <sup>2</sup>[(2) If any person fails to transfer any property as required by sub-section <i>(1)</i> within the time limit specified therefor <sup>3</sup>[or as required by sub-section <i>(3)</i>,] he shall be punishable with imprisonment for a term which shall not be less than six months, but which may extend to two years or with fine <sup>4</sup>[which shall not be less than five thousand rupees, but which may extend to ten thousand rupees] or with both.]<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span> (3) Where the woman entitled to any property under sub-section <i>(1)</i> dies before receiving it, the heirs of the woman shall be entitled to claim it from the person holding it for the time being:<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span> <sup>5</sup>[Provided that where such woman dies within seven years of her marriage, otherwise than due to natural causes, such property shall,--<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span> (a) if she has no children, be transferred to her parents, or<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span> (b) if she has children, be transferred to such children and pending such transfer, be held in trust for such children.]<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span> <sup>6</sup>[(3A) Where a person convicted under sub-section <i>(2)</i> for failure to transfer any property as required by sub-section <i>(1)</i> <sup>7</sup>[or sub-section <i>(3)</i>] has not, before his conviction under that sub-section, transferred such property to the woman entitled thereto or, as the case may be, <sup>8</sup>[her heirs, parents or children] the Court shall, in addition to awarding punishment under that sub-section, direct, by order in writing, that such person shall transfer the property to such woman or, as the case may be, <sup>8</sup>[her heirs, parents or children] within such period as may be specified in the order, and if such person fails to comply with the direction within the period so specified, an amount equal to the value of the property may be recovered from him as if it were a fine imposed by such Court and paid to such woman or, as the case may be, <sup>8</sup>[her heirs, parents or children].]<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span> (4) Nothing contained in this section shall affect the provisions of section 3 or section 4. <br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/>",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.state_id": [
+    {
+     "value": "1",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.state_name": [
+    {
+     "value": "CENTRAL",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.uri": [
+    {
+     "value": "http://test1.indiacode.nic.in/handle/123456789/523532",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.title": [
+    {
+     "value": "Dowry to be for the benefit of the wife or her heirs.",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ]
+  },
+  "inArchive": true,
+  "discoverable": true,
+  "withdrawn": false,
+  "lastModified": "2026-07-10T22:21:09.814391Z",
+  "entityType": null,
+  "type": "item",
+  "_links": {
+   "accessStatus": {
+    "href": "https://indiacode.gov.in/server/api/core/items/cfd4da23-6d2a-4740-8353-12247899884b/accessStatus"
+   },
+   "bundles": {
+    "href": "https://indiacode.gov.in/server/api/core/items/cfd4da23-6d2a-4740-8353-12247899884b/bundles"
+   },
+   "identifiers": {
+    "href": "https://indiacode.gov.in/server/api/core/items/cfd4da23-6d2a-4740-8353-12247899884b/identifiers"
+   },
+   "mappedCollections": {
+    "href": "https://indiacode.gov.in/server/api/core/items/cfd4da23-6d2a-4740-8353-12247899884b/mappedCollections"
+   },
+   "owningCollection": {
+    "href": "https://indiacode.gov.in/server/api/core/items/cfd4da23-6d2a-4740-8353-12247899884b/owningCollection"
+   },
+   "relationships": {
+    "href": "https://indiacode.gov.in/server/api/core/items/cfd4da23-6d2a-4740-8353-12247899884b/relationships"
+   },
+   "version": {
+    "href": "https://indiacode.gov.in/server/api/core/items/cfd4da23-6d2a-4740-8353-12247899884b/version"
+   },
+   "templateItemOf": {
+    "href": "https://indiacode.gov.in/server/api/core/items/cfd4da23-6d2a-4740-8353-12247899884b/templateItemOf"
+   },
+   "thumbnail": {
+    "href": "https://indiacode.gov.in/server/api/core/items/cfd4da23-6d2a-4740-8353-12247899884b/thumbnail"
+   },
+   "submitter": {
+    "href": "https://indiacode.gov.in/server/api/core/items/cfd4da23-6d2a-4740-8353-12247899884b/submitter"
+   },
+   "self": {
+    "href": "https://indiacode.gov.in/server/api/core/items/cfd4da23-6d2a-4740-8353-12247899884b"
+   }
+  }
+ },
+ {
+  "id": "e8935186-a8f1-417d-ae7d-ca74877a62e9",
+  "uuid": "e8935186-a8f1-417d-ae7d-ca74877a62e9",
+  "name": "Penalty for giving or taking dowry.",
+  "handle": "123456789/523527",
+  "metadata": {
+   "dc.date.accessioned": [
+    {
+     "value": "2026-07-10T22:21:09Z",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.date.act_year": [
+    {
+     "value": "1961",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_id": [
+    {
+     "value": "AC_CEN_13_14_00003_196128_1517807322681",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_name": [
+    {
+     "value": "The Dowry Prohibition Act, 1961",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_number": [
+    {
+     "value": "28",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_repealed": [
+    {
+     "value": "false",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.collection": [
+    {
+     "value": "SECTION",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.id": [
+    {
+     "value": "28677",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.linked_id": [
+    {
+     "value": "RU_CEN_13_0_00001_1522835018486",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.ministry_id": [
+    {
+     "value": "13",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.ministry_name": [
+    {
+     "value": "Ministry of Women and Child Development",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.next_section": [
+    {
+     "value": "4.Penalty for demanding dowry.",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.order_number": [
+    {
+     "value": "3",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_from": [
+    {
+     "value": "0",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_number": [
+    {
+     "value": "2",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_to": [
+    {
+     "value": "0",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.repealed": [
+    {
+     "value": "false",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_footnote": [
+    {
+     "value": "<sup>1</sup>. Section 3 renumbered as sub-section <i>(1)</i> of that section by s. 3, <i>ibid</i>. (w.e.f. 2-10-1985).<br/><hr style=\"border: none; margin-bottom: 3px; margin-top: 0;\"/> <sup>2</sup>. Subs. by s. 3, <i>ibid</i>., for certain words (w.e.f. 2-10-1985).<br/><hr style=\"border: none; margin-bottom: 3px; margin-top: 0;\"/> <sup>3</sup>. Subs. by Act 43 of 1986, s. 3, for certain words (w.e.f. 19-11-1986).<br/><hr style=\"border: none; margin-bottom: 3px; margin-top: 0;\"/> <sup>4</sup>. Subs. by s. 3, <i>ibid</i>., for \"six months\" (w.e.f. 19-11-1986).<br/><hr style=\"border: none; margin-bottom: 3px; margin-top: 0;\"/> <sup>5</sup>. Ins. by Act 63 of 1984, s. 3 (w.e.f. 2-10-1985).<br/><hr style=\"border: none; margin-bottom: 3px; margin-top: 0;\"/>",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_id": [
+    {
+     "value": "28677",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_number": [
+    {
+     "value": "3",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_page_note": [
+    {
+     "value": "<span style=\"margin-left: 15px;\"></span><sup>1</sup>[(1)] If any person, after the commencement of this Act, gives or takes or abets the giving or taking of dowry, he shall be punishable <sup>2</sup>[with imprisonment for a term which shall not be less than <sup>3</sup>[five years, and with fine which shall not be less than fifteen thousand rupees or the amount of the value of such dowry, whichever is more]:<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span> Provided that the Court may, for adequate and special reasons to be recorded in the judgment, impose a sentence of imprisonment for a term of less than <sup>4</sup>[five years].]<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span> <sup>5</sup>[(2) Nothing in sub-section <i>(1)</i> shall apply to, or in relation to,--<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span> (a) presents which are given at the time of a marriage to the bride (without any demand having been made in that behalf):<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span> Provided that such presents are entered in a list maintained in accordance with the rules made under this Act;<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span> (b) presents which are given at the time of a marriage to the bridegroom (without any demand having been made in that behalf):<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span> Provided that such presents are entered in a list maintained in accordance with the rules made under this Act:<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span> Provided further that where such presents are made by or on behalf of the bride or any person related to the bride, such presents are of a customary nature and the value thereof is not excessive having regard to the financial status of the person by whom, or on whose behalf, such presents are given.] <br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/>",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.state_id": [
+    {
+     "value": "1",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.state_name": [
+    {
+     "value": "CENTRAL",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.uri": [
+    {
+     "value": "http://test1.indiacode.nic.in/handle/123456789/523527",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.title": [
+    {
+     "value": "Penalty for giving or taking dowry.",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ]
+  },
+  "inArchive": true,
+  "discoverable": true,
+  "withdrawn": false,
+  "lastModified": "2026-07-10T22:21:09.446817Z",
+  "entityType": null,
+  "type": "item",
+  "_links": {
+   "accessStatus": {
+    "href": "https://indiacode.gov.in/server/api/core/items/e8935186-a8f1-417d-ae7d-ca74877a62e9/accessStatus"
+   },
+   "bundles": {
+    "href": "https://indiacode.gov.in/server/api/core/items/e8935186-a8f1-417d-ae7d-ca74877a62e9/bundles"
+   },
+   "identifiers": {
+    "href": "https://indiacode.gov.in/server/api/core/items/e8935186-a8f1-417d-ae7d-ca74877a62e9/identifiers"
+   },
+   "mappedCollections": {
+    "href": "https://indiacode.gov.in/server/api/core/items/e8935186-a8f1-417d-ae7d-ca74877a62e9/mappedCollections"
+   },
+   "owningCollection": {
+    "href": "https://indiacode.gov.in/server/api/core/items/e8935186-a8f1-417d-ae7d-ca74877a62e9/owningCollection"
+   },
+   "relationships": {
+    "href": "https://indiacode.gov.in/server/api/core/items/e8935186-a8f1-417d-ae7d-ca74877a62e9/relationships"
+   },
+   "version": {
+    "href": "https://indiacode.gov.in/server/api/core/items/e8935186-a8f1-417d-ae7d-ca74877a62e9/version"
+   },
+   "templateItemOf": {
+    "href": "https://indiacode.gov.in/server/api/core/items/e8935186-a8f1-417d-ae7d-ca74877a62e9/templateItemOf"
+   },
+   "thumbnail": {
+    "href": "https://indiacode.gov.in/server/api/core/items/e8935186-a8f1-417d-ae7d-ca74877a62e9/thumbnail"
+   },
+   "submitter": {
+    "href": "https://indiacode.gov.in/server/api/core/items/e8935186-a8f1-417d-ae7d-ca74877a62e9/submitter"
+   },
+   "self": {
+    "href": "https://indiacode.gov.in/server/api/core/items/e8935186-a8f1-417d-ae7d-ca74877a62e9"
+   }
+  }
+ },
+ {
+  "id": "aec8dee2-bd50-4be8-8c87-e1f3a7c023e3",
+  "uuid": "aec8dee2-bd50-4be8-8c87-e1f3a7c023e3",
+  "name": "Ban on advertisement.",
+  "handle": "123456789/523529",
+  "metadata": {
+   "dc.date.accessioned": [
+    {
+     "value": "2026-07-10T22:21:09Z",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.date.act_year": [
+    {
+     "value": "1961",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_id": [
+    {
+     "value": "AC_CEN_13_14_00003_196128_1517807322681",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_name": [
+    {
+     "value": "The Dowry Prohibition Act, 1961",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_number": [
+    {
+     "value": "28",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.act_repealed": [
+    {
+     "value": "false",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.collection": [
+    {
+     "value": "SECTION",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.id": [
+    {
+     "value": "28679",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.ministry_id": [
+    {
+     "value": "13",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.ministry_name": [
+    {
+     "value": "Ministry of Women and Child Development",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.next_section": [
+    {
+     "value": "5.Agreement for giving or taking dowry to be void.",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.order_number": [
+    {
+     "value": "5",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_from": [
+    {
+     "value": "0",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_number": [
+    {
+     "value": "3",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.page_to": [
+    {
+     "value": "0",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.repealed": [
+    {
+     "value": "false",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_footnote": [
+    {
+     "value": "<sup>1</sup>. Ins. by Act 43 of 1986, s. 4 (w.e.f. 19-11-1986).<br/><hr style=\"border: none; margin-bottom: 3px; margin-top: 0;\"/>",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_id": [
+    {
+     "value": "28679",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_number": [
+    {
+     "value": "4A",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.section_page_note": [
+    {
+     "value": "<span style=\"margin-left: 15px;\"></span><sup>1</sup>[<b>4A. Ban on advertisement.</b>--If any person--<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span> (a) offers, through any advertisement in any newspaper, periodical, journal or through any other media, any share in his property or of any money or both as a share in any business or other interest as consideration for the marriage of his son or daughter or any other relative,<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span><span style=\"margin-left: 15px;\"></span> (b) prints or publishes or circulates any advertisement referred to in clause <i>(a)</i>,<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> he shall be punishable with imprisonment for a term which shall not be less than six months, but which may extend to five years, or with fine which may extend to fifteen thousand rupees:<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/> <span style=\"margin-left: 15px;\"></span> Provided that the Court may, for adequate and special reasons to be recorded in the judgment, impose a sentence of imprisonment for a term of less than six months.]<br/><hr style=\"border: none; margin-bottom: 8px; margin-top: 0;\"/>",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.state_id": [
+    {
+     "value": "1",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.state_name": [
+    {
+     "value": "CENTRAL",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.identifier.uri": [
+    {
+     "value": "http://test1.indiacode.nic.in/handle/123456789/523529",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ],
+   "dc.title": [
+    {
+     "value": "Ban on advertisement.",
+     "language": null,
+     "authority": null,
+     "confidence": -1,
+     "place": 0
+    }
+   ]
+  },
+  "inArchive": true,
+  "discoverable": true,
+  "withdrawn": false,
+  "lastModified": "2026-07-10T22:21:09.599725Z",
+  "entityType": null,
+  "type": "item",
+  "_links": {
+   "accessStatus": {
+    "href": "https://indiacode.gov.in/server/api/core/items/aec8dee2-bd50-4be8-8c87-e1f3a7c023e3/accessStatus"
+   },
+   "bundles": {
+    "href": "https://indiacode.gov.in/server/api/core/items/aec8dee2-bd50-4be8-8c87-e1f3a7c023e3/bundles"
+   },
+   "identifiers": {
+    "href": "https://indiacode.gov.in/server/api/core/items/aec8dee2-bd50-4be8-8c87-e1f3a7c023e3/identifiers"
+   },
+   "mappedCollections": {
+    "href": "https://indiacode.gov.in/server/api/core/items/aec8dee2-bd50-4be8-8c87-e1f3a7c023e3/mappedCollections"
+   },
+   "owningCollection": {
+    "href": "https://indiacode.gov.in/server/api/core/items/aec8dee2-bd50-4be8-8c87-e1f3a7c023e3/owningCollection"
+   },
+   "relationships": {
+    "href": "https://indiacode.gov.in/server/api/core/items/aec8dee2-bd50-4be8-8c87-e1f3a7c023e3/relationships"
+   },
+   "version": {
+    "href": "https://indiacode.gov.in/server/api/core/items/aec8dee2-bd50-4be8-8c87-e1f3a7c023e3/version"
+   },
+   "templateItemOf": {
+    "href": "https://indiacode.gov.in/server/api/core/items/aec8dee2-bd50-4be8-8c87-e1f3a7c023e3/templateItemOf"
+   },
+   "thumbnail": {
+    "href": "https://indiacode.gov.in/server/api/core/items/aec8dee2-bd50-4be8-8c87-e1f3a7c023e3/thumbnail"
+   },
+   "submitter": {
+    "href": "https://indiacode.gov.in/server/api/core/items/aec8dee2-bd50-4be8-8c87-e1f3a7c023e3/submitter"
+   },
+   "self": {
+    "href": "https://indiacode.gov.in/server/api/core/items/aec8dee2-bd50-4be8-8c87-e1f3a7c023e3"
+   }
+  }
+ }
+]
