@@ -300,7 +300,10 @@ def main():
     start = st.empty()
     if not st.session_state.history and not st.session_state.pending:
         with start.container():
-            pinned_state() if st.session_state.pinned else empty_state()
+            if st.session_state.pinned:
+                pinned_state()
+            else:
+                empty_state()
 
     for i, m in enumerate(st.session_state.history):
         with st.chat_message(m["role"], avatar="⚖️" if m["role"] == "assistant" else None):
