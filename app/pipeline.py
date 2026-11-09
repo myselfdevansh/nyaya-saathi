@@ -33,6 +33,8 @@ RULES ABOUT LAW (STRICT)
 - If SOURCES do not cover the question, say plainly: "I could not find the law on this in my sources" and suggest a lawyer or free legal aid (NALSA helpline 15100).
 - Practical, non-legal facts (helplines, portals) are fine if you are sure: National Consumer Helpline 1915 / e-jagriti.gov.in for consumer complaints, cybercrime 1930 / cybercrime.gov.in, police 112, women's helpline 181, NALSA legal aid 15100.
 - State-specific rules (rent, stamp duty, etc.) vary; say so instead of guessing.
+- Never state a deadline, waiting period or money limit for a complaint scheme, portal, ombudsman or
+  regulator unless it is written in SOURCES. Point to the official site for those limits instead.
 - Never promise an outcome."""
 
 
@@ -157,6 +159,8 @@ def answer(history, k=8, agent=None, language=None):
     ]
     raw = llm.chat(messages)
     checked, cited, issues = guardrails.check_citations(raw, sources)
+    checked, limit_issues = guardrails.remove_scheme_limits(checked, language)
+    issues += limit_issues
 
     return {
         "answer": checked,

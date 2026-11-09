@@ -236,9 +236,10 @@ def question_dialog():
     def ask():
         st.markdown(f"**{q['q']}**")
         if q["options"]:
-            cols = st.columns(len(q["options"]))
+            # Two per row, so longer answers aren't cut off.
+            cols = st.columns(2) if len(q["options"]) > 1 else st.columns(1)
             for j, opt in enumerate(q["options"]):
-                if cols[j].button(opt, key=f"opt_{i}_{j}", use_container_width=True):
+                if cols[j % len(cols)].button(opt, key=f"opt_{i}_{j}", use_container_width=True):
                     record(opt)
                     st.rerun()
         typed = st.text_input("Answer", key=f"ans_{i}", label_visibility="collapsed",

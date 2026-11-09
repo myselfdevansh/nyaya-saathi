@@ -3,7 +3,7 @@ import sys
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
-from app.guardrails import check_citations, triage  # noqa: E402
+from app.guardrails import check_citations, remove_scheme_limits, triage  # noqa: E402
 
 RETRIEVED = [
     {"id": "negotiable_instruments_act_1881__s138", "act": "The Negotiable Instruments Act, 1881",
@@ -86,6 +86,22 @@ def test_triage():
     assert "danger" in {f["type"] for f in triage("मेरे पति मुझे रोज़ मारते हैं")}
     assert "arrest_court" in {f["type"] for f in triage("पुलिस ने मेरे भाई को गिरफ्तार किया")}
     assert triage("मेरी कंपनी ने तनख्वाह नहीं दी") == []
+
+
+def test_ombudsman_limits_are_removed():
+    # Seen in a real answer: a waiting period the model could not know from our data.
+    text, issues = remove_scheme_limits(
+        "**What to do**\n1. Write to the bank.\n"
+        "2. Agar 30 days tak reply nahi milta, toh RBI Ombudsman ke paas jaiye.\n3. Call 1930.", "Hinglish (Latin)")
+    assert "30 days" not in text and "2. Agar bank issue resolve na kare" in text and "cms.rbi.org.in" in text
+    assert "1. Write to the bank." in text and "3. Call 1930." in text and len(issues) == 1
+    text, issues = remove_scheme_limits("- 30 दिन बाद RBI लोकपाल से शिकायत करें।", "Hindi, in Devanagari script")
+    assert "30 दिन" not in text and text.startswith("- अगर बैंक") and issues
+    text, _ = remove_scheme_limits("You must go to the Insurance Ombudsman within one year.", "English")
+    assert "one year" not in text and "cioins.co.in" in text
+    # No limit stated, or no ombudsman involved: left alone.
+    same = "Complain to the RBI Ombudsman at cms.rbi.org.in.\nGive the employer 15 days to reply."
+    assert remove_scheme_limits(same, "English") == (same, [])
 
 
 if __name__ == "__main__":

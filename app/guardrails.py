@@ -6,6 +6,8 @@ Rules kept in code, not left to the model:
    sections we actually retrieved and showed the model. Anything else (an
    invented section, an old IPC/CrPC reference, a case name) is removed or
    flagged before the user sees it.
+3. remove_scheme_limits(): ombudsman schemes are not in our data, so a time limit or money limit
+   stated for one can't be checked. The model was seen doing this despite being told not to.
 """
 
 import re
@@ -141,3 +143,42 @@ def check_citations(answer, retrieved):
 
     sources = [allowed[sid] for sid in used]
     return checked, sources, issues
+
+
+# ---------------------------------------------------- 3. unverifiable scheme limits
+OMBUDSMAN = re.compile(r"ombudsman|ombudsperson|लोकपाल", re.I)
+LIMIT = re.compile(r"\d+\s*-?\s*(?:days?|din\b|दिन|months?|mahin|महीन|years?|saal\b|साल|lakhs?\b|लाख|crores?\b|करोड़)|"
+                   r"\b(?:thirty|one year|one month|ek saal|ek mahin)|तीस|एक साल|एक महीन", re.I)
+LIST_PREFIX = re.compile(r"\s*(?:\d+[.)]|[-*•])\s+")
+SAFE_STEP = {
+    "bank": {
+        "English": "If the bank does not resolve it, you can complain to the RBI Ombudsman at cms.rbi.org.in or "
+                   "call 14448. Check the time limits on that site.",
+        "Hindi": "अगर बैंक समाधान न करे, तो आप cms.rbi.org.in पर RBI लोकपाल से शिकायत कर सकते हैं या 14448 पर कॉल "
+                 "कर सकते हैं। समय-सीमा उसी साइट पर देख लें।",
+        "Hinglish": "Agar bank issue resolve na kare, toh aap cms.rbi.org.in par RBI Ombudsman ko complaint kar sakte "
+                    "hain ya 14448 par call kar sakte hain. Time limits us site par check kar lein.",
+    },
+    "insurance": {
+        "English": "If the insurer does not resolve it, you can go to the Insurance Ombudsman (cioins.co.in). "
+                   "Check the time and money limits on that site.",
+        "Hindi": "अगर बीमा कंपनी समाधान न करे, तो आप बीमा लोकपाल (cioins.co.in) के पास जा सकते हैं। समय और राशि की "
+                 "सीमा उसी साइट पर देख लें।",
+        "Hinglish": "Agar insurance company issue resolve na kare, toh aap Insurance Ombudsman (cioins.co.in) ke paas "
+                    "ja sakte hain. Time aur amount limits us site par check kar lein.",
+    },
+}
+
+
+def remove_scheme_limits(answer, language="English"):
+    """Replace any line stating a limit for an ombudsman with a safe step. Returns (text, issues)."""
+    lang = "Hinglish" if language.startswith("Hinglish") else "Hindi" if language.startswith("Hindi") else "English"
+    issues, lines = [], []
+    for line in answer.split("\n"):
+        if OMBUDSMAN.search(line) and LIMIT.search(line):
+            prefix = LIST_PREFIX.match(line)
+            scheme = "insurance" if re.search(r"insur|बीमा|bima", line, re.I) else "bank"
+            line = (prefix.group(0) if prefix else "") + SAFE_STEP[scheme][lang]
+            issues.append("Removed an ombudsman time or money limit that could not be checked against official text.")
+        lines.append(line)
+    return "\n".join(lines), issues
