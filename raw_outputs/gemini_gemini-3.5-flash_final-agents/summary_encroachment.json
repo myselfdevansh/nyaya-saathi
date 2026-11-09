@@ -1,0 +1,34 @@
+[
+ {
+  "id": "encroachment",
+  "type": "agent_property",
+  "expect": "Property agent; possession / injunction route if in sources; says a lawyer is needed for title and possession disputes",
+  "turns": [
+   {
+    "seconds": 150.6,
+    "flags": [],
+    "language": "English",
+    "agent": "property",
+    "questions": [
+     "In which state is the property located?",
+     "Have you sent a formal legal notice to the neighbour?",
+     "Approximately how much area of your land is encroached?"
+    ],
+    "cited": [
+     "code_of_civil_procedure_1908__s16"
+    ],
+    "retrieved": [
+     "real_estate_regulation_and_development_act_2016__s4",
+     "real_estate_regulation_and_development_act_2016__s17",
+     "transfer_of_property_act_1882__s66",
+     "transfer_of_property_act_1882__s63",
+     "code_of_civil_procedure_1908__s16",
+     "transfer_of_property_act_1882__s62",
+     "real_estate_regulation_and_development_act_2016__s40",
+     "transfer_of_property_act_1882__s50"
+    ],
+    "citation_issues": []
+   }
+  ]
+ }
+]

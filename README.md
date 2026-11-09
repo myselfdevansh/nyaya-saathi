@@ -109,8 +109,9 @@ BM25 keyword search and hybrid fusion are still in the code (`mode="hybrid"`), b
 | embeddings on the user's words (no LLM), 49 Acts | 55% (59% with the original 23 Acts) |
 | embeddings on the user's words, searching only the agent's Acts (keyword routing) | 59% |
 | embeddings + Gemini rewrite, original 23 Acts, before agents | 64–73% (varies between runs because the rewrites vary) |
+| **the app: router, Gemini rewrite, search in the agent's Acts, 49 Acts** | **77%** (59% in the top 3, 32% first) |
 
-**Routing** (`raw_outputs/agent_eval_*.txt`): the Gemini router sent 26 of 26 test problems to the right agent. Keyword routing alone (the backup router) got 21 of 26, and its misses go to the general agent. The test set is small and I wrote it myself, so treat these as optimistic. Agent-scoped search with the Gemini rewrite has not yet been measured on the retrieval set.
+**Routing** (`raw_outputs/agent_eval_*.txt`): the Gemini router sent 26 of 26 test problems to the right agent. Keyword routing alone (the backup router) got 21 of 26, and its misses go to the general agent. The test set is small and I wrote it myself, so treat these as optimistic.
 
 Lay wording ("time to file a complaint") rarely matches statute wording ("Limitation period"). The LLM rewrite closes part of that gap. Consistent misses: Hinglish cheque bounce, fake-profile identity theft (IT Act 66C/66D), RTI for a pension file, contractor damages (Contract Act s.73), and Hinglish threats.
 

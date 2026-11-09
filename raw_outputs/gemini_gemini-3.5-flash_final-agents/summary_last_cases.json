@@ -1,0 +1,133 @@
+[
+ {
+  "id": "fired_no_notice",
+  "type": "agent_employment",
+  "expect": "Employment agent; only sections whose conditions fit; honest about worker-definition limits",
+  "turns": [
+   {
+    "seconds": 150.0,
+    "flags": [],
+    "language": "English",
+    "agent": "employment",
+    "questions": [
+     "Do you have a written employment contract or offer letter?",
+     "Did you receive any termination letter or email?",
+     "Have you raised this issue with your HR department in writing?",
+     "Are there any unpaid salary or bonus dues?"
+    ],
+    "cited": [
+     "industrial_relations_code_2020__s2",
+     "industrial_relations_code_2020__s70"
+    ],
+    "retrieved": [
+     "industrial_relations_code_2020__s73",
+     "industrial_relations_code_2020__s2",
+     "industrial_relations_code_2020__s70",
+     "code_on_social_security_2020__s59",
+     "code_on_social_security_2020__s54",
+     "industrial_relations_code_2020__s50",
+     "industrial_relations_code_2020__s48",
+     "industrial_relations_code_2020__s90"
+    ],
+    "citation_issues": []
+   }
+  ]
+ },
+ {
+  "id": "upi_fraud_hinglish",
+  "type": "agent_cyber",
+  "expect": "Cyber agent; 1930 first; reply in Hinglish; IT Act / BNS only from sources",
+  "turns": [
+   {
+    "seconds": 73.5,
+    "flags": [],
+    "language": "Hinglish (Latin letters, NOT Devanagari), with about 50% Hindi words and 50% English words in every sentence: use English for legal, official and everyday terms such as complaint, salary, notice, employer, refund, court, proof, payment, and Hindi for verbs and connecting words. Example: \"Aapki salary delay hui hai, toh pehle employer ko written notice bhejiye aur payslips safe rakhiye.\"",
+    "agent": "cyber_criminal",
+    "questions": [
+     "Kya aapne 1930 cyber helpline ya bank ko report kiya?",
+     "Kya aapke paas transaction ID aur screenshots ka proof hai?"
+    ],
+    "cited": [
+     "information_technology_act_2000__s66C"
+    ],
+    "retrieved": [
+     "information_technology_act_2000__s74",
+     "information_technology_act_2000__s66C",
+     "information_technology_act_2000__s44",
+     "information_technology_act_2000__s69B",
+     "bharatiya_nyaya_sanhita_2023__s337",
+     "bharatiya_nyaya_sanhita_2023__s322",
+     "information_technology_act_2000__s71",
+     "bharatiya_nyaya_sanhita_2023__s335"
+    ],
+    "citation_issues": []
+   }
+  ]
+ },
+ {
+  "id": "custody_hi",
+  "type": "agent_family",
+  "expect": "Family agent; reply in Hindi; guardianship law from sources; recommends a lawyer / legal aid",
+  "turns": [
+   {
+    "seconds": 94.2,
+    "flags": [],
+    "language": "Hindi, in Devanagari script",
+    "agent": "family",
+    "questions": [
+     "क्या आप दोनों का विवाह किस कानून (जैसे हिंदू, मुस्लिम, ईसाई) के तहत हुआ था?",
+     "क्या कस्टडी या तलाक को लेकर पहले से कोई कानूनी मामला दर्ज है?",
+     "क्या आप अभी सुरक्षित हैं?"
+    ],
+    "cited": [
+     "prohibition_of_child_marriage_act_2006__s5",
+     "special_marriage_act_1954__s38"
+    ],
+    "retrieved": [
+     "indian_succession_act_1925__s33A",
+     "hindu_succession_act_1956__s15",
+     "special_marriage_act_1954__s29",
+     "prohibition_of_child_marriage_act_2006__s5",
+     "special_marriage_act_1954__s36",
+     "hindu_adoptions_and_maintenance_act_1956__s18",
+     "special_marriage_act_1954__s38",
+     "hindu_marriage_act_1955__s14"
+    ],
+    "citation_issues": []
+   }
+  ]
+ },
+ {
+  "id": "loan_recovery",
+  "type": "agent_banking",
+  "expect": "Banking agent; bank complaint then RBI portal; police for threats; no invented RBI rules or limits",
+  "turns": [
+   {
+    "seconds": 81.9,
+    "flags": [],
+    "language": "English",
+    "agent": "banking",
+    "questions": [
+     "Which bank or NBFC issued the loan?",
+     "Have you complained to the bank in writing about this harassment?",
+     "Did the bank provide a written response to your complaint?",
+     "Is the loan secured against any property?"
+    ],
+    "cited": [
+     "securitisation_and_reconstruction_of_financial_assets_and_enforcement_of_securit__s13"
+    ],
+    "retrieved": [
+     "credit_information_companies_regulation_act_2005__s30",
+     "securitisation_and_reconstruction_of_financial_assets_and_enforcement_of_securit__s17",
+     "securitisation_and_reconstruction_of_financial_assets_and_enforcement_of_securit__s30A",
+     "securitisation_and_reconstruction_of_financial_assets_and_enforcement_of_securit__s18",
+     "securitisation_and_reconstruction_of_financial_assets_and_enforcement_of_securit__s13",
+     "credit_information_companies_regulation_act_2005__s9",
+     "banning_of_unregulated_deposit_schemes_act_2019__s2",
+     "indian_contract_act_1872__s220"
+    ],
+    "citation_issues": []
+   }
+  ]
+ }
+]

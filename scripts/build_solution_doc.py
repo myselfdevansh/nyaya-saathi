@@ -101,8 +101,8 @@ s = [
       "text or voice in English, Hindi or Hinglish, sends it to one of six specialist agents, asks only the questions that "
       "change the answer, and replies in about 150 words with what to do and when a lawyer is needed. Legal claims are limited "
       "to official text from 49 Central Acts, and code checks every citation before the user sees it. The router placed 26 of "
-      "26 test problems correctly. The main weakness is search: it found the right section for only about two-thirds of test "
-      "questions in the best earlier run, and when it misses, answers get thinner or lean on weaker sections.", abstract),
+      "26 test problems correctly. The main weakness is search: it found a right section in the top 8 for 77% of 22 test "
+      "questions, and when it misses, answers get thinner or lean on weaker sections.", abstract),
     NextPageTemplate("second"),
     FrameBreak(),
 
@@ -149,11 +149,11 @@ s = [
     table([["Check", "Result"],
            ["Agent routing, 26 problems in 3 languages", "Gemini 26/26; backup keywords 21/26"],
            ["Right section in top 8, user's words only, 22 questions", "BM25 9%; embeddings 55%; embeddings in keyword-routed agent's Acts 59%"],
-           ["Same, with LLM rewrite (earlier 23-Act version)", "64-73%, varying by run"],
+           ["Same 22, full app (router, rewrite, agent's Acts)", "77% in top 8; 59% in top 3; 32% first"],
            ["Automated guardrail and UI tests, with a stand-in LLM", "11 and 11 pass"],
            ["Fixed: unverifiable ombudsman limits, 4 real answers", "Model stated one in 2; 0 reached the user"],
            ["Voice, generated Hindi audio", "Transcribed correctly in both scripts"],
-           [f"End-to-end conversations, {CASES} in raw outputs", "Unedited, with retrieved sources and checker notes"]],
+           [f"End-to-end conversations, {CASES} unedited", "Right script {0}/{0}; urgent or scope banner 3/3; 0 to 4 questions asked".format(CASES)]],
           [COL * 0.56, COL * 0.44]),
     P("Table 2. Results from real runs. The test sets are small and self-written, so scores are optimistic.", caption),
     P("Good examples from the runs: a delayed flat cites RERA s.18 on return of amount and compensation; an elderly parent "
@@ -166,7 +166,7 @@ s = [
             "Open. Search is the top priority."],
            ["<b>Thin answers.</b> Unpaid salary cites only Code on Wages s.59 (burden of proof) and misses when wages are due and how to claim.",
             "Open."],
-           ["<b>Misapplied law.</b> An earlier run applied Industrial Relations Code s.59 (lay-off dues) to ordinary salary. The checker proves a section was retrieved, not that it fits.",
+           ["<b>Misapplied law.</b> A custody answer cited the Child Marriage Act (s.5) for an ordinary separation; an earlier run used Industrial Relations Code s.59 (lay-off dues) for ordinary salary. The checker proves a section was retrieved, not that it fits.",
             "Reduced by a prompt rule, not solved. Needs a verifier or human review."],
            ["<b>Model ignores instructions.</b> It stated a 30-day RBI wait despite being told not to.",
             "Fixed in code for one-line cases. A limit on a separate line could pass."],
@@ -194,7 +194,7 @@ s = [
       "matter in code."),
 
     P("10. Next steps", head),
-    P("Fix search first, using questions I didn't tune on. Then add a verifier pass and state rent law. Then distil the deciding "
+    P("Fix search first, using questions I didn't tune on; hybrid search reached 86% without agent scope, so it is worth testing inside it. Then add a verifier pass and state rent law. Then distil the deciding "
       "facts from 20-30 judgments per agent into better questions, using the CC-BY Supreme Court and High Court datasets, and "
       "compare the questions before and after."),
 ]

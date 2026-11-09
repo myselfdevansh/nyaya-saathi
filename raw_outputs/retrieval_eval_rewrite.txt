@@ -1,38 +1,36 @@
 Retrieval eval (with LLM rewrite), 22 questions, k=8
 mode      hit@1  hit@3  hit@8    MRR
-bm25        14%    18%    18%   0.16
-dense       18%    41%    64%   0.33
-hybrid      23%    41%    50%   0.32
-pipeline    18%    41%    64%   0.33
+bm25        14%    50%    73%   0.34
+dense       27%    50%    73%   0.42
+hybrid      27%    77%    86%   0.49
+pipeline    27%    50%    73%   0.42
+agents      32%    59%    77%   0.48
 
-Per question (pipeline rank; '-' = not in top 8):
-  [3] (en) I returned a phone to an online shopping site 2 months ago but they still have n
+Per question (agents rank; '-' = not in top 8):
+  [2] (en) I returned a phone to an online shopping site 2 months ago but they still have n
   [1] (en) How much time do I have to file a consumer complaint?
-  [2] (en) The cheque my friend gave me to return a loan bounced because his account had no
-  [-] (hinglish) maine jo cheque diya tha woh bounce ho gaya, ab kya hoga
-       got: indian_contract_act_1872__s65, bharatiya_nyaya_sanhita_2023__s129, indian_contract_act_1872__s29
-  [5] (en) My company has not paid my salary for the last two months
-  [3] (hi) मेरी कंपनी ने तीन महीने से तनख्वाह नहीं दी है
-  [6] (en) My husband and in-laws hit me and threw me out of the house. Can I get protectio
-  [-] (en) My son does not take care of me or give me money for food and medicine. I am 70 
-       got: maintenance_and_welfare_of_parents_and_senior_citizens_act_2007__s9, maintenance_and_welfare_of_parents_and_senior_citizens_act_2007__s16, code_on_social_security_2020__s41
-  [-] (hinglish) beta budhape mein kharcha nahi deta, kya main case kar sakti hoon
-       got: bharatiya_nyaya_sanhita_2023__s46, bharatiya_sakshya_adhiniyam_2023__s12, bharatiya_sakshya_adhiniyam_2023__s108
-  [-] (en) Someone took money from me promising a job and then disappeared
-       got: negotiable_instruments_act_1881__s44, code_on_social_security_2020__s34, sexual_harassment_of_women_at_workplace_prevention_prohibition_and_redressal_act__s13
-  [-] (en) Someone created a fake profile using my photos and name to ask my friends for mo
-       got: bharatiya_nyaya_sanhita_2023__s335, bharatiya_nyaya_sanhita_2023__s344, information_technology_act_2000__s66E
-  [-] (en) How do I ask a government office for information about my pending pension file?
-       got: code_on_social_security_2020__s121, code_on_social_security_2020__s88, code_on_social_security_2020__s73
-  [4] (en) I filed an RTI but got no reply after 30 days, what next?
-  [2] (en) Who can get a free lawyer from the government?
-  [2] (en) My manager keeps making sexual comments at work, how do I complain?
-  [1] (en) My in-laws are demanding more dowry after the wedding
+  [6] (en) The cheque my friend gave me to return a loan bounced because his account had no
+  [2] (hinglish) maine jo cheque diya tha woh bounce ho gaya, ab kya hoga
+  [-] (en) My company has not paid my salary for the last two months
+       got: code_on_wages_2019__s59, code_on_social_security_2020__s77, code_on_social_security_2020__s124
+  [-] (hi) मेरी कंपनी ने तीन महीने से तनख्वाह नहीं दी है
+       got: code_on_wages_2019__s59, code_on_social_security_2020__s77, code_on_wages_2019__s69
+  [-] (en) My husband and in-laws hit me and threw me out of the house. Can I get protectio
+       got: protection_of_women_from_domestic_violence_act_2005__s17, protection_of_women_from_domestic_violence_act_2005__s19, protection_of_women_from_domestic_violence_act_2005__s25
+  [2] (en) My son does not take care of me or give me money for food and medicine. I am 70 
+  [2] (hinglish) beta budhape mein kharcha nahi deta, kya main case kar sakti hoon
+  [3] (en) Someone took money from me promising a job and then disappeared
+  [1] (en) Someone created a fake profile using my photos and name to ask my friends for mo
+  [1] (en) How do I ask a government office for information about my pending pension file?
+  [1] (en) I filed an RTI but got no reply after 30 days, what next?
+  [1] (en) Who can get a free lawyer from the government?
+  [1] (en) My manager keeps making sexual comments at work, how do I complain?
+  [2] (en) My in-laws are demanding more dowry after the wedding
   [1] (en) The builder has delayed possession of my flat by 3 years. Can I get my money bac
-  [1] (en) I was injured when a car hit my bike. How do I claim compensation?
-  [7] (en) Police is refusing to register my FIR
+  [5] (en) I was injured when a car hit my bike. How do I claim compensation?
+  [5] (en) Police is refusing to register my FIR
   [4] (en) My neighbour is spreading false stories about me to damage my reputation
   [-] (en) The contractor took advance and did not finish the work, can I claim damages?
-       got: industrial_relations_code_2020__s75, indian_contract_act_1872__s222, code_on_social_security_2020__s75
+       got: industrial_relations_code_2020__s75, indian_contract_act_1872__s222, indian_easements_act_1882__s50
   [-] (hinglish) padosi jaan se maarne ki dhamki de raha hai
        got: bharatiya_nyaya_sanhita_2023__s252, bharatiya_nyaya_sanhita_2023__s212, bharatiya_nyaya_sanhita_2023__s303
