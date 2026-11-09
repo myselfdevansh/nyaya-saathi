@@ -15,6 +15,8 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT))
 from app import llm  # noqa: E402
+from app import agents  # noqa: E402
+from app.pipeline import intake  # noqa: E402
 from app.retrieve import rewrite, search  # noqa: E402
 
 K = 8  # matches app.retrieve.DEFAULT_K
@@ -27,7 +29,8 @@ def main():
     cases = json.loads((ROOT / "tests" / "retrieval_eval.json").read_text(encoding="utf-8"))
     # bm25/dense/hybrid: each method alone on all queries.
     # pipeline: exactly what the app does (app.retrieve.retrieve).
-    modes = ["bm25", "dense", "hybrid", "pipeline"]
+    # agents: pipeline searching only the Acts of the agent chosen by the app's router.
+    modes = ["bm25", "dense", "hybrid", "pipeline"] + (["agents"] if use_rewrite else [])
     stats = {m: {"hit1": 0, "hit3": 0, "hitk": 0, "mrr": 0.0} for m in modes}
     rows = []
 
@@ -40,7 +43,13 @@ def main():
         row = {"q": c["q"], "lang": c["lang"], "gold": c["gold"], "rewrite": rw}
         rewritten = [q for q in queries if q != c["q"]]
         for m in modes:
-            if m == "pipeline":  # mirrors app.retrieve.retrieve (dense, user words + rewrites)
+            if m == "agents":  # exactly what the app does now
+                agent = intake([{"role": "user", "content": c["q"]}])["agent"]
+                rw_a = rewrite(c["q"], agent)
+                res = search([q for q in rw_a["queries"] if q != c["q"]] + [c["q"]], k=K, mode="dense",
+                             acts=agents.get(agent)["acts"])
+                row["agent"] = agent
+            elif m == "pipeline":  # mirrors app.retrieve.retrieve (dense, user words + rewrites)
                 res = search(rewritten + [c["q"]], areas, k=K, mode="dense")
             else:
                 res = search(queries, areas, k=K, mode=m)
@@ -61,12 +70,13 @@ def main():
     for m in modes:
         s = stats[m]
         lines.append(f"{m:8} {s['hit1']/n:6.0%} {s['hit3']/n:6.0%} {s['hitk']/n:6.0%} {s['mrr']/n:6.2f}")
-    lines.append(f"\nPer question (pipeline rank; '-' = not in top {K}):")
+    shown = modes[-1]
+    lines.append(f"\nPer question ({shown} rank; '-' = not in top {K}):")
     for r in rows:
-        mark = r["pipeline"]["rank"] or "-"
+        mark = r[shown]["rank"] or "-"
         lines.append(f"  [{mark}] ({r['lang']}) {r['q'][:80]}")
-        if not r["pipeline"]["rank"]:
-            lines.append(f"       got: {', '.join(r['pipeline']['top'][:3])}")
+        if not r[shown]["rank"]:
+            lines.append(f"       got: {', '.join(r[shown]['top'][:3])}")
     report = "\n".join(lines)
     sys.stdout.reconfigure(encoding="utf-8")  # Hindi on a Windows console
     print(report)

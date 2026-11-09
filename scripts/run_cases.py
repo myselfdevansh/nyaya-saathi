@@ -16,7 +16,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT))
 from app import llm  # noqa: E402
-from app.pipeline import answer, render  # noqa: E402
+from app.pipeline import answer, intake, render  # noqa: E402
 
 
 def main():
@@ -41,13 +41,17 @@ def main():
             history.append({"role": "user", "content": user_msg})
             t0 = time.time()
             try:
-                res = answer(history)
+                desk = intake(history)
+                res = answer(history, agent=desk["agent"])
             except Exception as e:
                 md += [f"## User\n{user_msg}", f"## ERROR\n{e}"]
                 turn_logs.append({"error": str(e)})
                 break
             history.append({"role": "assistant", "content": res["answer"]})
-            md += [f"## User\n{user_msg}", f"## Assistant\n{render(res)}",
+            asked = [q["q"] for q in desk["questions"]]
+            md += [f"## User\n{user_msg}", f"## Agent: {desk['agent']}",
+                   "## Clarifying questions the app would ask (not answered in this batch run)",
+                   *[f"- {q}" for q in asked], "", f"## Assistant\n{render(res)}",
                    "<details><summary>Retrieved sources</summary>\n",
                    *[f"- {r['id']} ({r['heading']}) score={r['score']}" for r in res["retrieved"]],
                    f"\nRewrite: {json.dumps(res['rewrite'], ensure_ascii=False)}\n</details>", ""]
@@ -55,6 +59,8 @@ def main():
                 "seconds": round(time.time() - t0, 1),
                 "flags": [f["type"] for f in res["flags"]],
                 "language": res["language"],
+                "agent": desk["agent"],
+                "questions": asked,
                 "cited": [s["id"] for s in res["cited_sources"]],
                 "retrieved": [r["id"] for r in res["retrieved"]],
                 "citation_issues": res["citation_issues"],
