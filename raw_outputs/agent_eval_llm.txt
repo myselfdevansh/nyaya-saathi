@@ -1,0 +1,27 @@
+Agent routing (gemini:gemini-3.5-flash), 2026-11-09: 26/26 correct
+ok   (en) want=consumer got=consumer: Amazon has not refunded me for a defective phone I returned last month.
+ok   (en) want=consumer got=consumer: The insurance company rejected my health claim without giving a reason.
+ok   (hinglish) want=consumer got=consumer: Online seller ne galat saman bheja aur ab refund nahi de raha hai
+ok   (hi) want=consumer got=consumer: दुकानदार ने खराब फ्रिज बेचा और अब बदल नहीं रहा है
+ok   (en) want=property got=property: My landlord is not returning my security deposit after I moved out.
+ok   (en) want=property got=property: My neighbour has built a wall on part of my plot.
+ok   (hinglish) want=property got=property: Makan malik bina notice ke ghar khali karne ko bol raha hai
+ok   (hi) want=property got=property: बिल्डर ने तीन साल से फ्लैट का कब्जा नहीं दिया
+ok   (en) want=employment got=employment: My employer has not paid my salary for three months.
+ok   (en) want=employment got=employment: I was fired without notice after complaining to my manager.
+ok   (hinglish) want=employment got=employment: Company ne mera bonus aur full and final abhi tak nahi diya
+ok   (hi) want=employment got=employment: मेरे मैनेजर ऑफिस में मुझे गलत तरीके से छूते हैं
+ok   (en) want=cyber_criminal got=cyber_criminal: Someone made a fake Instagram profile with my photos and is asking my friends for money.
+ok   (en) want=cyber_criminal got=cyber_criminal: A man is threatening to leak my private photos unless I pay him.
+ok   (hinglish) want=cyber_criminal got=cyber_criminal: Mere UPI se kisi ne link bhej kar 20000 rupaye nikal liye
+ok   (hi) want=cyber_criminal got=cyber_criminal: पुलिस मेरी एफआईआर दर्ज नहीं कर रही है, मेरे साथ ठगी हुई है
+ok   (en) want=family got=family: My husband left me and is not giving money for our two children.
+ok   (en) want=family got=family: I want a divorce, and I want custody of my daughter.
+ok   (hinglish) want=family got=family: Sasural wale dahej ke liye pareshan kar rahe hain
+ok   (hi) want=family got=family: पिता की मृत्यु के बाद भाई मुझे जायदाद में हिस्सा नहीं दे रहा
+ok   (en) want=banking got=banking: My bank froze my account without telling me why.
+ok   (en) want=banking got=banking: Loan recovery agents keep calling my family and abusing them.
+ok   (hinglish) want=banking got=banking: Credit card par aisa charge laga hai jo maine kiya hi nahi, bank sun nahi raha
+ok   (hi) want=banking got=banking: मेरा चेक बाउंस हो गया और बैंक ने पेनल्टी काट ली
+ok   (en) want=general got=general: A truck hit my car and the driver ran away. How do I claim compensation?
+ok   (en) want=general got=general: How do I file an RTI for my pension file?

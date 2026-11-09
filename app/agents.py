@@ -25,6 +25,8 @@ CONSUMER_ACT = "The Consumer Protection Act, 2019"
 AGENTS = {
     "consumer": {
         "name": "Consumer Rights",
+        "name_hi": "उपभोक्ता अधिकार",
+        "blurb_hi": "रिफंड, खराब सामान, बीमा",
         "icon": ":material/shopping_bag:",
         "blurb": "Refunds, defects, insurance",
         "acts": [CONSUMER_ACT, "The Sale of Goods Act, 1930", "The Insurance Act, 1938",
@@ -41,6 +43,8 @@ AGENTS = {
     },
     "property": {
         "name": "Property & Rental",
+        "name_hi": "संपत्ति और किराया",
+        "blurb_hi": "डिपॉज़िट, बेदखली, मालिकाना हक",
         "icon": ":material/home:",
         "blurb": "Deposits, eviction, title",
         "acts": ["The Transfer of Property Act, 1882", "The Real Estate (Regulation and Development) Act, 2016",
@@ -58,6 +62,8 @@ AGENTS = {
     },
     "employment": {
         "name": "Employment & Labour",
+        "name_hi": "नौकरी और श्रम",
+        "blurb_hi": "बकाया वेतन, बर्खास्तगी",
         "icon": ":material/work:",
         "blurb": "Unpaid salary, termination",
         "acts": ["The Code on Wages, 2019", "The Industrial Relations Code, 2020",
@@ -77,6 +83,8 @@ AGENTS = {
     },
     "cyber_criminal": {
         "name": "Cybercrime & Criminal",
+        "name_hi": "साइबर और आपराधिक",
+        "blurb_hi": "UPI ठगी, धमकी, FIR",
         "icon": ":material/shield:",
         "blurb": "UPI fraud, threats, FIR",
         "acts": [BNS, BNSS, BSA, IT_ACT, "The Digital Personal Data Protection Act, 2023", LEGAL_AID],
@@ -91,6 +99,8 @@ AGENTS = {
     },
     "family": {
         "name": "Family Law",
+        "name_hi": "पारिवारिक कानून",
+        "blurb_hi": "तलाक, बच्चों की कस्टडी, भरण-पोषण",
         "icon": ":material/family_restroom:",
         "blurb": "Divorce, custody, maintenance",
         "acts": ["The Protection of Women from Domestic Violence Act, 2005", "The Hindu Marriage Act, 1955",
@@ -114,6 +124,8 @@ AGENTS = {
     },
     "banking": {
         "name": "Banking & Finance",
+        "name_hi": "बैंक और वित्त",
+        "blurb_hi": "बैंक विवाद, लोन, चेक",
         "icon": ":material/account_balance:",
         "blurb": "Bank disputes, loans, cheques",
         "acts": ["The Banking Regulation Act, 1949", "The Reserve Bank of India Act, 1934",
@@ -135,6 +147,8 @@ AGENTS = {
     },
     "general": {
         "name": "General",
+        "name_hi": "सामान्य",
+        "blurb_hi": "",
         "icon": ":material/gavel:",
         "blurb": "",
         "acts": None,  # searches every Act

@@ -38,6 +38,14 @@ RULES ABOUT LAW (STRICT)
 
 import re
 
+# Reply languages. The Hinglish wording is also the instruction to the model, so it carries the mix.
+HINDI = "Hindi, in Devanagari script"
+HINGLISH = ("Hinglish (Latin letters, NOT Devanagari), with about 50% Hindi words and 50% English words in "
+            "every sentence: use English for legal, official and everyday terms such as complaint, salary, "
+            "notice, employer, refund, court, proof, payment, and Hindi for verbs and connecting words. "
+            'Example: "Aapki salary delay hui hai, toh pehle employer ko written notice bhejiye aur payslips '
+            'safe rakhiye."')
+
 # Common Hindi words written in English letters; 2+ hits => Hinglish.
 HINGLISH_WORDS = {"mera", "meri", "mere", "mujhe", "maine", "nahi", "nahin", "hai", "hain", "kya", "kar",
                   "karun", "karna", "raha", "rahi", "diya", "di", "ho", "gaya", "gayi", "aur", "bhi", "sir ji",
@@ -47,14 +55,11 @@ HINGLISH_WORDS = {"mera", "meri", "mere", "mujhe", "maine", "nahi", "nahin", "ha
 def detect_language(text):
     """Decided in code, because models were seen replying in Hindi to English questions."""
     if re.search(r"[ऀ-ॿ]", text):
-        return "Hindi, in Devanagari script"
+        return HINDI
     words = set(re.findall(r"[a-z]+", text.lower()))
     if len(words & HINGLISH_WORDS) >= 2:
-        return "Hinglish (Hindi written in English/Latin letters, NOT Devanagari)"
+        return HINGLISH
     return "English"
-
-
-HINGLISH = "Hinglish (Hindi written in English/Latin letters, NOT Devanagari)"
 
 
 # --------------------------------------------- intake: pick the agent, ask its questions
@@ -71,13 +76,14 @@ Rules:
 - Never ask for names, phone numbers, addresses or ID numbers.
 - If the message is a general question about the law, a follow-up answerable from the conversation,
   or already has the key facts, return no questions.
-- At most 3 questions, most important first. One fact per question, under 12 words.
+- At most 8 questions, most important first. Ask as many as the case truly needs, often 2 to 5, and
+  never pad to reach 8. One fact per question, under 12 words.
 - Give 2-4 short answer options when the answer is a choice (e.g. Yes / No); otherwise options = [].
 - Write the questions and options in LANGUAGE.
 Return ONLY JSON: {"agent": "<agent key>", "questions": [{"q": "...", "options": ["...", "..."]}]}"""
 
 
-def intake(history, pinned=None, language=None, max_q=3):
+def intake(history, pinned=None, language=None, max_q=8):
     """
     Returns {"agent": key, "questions": [{"q": str, "options": [str]}]}.
     pinned: the agent the person chose themselves; it isn't overruled.
@@ -95,7 +101,7 @@ def intake(history, pinned=None, language=None, max_q=3):
     convo = "\n".join(f"{m['role'].upper()}: {m['content']}" for m in history[-6:])
     try:
         out = llm.chat_json([{"role": "system", "content": system}, {"role": "user", "content": convo}],
-                            max_tokens=1500)
+                            max_tokens=2500)
     except Exception:
         return {"agent": fallback, "questions": []}
     questions = []
@@ -125,7 +131,8 @@ def answer(history, k=8, agent=None, language=None):
     """
     history: list of {"role": "user"|"assistant", "content": str}, last item = latest user message.
     agent: the specialist to use; chosen by intake() if not given.
-    language: the reply language, e.g. HINGLISH for Hindi speech; otherwise detected from the text.
+    language: the reply language, e.g. HINGLISH for Hindi speech or HINDI in full Hindi mode;
+              otherwise detected from the text.
     Returns a dict with the answer and everything needed to audit it.
     """
     user_turns = [m["content"] for m in history if m["role"] == "user"]

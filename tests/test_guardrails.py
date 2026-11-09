@@ -78,6 +78,9 @@ def test_triage():
     # Hindi speech is transcribed into Latin letters, so urgent Hinglish must be caught, in Hinglish.
     flags = triage("mera pati mujhe roz marta hai", "Hinglish (Hindi written in English/Latin letters)")
     assert flags and flags[0]["type"] == "danger" and "turant 112" in flags[0]["message"]
+    # Full Hindi mode: warnings are in Devanagari even when the text isn't.
+    flags = triage("my husband beats me", "Hindi, in Devanagari script")
+    assert flags and "तुरंत" in flags[0]["message"]
     assert triage("Amazon did not refund my money for a returned phone") == []
     # Hindi (Devanagari)
     assert "danger" in {f["type"] for f in triage("मेरे पति मुझे रोज़ मारते हैं")}

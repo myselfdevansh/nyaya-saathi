@@ -42,14 +42,15 @@ def fake_chat(messages, **kw):
 llm.chat = fake_chat
 
 
-def voice_module_from_voice():
+def voice_module_from_voice(hindi=False):
     """The same rule as streamlit_app.from_voice, which can't be imported without running the app."""
     src = (ROOT / "streamlit_app.py").read_text(encoding="utf-8")
     body = src[src.index("def from_voice"):src.index("def log_feedback")]
     from app.pipeline import HINGLISH
-    scope = {"llm": llm, "HINGLISH": HINGLISH}
+    from app.pipeline import HINDI
+    scope = {"llm": llm, "HINGLISH": HINGLISH, "HINDI": HINDI}
     exec(body, scope)
-    return scope["from_voice"](b"audio")
+    return scope["from_voice"](b"audio", hindi)
 
 
 def buttons(at, label):
@@ -171,8 +172,39 @@ def main():
     assert res["language"] == pipeline.HINGLISH and "Write your ENTIRE reply in Hinglish" in SEEN["answer_system"]
     transcribed["language"] = "english"
     assert voice_module_from_voice()[1] is None, "English speech is not forced to Hinglish"
-    pipeline.intake, pipeline.answer = real_intake, real_answer
+    assert "50% Hindi" in pipeline.HINGLISH, "the model is told the 50-50 mix"
     print("PASS Hindi speech is answered in Hinglish; English speech is not")
+
+    # 8. Hindi button: Hindi speech asks for Devanagari and the reply is forced to Hindi
+    seen = {}
+    def fake_transcribe(audio, fmt="wav", devanagari=False):
+        seen["devanagari"] = devanagari
+        return {"language": "hindi", "text": "मेरी तनख्वाह नहीं मिली"}
+    llm.transcribe = fake_transcribe
+    text, language = voice_module_from_voice(hindi=True)
+    assert seen["devanagari"] and language == pipeline.HINDI
+    res = spy_answer([{"role": "user", "content": text}], agent="employment", language=language)
+    assert "Write your ENTIRE reply in Hindi, in Devanagari" in SEEN["answer_system"]
+    pipeline.intake, pipeline.answer = real_intake, real_answer
+
+    at = AppTest.from_file(str(ROOT / "streamlit_app.py"), default_timeout=180)
+    at.run()
+    [b for b in at.button if b.key == "hindi_btn"][0].click().run()
+    assert at.session_state["hindi"] and at.chat_input[0].placeholder == "अपनी समस्या बताइए…"
+    assert any("क्या हुआ?" in m.value for m in at.markdown)
+    assert "उपभोक्ता अधिकार" in [b for b in at.button if b.key == "card_consumer"][0].label
+    at.chat_input[0].set_value("Refund not received").run()
+    assert "Write the questions and options in Hindi" in SEEN["intake_system"]
+    assert buttons(at, "छोड़ें"), "pop-up buttons in Hindi"
+    print("PASS Hindi button: Hindi voice, questions, answer and screen text in Devanagari")
+
+    # 9. Up to 8 clarifying questions
+    many = ", ".join('{"q": "Q%d?", "options": []}' % i for i in range(10))
+    llm.chat = lambda *a, **k: '{"agent": "consumer", "questions": [%s]}' % many
+    assert len(real_intake([{"role": "user", "content": "refund"}])["questions"]) == 8
+    assert "At most 8 questions" in pipeline.INTAKE_PROMPT
+    llm.chat = fake_chat
+    print("PASS up to 8 clarifying questions")
     print(f"{len(CALLS)} stand-in LLM calls; all UI tests passed")
 
 

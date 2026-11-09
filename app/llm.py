@@ -112,24 +112,28 @@ def chat_json(messages, **kw):
 
 
 TRANSCRIBE_PROMPT = """Transcribe the speech exactly. Do not answer it or add anything.
-- Hindi, or Hindi mixed with English: write it in Hinglish, meaning Hindi words in English/Latin letters,
-  e.g. "meri salary nahi mili". Never use Devanagari. Set language to "hindi".
+- HINDI_RULE Set language to "hindi".
 - English: write it in English. Set language to "english".
 - Any other language: write it in that language's own script. Set language to "other".
 Return ONLY JSON: {"language": "...", "text": "..."}"""
+HINDI_LATIN = ('Hindi, or Hindi mixed with English: write it in Hinglish, meaning Hindi words in English/Latin '
+               'letters, e.g. "meri salary nahi mili". Never use Devanagari.')
+HINDI_DEVANAGARI = "Hindi, or Hindi mixed with English: write all of it in Devanagari. Never use Latin letters."
 
 
-def transcribe(audio_bytes, fmt="wav"):
+def transcribe(audio_bytes, fmt="wav", devanagari=False):
     """
     Speech-to-text through the same chat model (Gemini and GPT-4o-class models accept audio).
+    devanagari: write Hindi speech in Devanagari (full Hindi mode) instead of Latin letters.
     Returns {"language": "hindi"|"english"|"other", "text": str}.
     If the configured model doesn't accept audio, this raises and the UI says voice is unavailable.
     Swap-in alternative: Whisper via Groq's free tier (/audio/transcriptions).
     """
     import base64
 
+    rule = HINDI_DEVANAGARI if devanagari else HINDI_LATIN
     out = chat_json([
-        {"role": "system", "content": TRANSCRIBE_PROMPT},
+        {"role": "system", "content": TRANSCRIBE_PROMPT.replace("HINDI_RULE", rule)},
         {"role": "user", "content": [
             {"type": "input_audio",
              "input_audio": {"data": base64.b64encode(audio_bytes).decode(), "format": fmt}},

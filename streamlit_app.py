@@ -4,8 +4,9 @@ Nyaya Saathi: chat UI for the multi-agent legal assistant.
     streamlit run streamlit_app.py
 
 Flow per message: the front desk picks a specialist agent and, if key facts are missing, asks up to
-3 questions one at a time in a pop-up. The agent then answers briefly from official law text.
-Hindi speech gets its questions and answer in Hinglish. On a hosted app, set LLM_* as secrets.
+8 questions one at a time in a pop-up. The agent then answers briefly from official law text.
+Hindi speech gets its questions and answer in Hinglish, or in Devanagari Hindi when the Hindi button
+is on. On a hosted app, set LLM_* as secrets.
 """
 
 import hashlib
@@ -33,12 +34,55 @@ os.environ.setdefault("LLM_RETRIES", "1")
 from app import agents, llm  # noqa: E402
 from app.guardrails import triage  # noqa: E402
 from app.kb import load_index  # noqa: E402
-from app.pipeline import (DOC_TYPES, HINGLISH, answer, detect_language, draft_document,  # noqa: E402
+from app.pipeline import (DOC_TYPES, HINDI, HINGLISH, answer, detect_language, draft_document,  # noqa: E402
                           intake, with_details)
 from app.retrieve import retrieve  # noqa: E402
 
 FEEDBACK_LOG = Path(__file__).parent / "logs" / "feedback.jsonl"
 CARD_AGENTS = [k for k in agents.AGENTS if k != "general"]
+
+# Screen text in full Hindi mode. Anything not listed stays in English.
+HINDI_TEXT = {
+    "New chat": "नई चैट",
+    "What happened?": "क्या हुआ?",
+    "Tell us in your own words, or pick an area.": "अपने शब्दों में बताइए, या कोई विषय चुनिए।",
+    "Legal information, not legal advice.": "यह कानूनी जानकारी है, कानूनी सलाह नहीं।",
+    "Describe your problem…": "अपनी समस्या बताइए…",
+    "Change area": "विषय बदलें",
+    "Thinking…": "सोच रहे हैं…",
+    "Listening…": "सुन रहे हैं…",
+    "Checking the law…": "कानून देख रहे हैं…",
+    "Question": "प्रश्न",
+    "of": "/",
+    "Type your answer": "अपना जवाब लिखिए",
+    "Next": "आगे",
+    "Skip": "छोड़ें",
+    "Sources": "स्रोत",
+    "Notes": "टिप्पणियाँ",
+    "Draft a document": "दस्तावेज़ बनाइए",
+    "Draft": "बनाइए",
+    "Drafting…": "बना रहे हैं…",
+    "Document": "दस्तावेज़",
+    "Language": "भाषा",
+    "Download": "डाउनलोड",
+    "Voice isn't available right now. Please type.": "आवाज़ अभी उपलब्ध नहीं है। कृपया लिखिए।",
+    "The free AI quota is used up for now. Please try again in a few minutes.":
+        "मुफ्त AI कोटा अभी खत्म हो गया है। कृपया कुछ मिनट बाद फिर कोशिश करें।",
+    "Something went wrong. Please try again.": "कुछ गड़बड़ हो गई। कृपया फिर कोशिश करें।",
+    "For urgent help: legal aid 15100, police 112.": "तुरंत मदद के लिए: कानूनी सहायता 15100, पुलिस 112।",
+}
+
+
+def t(text):
+    """Screen text in the current mode."""
+    return HINDI_TEXT.get(text, text) if st.session_state.get("hindi") else text
+
+
+def agent_label(agent):
+    """(name, blurb) in the current mode."""
+    if st.session_state.get("hindi"):
+        return agent["name_hi"], agent["blurb_hi"]
+    return agent["name"], agent["blurb"]
 
 st.markdown("""<style>
 #MainMenu, footer, [data-testid="stToolbar"], [data-testid="stSidebar"],
@@ -101,7 +145,7 @@ def warm_up():
 
 def init_state():
     for k, v in {"history": [], "results": {}, "pending": None, "draft": None, "pinned": None,
-                 "agent": None}.items():
+                 "agent": None, "hindi": False}.items():
         st.session_state.setdefault(k, v)
 
 
@@ -113,7 +157,7 @@ def submit(text, language=None):
     if not llm.is_configured():
         st.session_state.history.append({"role": "user", "content": text})
         return
-    with st.spinner("Thinking…"):
+    with st.spinner(t("Thinking…")):
         desk = intake(st.session_state.history + [{"role": "user", "content": text}],
                       pinned=st.session_state.pinned, language=language)
     st.session_state.agent = desk["agent"]
@@ -127,13 +171,13 @@ def submit(text, language=None):
 def respond(text, language=None):
     agent = st.session_state.agent or "general"
     st.session_state.history.append({"role": "user", "content": text})
-    with st.spinner(f"{agents.get(agent)['name']} agent is checking the law…"):
+    with st.spinner(t("Checking the law…")):
         try:
             res = answer(st.session_state.history, agent=agent, language=language)
         except Exception as e:
-            why = ("The free AI quota is used up for now. Please try again in a few minutes."
-                   if isinstance(e, llm.RateLimited) else "Something went wrong. Please try again.")
-            res = {"answer": f"{why} For urgent help: legal aid 15100, police 112.", "agent": agent,
+            why = t("The free AI quota is used up for now. Please try again in a few minutes."
+                    if isinstance(e, llm.RateLimited) else "Something went wrong. Please try again.")
+            res = {"answer": f"{why} {t('For urgent help: legal aid 15100, police 112.')}", "agent": agent,
                    "flags": triage(text, language), "cited_sources": [], "citation_issues": []}
     idx = len(st.session_state.history)
     st.session_state.history.append({"role": "assistant", "content": res["answer"]})
@@ -159,9 +203,14 @@ def record(answer_text):
         p["done"] = True
 
 
-def from_voice(audio_bytes):
-    """Returns (text, reply language). Hindi speech is answered in Hinglish."""
-    heard = llm.transcribe(audio_bytes, "wav")
+def from_voice(audio_bytes, hindi=False):
+    """
+    Returns (text, reply language). Hindi speech is answered in Hinglish, or in Devanagari Hindi
+    when the Hindi button is on.
+    """
+    heard = llm.transcribe(audio_bytes, "wav", devanagari=hindi)
+    if hindi:
+        return heard["text"], HINDI
     return heard["text"], HINGLISH if heard["language"] == "hindi" else None
 
 
@@ -183,7 +232,7 @@ def question_dialog():
     i, n = len(p["answers"]), len(p["questions"])
     q = p["questions"][i]
 
-    @st.dialog(f"Question {i + 1} of {n}", on_dismiss=skip_remaining)
+    @st.dialog(f"{t('Question')} {i + 1} {t('of')} {n}", on_dismiss=skip_remaining)
     def ask():
         st.markdown(f"**{q['q']}**")
         if q["options"]:
@@ -193,12 +242,12 @@ def question_dialog():
                     record(opt)
                     st.rerun()
         typed = st.text_input("Answer", key=f"ans_{i}", label_visibility="collapsed",
-                              placeholder="Type your answer")
+                              placeholder=t("Type your answer"))
         c1, c2 = st.columns(2)
-        if c1.button("Next", type="primary", use_container_width=True, key=f"next_{i}"):
+        if c1.button(t("Next"), type="primary", use_container_width=True, key=f"next_{i}"):
             record(typed)
             st.rerun()
-        if c2.button("Skip", use_container_width=True, key=f"skip_{i}"):
+        if c2.button(t("Skip"), use_container_width=True, key=f"skip_{i}"):
             record("")
             st.rerun()
 
@@ -209,15 +258,18 @@ def close_draft():
     st.session_state.draft_open = False
 
 
-@st.dialog("Draft a document", width="large", on_dismiss=close_draft)
 def draft_dialog():
+    st.dialog(t("Draft a document"), width="large", on_dismiss=close_draft)(draft_form)()
+
+
+def draft_form():
     first_user = next(m["content"] for m in st.session_state.history if m["role"] == "user")
     c1, c2 = st.columns([3, 1])
-    doc_type = c1.selectbox("Document", list(DOC_TYPES))
-    language = c2.selectbox("Language", ["English", "Hindi"],
-                            index=1 if detect_language(first_user).startswith("Hindi") else 0)
-    if st.button("Draft", type="primary"):
-        with st.spinner("Drafting…"):
+    doc_type = c1.selectbox(t("Document"), list(DOC_TYPES))
+    language = c2.selectbox(t("Language"), ["English", "Hindi"],
+                            index=1 if st.session_state.hindi or detect_language(first_user).startswith("Hindi") else 0)
+    if st.button(t("Draft"), type="primary"):
+        with st.spinner(t("Drafting…")):
             try:
                 st.session_state.draft = {"type": doc_type, **draft_document(
                     st.session_state.history, doc_type, language, agent=st.session_state.agent)}
@@ -229,23 +281,23 @@ def draft_dialog():
     if d:
         key = "draft_" + hashlib.md5(d["text"].encode()).hexdigest()[:8]
         edited = st.text_area("Draft", d["text"], height=380, key=key, label_visibility="collapsed")
-        st.download_button("Download", edited, use_container_width=True,
+        st.download_button(t("Download"), edited, use_container_width=True,
                            file_name=re.sub(r"[^A-Za-z]+", "_", d["type"].split(" (")[0]).strip("_") + ".txt")
 
 
 # ------------------------------------------------------------------ rendering
 def show_answer(idx, res):
     a = agents.get(res.get("agent"))
-    st.badge(a["name"], icon=a["icon"], color="blue")
+    st.badge(agent_label(a)[0], icon=a["icon"], color="blue")
     for f in res.get("flags", []):
         (st.error if f["type"] == "danger" else st.warning)(f["message"])
     st.markdown(re.sub(r"^#{1,4} ", "##### ", res["answer"], flags=re.M))
     if res.get("cited_sources"):
-        with st.expander("Sources"):
+        with st.expander(t("Sources")):
             for i, s in enumerate(res["cited_sources"], 1):
                 st.markdown(f"[{i}] [{s['act']}, s.{s['section']}]({s['source_url']}): {s['heading']}")
     if res.get("citation_issues"):
-        with st.expander("Notes"):
+        with st.expander(t("Notes")):
             for x in res["citation_issues"]:
                 st.caption(x)
     fb = st.feedback("thumbs", key=f"fb_{idx}")
@@ -264,25 +316,27 @@ def search_only(text):
 
 
 def empty_state():
-    st.markdown('<div class="hero"><h1>What happened?</h1><p>Tell us in your own words, or pick an area.</p></div>',
-                unsafe_allow_html=True)
+    st.markdown(f'<div class="hero"><h1>{t("What happened?")}</h1>'
+                f'<p>{t("Tell us in your own words, or pick an area.")}</p></div>', unsafe_allow_html=True)
     with st.container(key="cards"):
         for k in CARD_AGENTS:
             a = agents.AGENTS[k]
-            if st.button(f"**{a['name']}**\n\n{a['blurb']}", key=f"card_{k}", icon=a["icon"]):
+            name, blurb = agent_label(a)
+            if st.button(f"**{name}**\n\n{blurb}", key=f"card_{k}", icon=a["icon"]):
                 st.session_state.pinned = k
                 st.rerun()
-    st.markdown('<p class="disclaimer">Legal information, not legal advice.</p>', unsafe_allow_html=True)
+    st.markdown(f'<p class="disclaimer">{t("Legal information, not legal advice.")}</p>', unsafe_allow_html=True)
 
 
 def pinned_state():
     a = agents.get(st.session_state.pinned)
-    st.markdown(f'<div class="hero"><h1>{a["name"]}</h1><p>{a["blurb"]}</p></div>', unsafe_allow_html=True)
+    name, blurb = agent_label(a)
+    st.markdown(f'<div class="hero"><h1>{name}</h1><p>{blurb}</p></div>', unsafe_allow_html=True)
     _, mid, _ = st.columns([2, 1, 2])
-    if mid.button("Change area", type="tertiary", use_container_width=True):
+    if mid.button(t("Change area"), type="tertiary", use_container_width=True):
         st.session_state.pinned = None
         st.rerun()
-    st.markdown('<p class="disclaimer">Legal information, not legal advice.</p>', unsafe_allow_html=True)
+    st.markdown(f'<p class="disclaimer">{t("Legal information, not legal advice.")}</p>', unsafe_allow_html=True)
 
 
 def main():
@@ -290,9 +344,14 @@ def main():
     warm_up()
 
     with st.container(key="header"):
-        left, right = st.columns([5, 2], vertical_alignment="center")
+        left, mid, right = st.columns([4, 1.5, 2.2], vertical_alignment="center")
         left.markdown("⚖️ Nyaya Saathi")
-        if right.button("New chat", icon=":material/add:", use_container_width=True):
+        # Full Hindi: questions, answers, warnings and Hindi speech all in Devanagari.
+        if mid.button("हिंदी", key="hindi_btn", use_container_width=True,
+                      type="primary" if st.session_state.hindi else "secondary"):
+            st.session_state.hindi = not st.session_state.hindi
+            st.rerun()
+        if right.button(t("New chat"), icon=":material/add:", use_container_width=True):
             for k in ("history", "results", "pending", "draft", "draft_open", "pinned", "agent"):
                 st.session_state.pop(k, None)
             st.rerun()
@@ -321,22 +380,23 @@ def main():
             st.markdown(p["text"])
 
     if llm.is_configured() and st.session_state.results and not p:
-        if st.button("Draft a document", icon=":material/description:"):
+        if st.button(t("Draft a document"), icon=":material/description:"):
             st.session_state.draft_open = True
         if st.session_state.get("draft_open"):  # stays open across reruns until dismissed
             draft_dialog()
 
-    sent = st.chat_input("Describe your problem…", accept_audio=True)
-    text, language = None, None
+    sent = st.chat_input(t("Describe your problem…"), accept_audio=True)
+    hindi = st.session_state.hindi
+    text, language = None, HINDI if hindi else None
     if sent:
         text = (sent.text or "").strip() or None
         if sent.audio and not text:
             start.empty()
             try:
-                with st.spinner("Listening…"):
-                    text, language = from_voice(sent.audio.getvalue())
+                with st.spinner(t("Listening…")):
+                    text, language = from_voice(sent.audio.getvalue(), hindi)
             except Exception:
-                st.toast("Voice isn't available right now. Please type.")
+                st.toast(t("Voice isn't available right now. Please type."))
     if text:
         start.empty()
         st.session_state.pending = None  # a new message replaces unanswered questions

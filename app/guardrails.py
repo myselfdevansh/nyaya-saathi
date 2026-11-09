@@ -49,13 +49,13 @@ MESSAGES_HI = {
 
 # Same warnings in Hinglish, shown for Hinglish messages and for Hindi speech.
 MESSAGES_HINGLISH = {
-    "danger": "Agar aap abhi khatre mein hain, turant 112 (police) par call karein. Mahilaon ke liye helpline: 181. "
-              "Agar mann mein khud ko nuksan pahunchane ke khayal aa rahe hain, Tele-MANAS 14416 par call karein.",
-    "arrest_court": "Yeh mamla police ya court se juda hai aur isme deadlines hoti hain. Aaj hi vakeel se baat karein. "
-                    "Free legal aid: NALSA 15100 ya apna District Legal Services Authority.",
-    "cyber_fraud": "Online fraud ki shikayat turant 1930 ya cybercrime.gov.in par karein; jaldi karne se paisa roka "
-                   "ja sakta hai.",
-    "out_of_scope": "Yeh vishay is assistant ke daayre se bahar hai. Kripya vakeel se salah lein; free legal aid: "
+    "danger": "Agar aap abhi danger mein hain, turant 112 (police) par call karein. Women's helpline: 181. "
+              "Agar self-harm ke thoughts aa rahe hain, Tele-MANAS 14416 par call karein.",
+    "arrest_court": "Yeh police ya court ka matter hai aur isme deadlines hoti hain. Aaj hi lawyer se baat karein. "
+                    "Free legal aid: NALSA 15100 ya aapki District Legal Services Authority.",
+    "cyber_fraud": "Online fraud ki complaint turant 1930 ya cybercrime.gov.in par karein; jaldi report karne se "
+                   "money freeze ho sakta hai.",
+    "out_of_scope": "Yeh topic is assistant ke scope se bahar hai. Please lawyer se advice lein; free legal aid: "
                     "NALSA 15100.",
 }
 
@@ -64,7 +64,7 @@ def triage(text, language=None):
     """language: the reply language, when the caller knows it. Otherwise follow the script of the text."""
     flags = []
     hinglish = bool(language and language.startswith("Hinglish"))
-    hindi = not hinglish and bool(re.search(r"[ऀ-ॿ]", text))
+    hindi = bool(language and language.startswith("Hindi")) or (not hinglish and bool(re.search(r"[ऀ-ॿ]", text)))
     translated = MESSAGES_HINGLISH if hinglish else MESSAGES_HI if hindi else None
     for name, (pattern, message) in URGENT.items():
         if re.search(pattern, text, re.I) or re.search(URGENT_HI[name], text):

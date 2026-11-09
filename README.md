@@ -45,8 +45,9 @@ streamlit run streamlit_app.py
 
 The first start takes about a minute while the embedding model loads. In the app:
 - **Six specialist agents:** Consumer Rights, Property & Rental, Employment & Labour, Cybercrime & Criminal, Family Law, and Banking & Finance. The app picks one automatically, or the person can choose an area. Anything else goes to a general agent that searches every Act. See [app/agents.py](app/agents.py).
-- **Clarifying questions in a pop-up.** If a message is missing facts that change the legal answer, the chosen agent asks up to 3 questions **one at a time**, with quick-pick options where possible. Skip or close skips the rest. Urgent messages (danger, arrest) skip the questions.
-- **Voice in the text box.** The mic is inside the chat input. Hindi speech is written out in Hinglish, and the questions, urgent warnings and answer are all in Hinglish too.
+- **Clarifying questions in a pop-up.** If a message is missing facts that change the legal answer, the chosen agent asks up to 8 questions **one at a time**, with quick-pick options where possible. Skip or close skips the rest. Urgent messages (danger, arrest) skip the questions.
+- **Voice in the text box.** The mic is inside the chat input. Hindi speech is written out in Hinglish, and the questions, urgent warnings and answer come back in about 50-50 Hinglish.
+- **Full Hindi button.** With the "हिंदी" button on, Hindi speech, questions, answers, warnings and screen text are all in Devanagari.
 - **Short answers:** about 150 words in a fixed format (Where you stand / What to do / Keep as proof / See a lawyer if), with no greeting or filler.
 - Sources (collapsed) with India Code links, and urgent-help banners.
 - A "Draft a document" pop-up (legal notice, consumer complaint, employer/labour complaint, police complaint, RTI). It uses only the facts given and leaves `[PLACEHOLDERS]` for anything missing.
@@ -109,7 +110,7 @@ BM25 keyword search and hybrid fusion are still in the code (`mode="hybrid"`), b
 | embeddings on the user's words, searching only the agent's Acts (keyword routing) | 59% |
 | embeddings + Gemini rewrite, original 23 Acts, before agents | 64–73% (varies between runs because the rewrites vary) |
 
-The agent router and agent-scoped search with the Gemini rewrite have not yet been measured on this set. Keyword routing alone (the backup router) sends 21 of 26 problems to the right agent; its misses go to the general agent.
+**Routing** (`raw_outputs/agent_eval_*.txt`): the Gemini router sent 26 of 26 test problems to the right agent. Keyword routing alone (the backup router) got 21 of 26, and its misses go to the general agent. The test set is small and I wrote it myself, so treat these as optimistic. Agent-scoped search with the Gemini rewrite has not yet been measured on the retrieval set.
 
 Lay wording ("time to file a complaint") rarely matches statute wording ("Limitation period"). The LLM rewrite closes part of that gap. Consistent misses: Hinglish cheque bounce, fake-profile identity theft (IT Act 66C/66D), RTI for a pension file, contractor damages (Contract Act s.73), and Hinglish threats.
 
